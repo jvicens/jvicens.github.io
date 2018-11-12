@@ -962,7 +962,7 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 		}
 
 		.image.vertical {
@@ -2129,10 +2129,16 @@ input, select, textarea {
 			}
 
 			.main.style3 h3 {
-				font-size: 1.5em;
-				line-height: 1em;
 				text-align: left;
-				padding-top: 1em;
+				font-size: 1.0em;
+				line-height: 1.4em;
+				color: inherit;
+			}
+
+			.main.style3 h4 {
+				text-align: left;
+				font-size: 0.75em;
+				color: #ca2f2f;
 			}
 
 		.main.style4 {
@@ -2447,20 +2453,15 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	#projects .highlight h3 {
-		text-align: left;
-		font-size: 1.0em;
-		line-height: 1.4em;
-	}
-
 	#projects .highlight a {
-		color: #000;
+		color: inherit;
 	}
 
 	#projects .highlight p {
 		text-align: left;
 		padding-top: 1em;
 		line-height: 1.4em;
+		font-size: 0.9em;
 	}
 
 	#projects .ul.actions{
