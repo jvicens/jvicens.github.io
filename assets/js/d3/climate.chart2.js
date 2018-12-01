@@ -87,7 +87,6 @@ var heatmapChart2 = function(tsvFile) {
     };
   },
   function(error, data) {
-    console.log(data)
     var domain = d3.range(0, 2, 0.1)
 
     var colorScale2 = d3.scaleLinear()
@@ -179,9 +178,10 @@ datasetpicker.enter()
     heatmapChart(d);
   });
 */
-  datasets.push(document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/clusters-equal.tsv')
-  datasets.push(document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/clusters-unequal.tsv')
+  datasets.push(document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data1.tsv')
+  datasets.push(document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data2.tsv')
   
+  heatmapChart2(datasets[1]);
   heatmapChart2(datasets[1]);
 
 

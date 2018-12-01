@@ -167,6 +167,7 @@ function responsivefy(svg) {
   datasets.push(document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data2.tsv')
   
   heatmapChart1(datasets[0]);
+  heatmapChart1(datasets[0]);
 
 /* Buttons
 

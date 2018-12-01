@@ -9,15 +9,15 @@ var height = height - margins.left - margins.right,
 var colors_blue = ['#FFFFFF', '#F4F0F9', '#E9E2F3', '#DED4ED', '#D3C6E7', '#C8B8E1', '#BDABDB', '#B29DD5', '#A790CF', '#9C83C8', '#9176C2', '#8569BC', '#7A5CB6', '#6E50B0', '#6143AA', '#5437A3', '#462B9D', '#371E97', '#240F91', '#00008B']
 var colors_red = ['#FFFFFF', '#FBF2F0', '#F7E5E1', '#F3D9D2', '#EECCC4', '#E9C0B5', '#E4B3A7', '#DFA799', '#D99B8B', '#D48F7E', '#CD8371', '#C77764', '#C06B57', '#B95E4A', '#B2523E', '#AB4632', '#A33926', '#9B2B1A', '#931A0E', '#8B0000']
 
-var dataset = document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data3.tsv'
 
 /* Render */
 render()
 
 function render() {
 
-  var dataset_absolute = []
+  var dataset = document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data3.tsv'
 
+  var dataset_absolute = []
   d3.tsv(dataset, function(data) {
       for (var i = 0; i < data.length; i++) {
           dataset_absolute.push({"endowment": data[i].endowment +' MUs', 
@@ -142,7 +142,9 @@ function render() {
 }
 
 function updateRelative() {
-  
+
+  var dataset = document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data3.tsv'
+
   var dataset_relative = []
 
   d3.tsv(dataset, function(data) {
@@ -228,6 +230,8 @@ function updateRelative() {
 
 
 function updateAbsolute() {
+  
+  var dataset = document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data3.tsv'
 
   var dataset_absolute = []
   
