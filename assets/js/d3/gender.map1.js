@@ -118,7 +118,7 @@ function mapBarris(error, topo, unenployment) {
         
         changeData(u, color_neighbourhood)
 
-        document.getElementById('table_values').style.backgroundColor = color_neighbourhood;
+//        document.getElementById('table_values').style.backgroundColor = color_neighbourhood;
 
     }
 
@@ -220,18 +220,20 @@ function loadUnemplomentRates() {
 
 function changeData(data, color){
 
-  console.log(data)
   var dataset = [
   {"gender": "Female", "number": data.perc_female},
   {"gender": "Male", "number": data.perc_male},
   ]
   var margins = {top: 100, right: 50, bottom: 50, left: 50}
-var height = 300 - margins.top - margins.bottom,
-    width = 300 - margins.left - margins.right,
-    barPadding = 2
+  var height = 300 - margins.top - margins.bottom,
+      width = 300 - margins.left - margins.right,
+      barPadding = 2
 
   var chart = d3.select("#chart1").call(responsivefy)
-
+  var text = d3.select("#text-neighbourhood").text(data.name_barri)
+  
+  chart.select("#text1").text(data.perc_female.toFixed(2)+ '%')
+  chart.select("#text2").text(data.perc_male.toFixed(2)+ '%')
 
   var yScale = d3.scaleLinear()
   .domain([0,100])
@@ -240,11 +242,11 @@ var height = 300 - margins.top - margins.bottom,
   //})])
   .range([height, 0]);
 
-// Implements the scale as an actual axis
-// >> Orient - places the axis on the left of the graph
-// >> Ticks - number of points on the axis, automated
-var yAxis = d3.axisLeft(yScale)
-              .ticks(4);
+  // Implements the scale as an actual axis
+  // >> Orient - places the axis on the left of the graph
+  // >> Ticks - number of points on the axis, automated
+  var yAxis = d3.axisLeft(yScale)
+                .ticks(4);
 
 
 // Creates a scale for the x-axis based on gender
@@ -253,6 +255,9 @@ var xScale = d3.scaleOrdinal()
     return d.gender;
   }))
   .range([0, width-100], .1);
+
+
+
 
 // Creates an axis based off the xScale properties
   var xAxis = d3.axisBottom(xScale);
@@ -281,8 +286,8 @@ var xScale = d3.scaleOrdinal()
 function showBar(){
 
     var dataset = [
-    {"gender": "Female", "number": 0},
-    {"gender": "Male", "number": 0},
+      {"gender": "Female", "number": 0},
+      {"gender": "Male", "number": 0},
     ]
 
     // Dimensions for the chart: height, width, and space b/t the bars
@@ -320,12 +325,13 @@ function showBar(){
     // >> Select - grabs the empty <div> above this script
     // >> Append - places an <svg> wrapper inside the div
     // >> Attr - applies our height & width values from above
+
     var chart = d3.select("#chart1").append('svg')
     .attr('width', width + margins.left + margins.right)
     .attr('height', height + margins.top + margins.bottom)
     .call(responsivefy)
     .append('g')
-    .attr('transform', 'translate(' + margins.left + ',' + margins.top + ')');
+    .attr('transform', 'translate(' + 60 + ',' + 100 + ')');
 
 
     // For each value in our dataset, places and styles a bar on the chart
@@ -357,7 +363,6 @@ function showBar(){
     })
     .attr('fill', 'black');
 
-
     // Renders the yAxis once the chart is finished
     // >> Moves it to the left 10 pixels so it doesn't overlap
     chart.append('g')
@@ -368,12 +373,12 @@ function showBar(){
     // text label for the y axis
     chart.append("text")
       .attr("transform", "rotate(-90)")
-      .attr("y", 0 - margin.left - 30)
+      .attr("y", 0 - margins.left)
       .attr("x",0 - (height / 2))
-      .attr("dy", ".7em")
-      .style("font-size", ".7em")
+      .attr("dy", ".6em")
+      .style("font-size", ".6em")
       .style("text-anchor", "middle")
-      .text("% unemployment by gender");      
+      .text("% unemployment by gender");         
 
     // Appends the yAxis
     chart.append('g')
@@ -385,6 +390,21 @@ function showBar(){
     chart.append('text')
     .text('')
     .attr('transform', 'translate(0, 0)');
+
+    chart.append('text')
+    .text('')
+    .style("text-anchor", "middle")
+    .attr("class", "label-bars")
+    .attr('transform', 'translate(50, 120)')
+    .attr('id', 'text1');
+
+    chart.append('text')
+    .text('')
+    .style("text-anchor", "middle")
+    .attr("class", "label-bars")
+    .attr('transform', 'translate(150, 120)')
+    .attr('id', 'text2');
+
 
 }
 

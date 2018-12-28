@@ -1,31 +1,29 @@
 
 /* Table */
 table {
-  position: relative;
-  top: 0px;
+  float: center;
   border: 1px solid black;
-  width: 200px;
+  width: 100%;
 }
 th, td {
   text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
+  font-size: 0.6em;
 }
 .table {
-  font-size: 0.6em;
+  font-size: 1em;
   font-weight: 700;
 }
 
 .bloc_black {
   background-color: #000000;
   color: #ffffff;
-  padding: 10px;
+  padding: 5px;
 }
 
 .bloc_white {
   background-color: #ffffff;
   color: #000000;
-  padding: 10px;
+  padding: 5px;
 }
 
 /* Legend */
@@ -35,8 +33,18 @@ th, td {
       margin-bottom: 0px;
 }
 .label {
-      font-size: .6em;   
-  }
+      font-size: .6em;  
+}
+
+.label-bars {
+      font-size: .6em;
+      font-weight: bold;  
+}
+
+.neighbourhood {
+  font-size: .8em;
+  font-weight: bold;
+}
 
 /* Map */
 .mesh {
