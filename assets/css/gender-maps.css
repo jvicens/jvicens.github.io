@@ -1,0 +1,75 @@
+
+/* Table */
+table {
+  position: relative;
+  top: 0px;
+  border: 1px solid black;
+  width: 200px;
+}
+th, td {
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.table {
+  font-size: 0.6em;
+  font-weight: 700;
+}
+
+.bloc_black {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px;
+}
+
+.bloc_white {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px;
+}
+
+/* Legend */
+.legendTitle {
+      font-size: .75em;
+      font-weight: 700;
+      margin-bottom: 0px;
+}
+.label {
+      font-size: .6em;   
+  }
+
+/* Map */
+.mesh {
+  fill: none;
+  stroke: white;
+  stroke-width: 0.01em;
+  stroke-linejoin: round;
+}
+
+/* Bar */
+.bar {
+  margin: 0px 25px;
+  position: absolute;
+  top: 10px;
+}
+
+.axis {
+  font-family: 'Roboto', sans-serif;
+  font-size: .7em;   
+}
+
+.map1{
+  display: inline-block; 
+  float: left;
+  margin-top: 0px;
+  width: 60%;
+  height: 70%;
+}
+
+.chart1{
+  display: inline-block; 
+  float: right;
+  margin-top: 0px;
+  width:40%;
+  height: 70%;
+}

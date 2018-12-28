@@ -109,6 +109,7 @@ var heatmapChart1 = function(tsvFile) {
         .on("mouseover", handleMouseOverEqual)
         .on("mouseout", handleMouseOutEqual);;
 
+    console.log(gridSize)
     cards1.enter().append("text")
         .attr("id", function(d, i) { return "te" + i;})
         .attr("x", function(d, i) { 
@@ -121,7 +122,7 @@ var heatmapChart1 = function(tsvFile) {
         })
         .style("fill", function(d) { return colorScale1(d.value);})
         .attr("class", "text mono")
-        .attr("dx", (gridSize/4))
+        .attr("dx", (gridSize/3))
         .attr("dy", 4)
         .text(function(d) { return parseFloat(d.value).toFixed(2);});
 

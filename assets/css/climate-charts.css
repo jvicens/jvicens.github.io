@@ -2,13 +2,13 @@
     position: relative;
     width:100%;
     overflow: hidden;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
 }
 
 text,.xaxis,.yaxis text {
-  font-size: 1.4em;
-  font-family: 'Playfair Display', serif;
-  font-weight: bold;
+  font-size: 1em;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
 }
 
 /********************
@@ -21,8 +21,8 @@ rect.bordered {
 }
 
 text.mono {
-  font-size: .7em;
-  font-family: 'Playfair Display', serif;
+  font-size: .6em;
+  font-family: 'Roboto Slab', serif;
   fill: #000;
 }
 
@@ -37,7 +37,7 @@ text.axis-worktime {
 /* Legend */
 .label {
   font-size: .6em;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto Slab', serif;
   fill: #000;
 }
 
@@ -52,7 +52,7 @@ text.axis-worktime {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto Slab', serif;
 }
 .button-viz-selected {
   /* background-color: black; */
@@ -61,7 +61,7 @@ text.axis-worktime {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 .main {
@@ -82,10 +82,9 @@ rect:hover {
 ******************/
 
 svg {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
 }
 .line {
-  stroke-width: 2px;
   fill: none;
 }
 
@@ -97,15 +96,15 @@ svg {
   font-size: 12px;
 }
 
+/*
 .axis text {
   font-size: 1.6em;
   font-weight: bold;
   fill:black;
-
 }
-
+*/
 .title-text {
-  font-size: 0.8em;
+  font-size: 0.5em;
   font-weight: bold;
 
 }
@@ -120,9 +119,10 @@ svg {
 .grid path {
   stroke-width: 0;
 }
-
+/*
 .grid text {
   font-size: 1.6em;
   font-weight: bold;
   fill:black;
 }
+*/

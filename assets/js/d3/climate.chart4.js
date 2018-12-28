@@ -1,14 +1,17 @@
-var width = 700;
-var height = 500;
-var margin_top = 20;
-var margin_side = 100;
 var duration = 250;
+
+var width_chart4 = 400;
+var height_chart4 = 300;
+
+var margins_chart4 = {top: 20, right: 20, bottom: 25, left: 35}
+var height_chart4 = height_chart4 - margins_chart4.left - margins_chart4.right,
+    width_chart4 = width_chart4 - margins_chart4.top - margins_chart4.bottom;
 
 var lineOpacity = "0.25";
 var lineOpacityHover = "0.9";
 var otherLinesOpacityHover = "0.1";
-var lineStroke = "2px";
-var lineStrokeHover = "4px";
+var lineStroke = "1px";
+var lineStrokeHover = "2px";
 
 var circleOpacity = '0.9';
 var circleOpacityOnLineHover = "0.25"
@@ -19,7 +22,6 @@ var circleRadiusHover = 6;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
 var dataset = document.URL.split('/').slice(0, -2).join('/') + '/data/climate_paper/data4.csv'
-
 
 // Get the data
 d3.csv(dataset, function(error, data) {
@@ -43,46 +45,42 @@ d3.csv(dataset, function(error, data) {
 });
         
 
-
 function draw(data){
     /* Scale */
     var xScale = d3.scaleLinear()
       .domain([1,10])
-      .range([0, width-margin_side]);
+      .range([0, width_chart4-(margins_chart4.right+margins_chart4.left)]);
 
     var yScale = d3.scaleLinear()
       .domain([0, 180])
-      .range([height-margin_top, 0]);
+      .range([height_chart4-(margins_chart4.top+margins_chart4.bottom), 0]);
 
     /* Add SVG */
     var svg = d3.select("#chart4").append("svg")
-      .attr("width", (width+margin_side)+"px")
-      .attr("height", (height+margin_top)+"px")
+      .attr("width", (width_chart4+margins_chart4.right)+"px")
+      .attr("height", (height_chart4+margins_chart4.top)+"px")
       .call(responsivefy)
       .append('g')
-      .attr("transform", `translate(${margin_side}, ${margin_top})`);
+      .attr("transform", `translate(${margins_chart4.left}, ${margins_chart4.top})`);
 
     /* Gridlines in y axis function */
     var yGrid = d3.axisLeft(yScale)
                   .ticks(6)
-                  .tickSize(-width+10)
+                  .tickSize(-width_chart4)
 
     svg.append("g")     
         .attr("class", "grid")
-        .attr("transform", "translate(-10, -10)")
+        .attr("transform", "translate(0, 10)")
         .call(yGrid)
         .append('text')
-        .attr("y", 15)
-        .attr("transform", "rotate(-90), translate(0, 0)")
-        .text("Contribution per session")
         .attr("fill", "#000")
-        .append('text')
-        .attr("y", 15)
-        .attr("transform", "rotate(-90), translate(20, 20)")
-        .text("Contribution per session")
-        .attr("fill", "#000")
-    
-
+        .attr("transform", "rotate(-90)")
+        .attr("y", -30)
+        .attr("x", -100)
+        .attr("dy", ".6em")
+        .style("font-size", ".8em")
+        .style("text-anchor", "middle")
+        .text("Contribution per session (MUs)");
 
     /* Add line into SVG */
     var line = d3.line()
@@ -96,14 +94,14 @@ function draw(data){
       .data(data).enter()
       .append('g')
       .attr('class', 'line-group')  
-      .attr("transform", "translate(10,-10)")
+      .attr("transform", "translate(10,10)")
       .on("mouseover", function(d, i) {
           svg.append("text")
             .attr("class", "title-text")
             .style("fill", color(i))        
             .text(d.name)
             .attr("text-anchor", "middle")
-            .attr("x", (width-margin_side)/2)
+            .attr("x", (width_chart4-(margins_chart4.left+margins_chart4.right))/2)
             .attr("y", 20);
         })
       .on("mouseout", function(d) {
@@ -146,7 +144,7 @@ function draw(data){
       .data(d => d.values).enter()
       .append("g")
       .attr("class", "circle")  
-      .attr("transform", "translate(10,-10)")
+      .attr("transform", "translate(10,10)")
       .on("mouseover", function(d) {
           d3.select(this)     
             .style("cursor", "pointer")
@@ -187,8 +185,17 @@ function draw(data){
 
     svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", `translate(10, ${height-margin_top})`)
-      .call(xAxis);
+      .attr("transform", `translate(10, ${height_chart4-margins_chart4.bottom})`)
+      .call(xAxis)
+      .append('text')
+      .attr("fill", "#000")
+      .attr("transform", "rotate(0)")
+      .attr("y", 20)
+      .attr("x", (width_chart4-(margins_chart4.left+margins_chart4.right))/2)
+      .attr("dy", ".6em")
+      .style("font-size", ".8em")
+      .style("text-anchor", "middle")
+      .text("Round");
 
     /*
     var yAxis = d3.axisLeft(yScale).ticks(10);

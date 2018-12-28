@@ -122,7 +122,7 @@ var heatmapChart2 = function(tsvFile) {
         })
         .style("fill", function(d) { return colorScale2(d.value);})
         .attr("class", "text mono")
-        .attr("dx", (gridSize/4))
+        .attr("dx", (gridSize/3))
         .attr("dy", 4)
         .text(function(d) { return parseFloat(d.value).toFixed(2);});
 
