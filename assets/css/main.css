@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700|Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i');
-/*
-@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700|Playfair+Display:400,400i,700,700i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-*/
 @import url("font-awesome.min.css");
 /*
 	Big Picture by HTML5 UP
@@ -2605,7 +2602,7 @@ input, select, textarea {
 /*		background: url("../../images/natural_patterns_01.png");*/
 /*		background: url("../../images/bereniceabbott-interferencespatterns.jpg");*/
 /*		background: url("images/photo.jpg"), url("../../images/bereniceabbott-interferencespatterns.jpg");*/
-		background: url("../../images/robertherobot-overlay.png");
+		background: url("../../images/robertherobot-overlay.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top center, bottom center;
