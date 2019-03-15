@@ -1,6 +1,10 @@
 # Site settings
 title: Julián Vicens
 author: Julián Vicens
+subtitle: ""
+url: "https://jvicens.github.io" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/"
 social:
   name: Julián Vicens
   links:
@@ -8,9 +12,5 @@ social:
     - https://www.linkedin.com/in/julian-vicens-b17a1824/
 twitter: 
   username: julianvicens
-subtitle: ""
-url: "https://jvicens.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/"
 plugins:
   - jekyll-seo-tag
