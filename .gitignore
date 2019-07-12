@@ -1,0 +1,8 @@
+# Ignore folder data/bcn-geodata
+# data/bcn-geodata
+
+# Ignore a file README.txt
+# README.txt
+
+# Ignore all .py
+# *.py
