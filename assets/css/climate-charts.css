@@ -1,0 +1,128 @@
+.chart {
+    position: relative;
+    width:100%;
+    overflow: hidden;
+    font-family: 'Roboto Slab', serif;
+}
+
+text,.xaxis,.yaxis text {
+  font-size: 1em;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+}
+
+/********************
+***** Chart 1-2 *****
+********************/
+
+rect.bordered {
+  stroke: #ffffff;
+  stroke-width:1px;   
+}
+
+text.mono {
+  font-size: .6em;
+  font-family: 'Roboto Slab', serif;
+  fill: #000;
+}
+
+text.axis-workweek {
+  fill: #000;
+}
+
+text.axis-worktime {
+  fill: #000;
+}
+
+/* Legend */
+.label {
+  font-size: .6em;
+  font-family: 'Roboto Slab', serif;
+  fill: #000;
+}
+
+/******************
+***** Chart 3 *****
+******************/
+
+.button-viz {
+  background-color: #f7f7f7;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Roboto Slab', serif;
+}
+.button-viz-selected {
+  /* background-color: black; */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Roboto Slab', serif;
+}
+
+.main {
+  margin: 0px 25px;
+}
+
+svg {
+  padding: 20px 40px;
+}
+
+
+rect:hover {
+  fill: #f7f7f7;
+}
+
+/******************
+***** Chart 4 *****
+******************/
+
+svg {
+    font-family: 'Roboto Slab', serif;
+}
+.line {
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+/*
+.axis text {
+  font-size: 1.6em;
+  font-weight: bold;
+  fill:black;
+}
+*/
+.title-text {
+  font-size: 0.5em;
+  font-weight: bold;
+
+}
+
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.5;
+  stroke-width: 0.25px;
+  shape-rendering: auto;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+/*
+.grid text {
+  font-size: 1.6em;
+  font-weight: bold;
+  fill:black;
+}
+*/
