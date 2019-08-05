@@ -3,6 +3,9 @@
 
 # Ignore a file README.txt
 # README.txt
+elements.html
+generic.html
+README.txt
 
 # Ignore all .py
 # *.py
