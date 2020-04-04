@@ -3049,13 +3049,14 @@ input, select, textarea {
 
 
 		header > p {
-			font-style: italic;
+			font-style: normal;
+			font-weight: 600;
 		}
 
 		header > h1 + p {
-			font-size: 1.1rem;
+			font-size: 1rem;
 			margin-top: -0.5rem;
-			line-height: 2;
+			line-height: 1.5;
 		}
 
 		header > h2 + p {
