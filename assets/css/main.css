@@ -3709,7 +3709,7 @@ input, select, textarea {
 			-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
 			transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
 			pointer-events: auto;
-			border-style: solid;
+			border-style: none;
 			border-color: #ffffff;
 			border-width: 0px !important;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
