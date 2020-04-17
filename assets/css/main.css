@@ -2597,7 +2597,7 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
+			/* display: block; */
 		}
 
 		.image.left, .image.right {
@@ -2638,7 +2638,7 @@ input, select, textarea {
 		.image.fit_header {
 			display: block;
 			margin: 2.5rem 0;
-			width: 70%;
+			width: 90%;
 		}
 
 			.image.fit_header:first-child {
@@ -3717,7 +3717,7 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			line-height: 1;
-			padding: 1rem 1.75rem;
+			padding: 0rem 0rem;
 			text-transform: uppercase;
 			visibility: visible;
 		}
@@ -3731,7 +3731,7 @@ input, select, textarea {
 
 			#header {
 				height: 14rem;
-				padding-bottom: 4rem;
+				padding-bottom: 0rem;
 			}
 
 		}
@@ -3739,7 +3739,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				padding-bottom: 3rem;
+				padding-bottom: 0rem;
 			}
 
 				#header .logo {
