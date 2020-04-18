@@ -2697,7 +2697,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 4rem 0;
+			margin: 1rem 0;
 			width: 100%;
 		}
 
@@ -2725,7 +2725,7 @@ input, select, textarea {
 			}
 
 			.image.main {
-				margin: 2rem 0;
+				margin: 0.5rem 0;
 			}
 
 			.image.caption {
@@ -2764,7 +2764,7 @@ input, select, textarea {
 	    padding-bottom: 56.25%;
 	    height: 0;
 	    overflow: hidden;
-	    margin-bottom: 4rem;
+	    margin-bottom: 2rem;
 	}
 	.embed-container iframe {
 	    position: absolute;
