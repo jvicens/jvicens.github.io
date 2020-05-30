@@ -2558,6 +2558,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		margin-top: 0.5em;
 	}
 
 		.icon:before {
