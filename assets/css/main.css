@@ -2994,6 +2994,7 @@ input, select, textarea {
 
 		dl dd {
 			margin-left: 2rem;
+			text-align: justify;
 		}
 
 	ul.divided li {
