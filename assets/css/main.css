@@ -3633,6 +3633,8 @@ input, select, textarea {
 				#intro p {
 					font-size: 0.75rem;
 					margin-top: 0rem;
+					padding-right: 0em;
+					padding-left: 0em;
 				}
 
 				#intro .actions {
@@ -3735,21 +3737,23 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: 14rem;
+				height: 10rem;
 				padding-bottom: 0rem;
 			}
-
+				#header .logo {
+						margin: auto;
+				}
 		}
 
 		@media screen and (max-width: 736px) {
 
 			#header {
+				height: 8rem;
 				padding-bottom: 0rem;
 			}
 
 				#header .logo {
-					font-size: 1.75rem;
-					border-width: 3px !important;
+					margin: auto;
 				}
 
 		}
