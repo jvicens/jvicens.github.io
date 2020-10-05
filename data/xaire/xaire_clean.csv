@@ -1,0 +1,726 @@
+,codi,escola,lat,long,adreça,postal_code,district,neighborhood,tipus,no2_raw,no2_corregit,no2_2017,census_track,renta,barri,poblacio
+0,1003091,80Tubes,"41,39772","2,14974","carrer denia, 2-4",8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"38,2904473508225",41,39,5069,21886,Sant Gervasi - Galvany,1758
+1,1003092,80Tubes,"41,39818","2,14838","plaça cardona, 1-2",8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,"42,6174212677432",46,44,5070,21586,Sant Gervasi - Galvany,1455
+2,1003093,80Tubes,"41,3991551297","2,14561053492",carrer aribau 265,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"26,4546604741036",28,27,5074,25406,Sant Gervasi - Galvany,1722
+3,1003094,80Tubes,"41,40136626","2,14825919771","via augusta, 114",8006,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,"60,0091571672756",64,62,5081,20108,el Putget i Farró,1607
+4,1003095,80Tubes,"41,4037416456","2,14260235255",carrer balmes 350-352,8006,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,"98,9314735825255",106,102,5087,20829,el Putget i Farró,1647
+5,1003096,80Tubes,"41,40591","2,14341",c/ saragossa amb c/putxet,8023,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,"45,0467431076779",48,46,5092,26847,el Putget i Farró,1591
+6,1003097,80Tubes,"41,4056019052","2,13943390282",c/balmes 392,8022,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,"59,4549936835868",64,62,5093,22232,el Putget i Farró,1153
+7,1003098,80Tubes,"41,3965822774","2,16191009348","carrer pau claris, 185",8037,Eixample,la Dreta de l'Eixample,tràfic,"85,8687564836174",92,89,2082,22869,la Dreta de l'Eixample,934
+8,1003099,80Tubes,"41,39506","2,16209","carrer provença, 298",8008,Eixample,la Dreta de l'Eixample,tràfic,"56,1525065021941",60,58,2080,25328,la Dreta de l'Eixample,1450
+9,1003102,80Tubes,"41,39337","2,16351","passeig de gracia, 70",8008,Eixample,la Dreta de l'Eixample,tràfic,"59,698334844321",64,62,2080,25328,la Dreta de l'Eixample,1450
+10,1018456,80Tubes,"41,39429","2,16485","carrer pau claris, 149",8009,Eixample,la Dreta de l'Eixample,tràfic,"79,1083709593547",85,82,2080,25328,la Dreta de l'Eixample,1450
+11,1018457,80Tubes,"41,39088","2,17031","gran via, 654",8010,Eixample,la Dreta de l'Eixample,tràfic,"62,2503497064746",67,64,2077,21540,la Dreta de l'Eixample,1539
+12,1090427,Escola Els Horts (Sant Martí),"41,4243408987936","2,2011979362083",rambla prim 217,8020,Sant Martí,la Verneda i la Pau,pati,"30,975898342871",33,32,10135,12015,la Verneda i la Pau,1229
+13,1090428,Escola Els Horts (Sant Martí),"41,42378","2,20245",zona residencial,8020,Sant Martí,la Verneda i la Pau,tràfic,"32,8817299546716",35,34,10135,12015,la Verneda i la Pau,1229
+14,1090429,Escola Els Horts (Sant Martí),"41,42319","2,2032",rambla prim/menorca,8020,Sant Martí,la Verneda i la Pau,fons,"31,8879164746983",34,33,10135,12015,la Verneda i la Pau,1229
+15,1090430,Escola Els Horts (Sant Martí),"41,424160680305","2,20143817026167",rambla prim 222,8020,Sant Martí,la Verneda i la Pau,pati,"32,3561948428339",35,34,10135,12015,la Verneda i la Pau,1229
+16,1090432,Escola Els Horts (Sant Martí),"41,42119","2,20331",rambla guipuzcoa,8020,Sant Martí,la Verneda i la Pau,tràfic,"31,4809846176722",34,33,10130,13434,la Verneda i la Pau,1204
+17,1090433,Escola Els Horts (Sant Martí),"41,42056","2,20244",rambla gipuzcoa,8020,Sant Martí,la Verneda i la Pau,tràfic,"34,5339959872197",37,36,10131,15045,la Verneda i la Pau,1187
+18,1090434,Escola Els Horts (Sant Martí),"41,41991","2,20161",rambla guipuzcoa,8020,Sant Martí,la Verneda i la Pau,tràfic,"39,0061566470995",42,40,10131,15045,la Verneda i la Pau,1187
+19,1090435,Escola Els Horts (Sant Martí),"41,4247334405251","2,19985065980602",carrer cantabria cantonada puigerda 298,8020,Sant Martí,la Verneda i la Pau,tràfic,"33,0146473954087",35,34,10135,12015,la Verneda i la Pau,1229
+20,1090436,Escola Els Horts (Sant Martí),"41,42023","2,20077",c/cantàbria 28,8020,Sant Martí,la Verneda i la Pau,tràfic,"37,4827182878812",40,38,10131,15045,la Verneda i la Pau,1187
+21,1090437,Escola Els Horts (Sant Martí),"41,42094","2,20004",c/cantàbria 42,8020,Sant Martí,la Verneda i la Pau,tràfic,"34,1352436650082",37,36,10131,15045,la Verneda i la Pau,1187
+22,1090438,Escola Els Horts (Sant Martí),"41,4217604309877","2,19904132287353",carrer cantabria 52,8020,Sant Martí,la Verneda i la Pau,tràfic,"34,6117015679584",37,36,10133,12060,la Verneda i la Pau,1677
+23,1090439,Escola Els Horts (Sant Martí),"41,4234268733007","2,19888648660055",c/cantàbria 64,8020,Sant Martí,la Verneda i la Pau,tràfic,"29,2561511481024",31,30,10133,12060,la Verneda i la Pau,1677
+24,1090440,Escola Els Horts (Sant Martí),"41,4232139854992","2,1982755832637",carrer cantabria 71 bis,8020,Sant Martí,la Verneda i la Pau,tràfic,"41,2698429070387",44,42,10134,11892,la Verneda i la Pau,1501
+25,1090441,Escola Els Horts (Sant Martí),"41,4262078342421","2,20125226084919","santander, 32",8020,Sant Martí,la Verneda i la Pau,tràfic,"35,4828220257127",38,37,10137,10558,la Verneda i la Pau,1572
+26,1090442,Escola Els Horts (Sant Martí),"41,4273744049682","2,20221607746924","santander, 42-48",8020,Sant Martí,la Verneda i la Pau,tràfic,"31,8551983354399",34,33,10137,10558,la Verneda i la Pau,1572
+27,1090444,Escola Els Horts (Sant Martí),"41,42848","2,204",via trajana 38,8020,Sant Martí,la Verneda i la Pau,fons,"32,3459704243156",35,34,10137,10558,la Verneda i la Pau,1572
+28,1090445,Escola Els Horts (Sant Martí),"41,42801","2,204",rambla guipuzcua cami de la verneda,8020,Sant Martí,la Verneda i la Pau,fons,"38,4499482797071",41,39,10137,10558,la Verneda i la Pau,1572
+29,1090446,Escola Els Horts (Sant Martí),"41,42704","2,20604",rambla guipuzcoa 144,8020,Sant Martí,la Verneda i la Pau,tràfic,"37,9366824700912",41,39,10138,9836,la Verneda i la Pau,1566
+30,1090447,Escola Els Horts (Sant Martí),"41,42657","2,20705",rambla gipuzcoa 149,8020,Sant Martí,la Verneda i la Pau,fons,"38,4376789774852",41,39,10138,9836,la Verneda i la Pau,1566
+31,1090450,Escola Els Horts (Sant Martí),"41,42458","2,20785",via trajana 386,8020,Sant Martí,la Verneda i la Pau,fons,"39,5071531544935",42,40,10138,9836,la Verneda i la Pau,1566
+32,1090452,Escola Els Horts (Sant Martí),"41,42301","2,20599",via trajana 26,8020,Sant Martí,la Verneda i la Pau,fons,"34,805965519805",37,36,10140,10410,la Verneda i la Pau,1627
+33,1090454,Escola Els Horts (Sant Martí),"41,4246104788085","2,20366108699049",binefar can oliva,8020,Sant Martí,la Verneda i la Pau,tràfic,"32,7365432117125",35,34,10138,9836,la Verneda i la Pau,1566
+34,1090455,Escola Els Horts (Sant Martí),"41,4251997623935","2,20409065220059",binefar 17,8020,Sant Martí,la Verneda i la Pau,tràfic,"30,6793902058419",33,32,10137,10558,la Verneda i la Pau,1572
+35,1090456,Escola Els Horts (Sant Martí),"41,4261340942175","2,20504617334683",binefar 27,8020,Sant Martí,la Verneda i la Pau,fons,"28,879892546631",31,30,10137,10558,la Verneda i la Pau,1572
+36,1090457,Escola Els Horts (Sant Martí),"41,4246261230369","2,20213991227737",rambla prim 242,8020,Sant Martí,la Verneda i la Pau,fons,"33,7017283198347",36,35,10136,12514,la Verneda i la Pau,1338
+37,1090458,Escola Els Horts (Sant Martí),"41,42311667451","2,20276699600155","menorca, 65",8020,Sant Martí,la Verneda i la Pau,fons,"31,4380420598956",34,33,10135,12015,la Verneda i la Pau,1229
+38,1090459,Escola Els Horts (Sant Martí),"41,4229207818611","2,20183533667024",menorca 55,8020,Sant Martí,la Verneda i la Pau,tràfic,"29,3461260310629",31,30,10135,12015,la Verneda i la Pau,1229
+39,1090460,Escola Els Horts (Sant Martí),"41,4218629247342","2,20083117576951","menorca, 92",8020,Sant Martí,la Verneda i la Pau,tràfic,"30,6916595080638",33,32,10132,12199,la Verneda i la Pau,1270
+40,1090461,Escola Els Horts (Sant Martí),"41,4205542269953","2,19573382300637",parc de sant marti,8020,Sant Martí,Sant Martí de Provençals,fons,"28,8839823140383",31,30,10115,12677,Sant Martí de Provençals,1475
+41,1090462,Escola Els Horts (Sant Martí),"41,4231343705584","2,20076989674173",carrer puixerda 295,8020,Sant Martí,la Verneda i la Pau,fons,"32,0780906591376",34,33,10133,12060,la Verneda i la Pau,1677
+42,1090463,Escola Els Horts (Sant Martí),"41,4242233410593","2,20153850558115",rambla orim 217,8020,Sant Martí,la Verneda i la Pau,aula,"31,656844616186",34,33,10135,12015,la Verneda i la Pau,1229
+43,1090464,Escola Els Horts (Sant Martí),"41,4244","2,20159",rambla prim 217,8020,Sant Martí,la Verneda i la Pau,tràfic,"42,2043547596061",45,43,10135,12015,la Verneda i la Pau,1229
+44,1090465,Escola Els Horts (Sant Martí),"41,4241393931828","2,20168453924019",rambla prim 217,8020,Sant Martí,la Verneda i la Pau,aula,"36,7322459686421",39,38,10135,12015,la Verneda i la Pau,1229
+45,1090466,Escola Els Horts (Sant Martí),"41,4244","2,20159",rambla prim 217,8020,Sant Martí,la Verneda i la Pau,tràfic,"34,1188845953791",37,36,10135,12015,la Verneda i la Pau,1229
+46,1090469,Escola Sant Martí (Sant Martí),"41,4044383052101","2,19762518683214","sant joan de malta, 130",8018,Sant Martí,el Poblenou,pati,"22,0676540379586",24,23,10067,20163,el Poblenou,1950
+47,1090470,Escola Sant Martí (Sant Martí),"41,4046596083099","2,19786640920011","sant joan de malta, 130",8018,Sant Martí,el Poblenou,aula,"41,2012060049652",44,42,10067,20163,el Poblenou,1950
+48,1090473,Escola Sant Martí (Sant Martí),"41,407839","2,202897",parc del centrre de poblenou entre bac de roda i cristobal moure,8018,Sant Martí,Provençals del Poblenou,fons,"35,1790286734817",38,37,10096,16474,Provençals del Poblenou,1625
+49,1090474,Escola Sant Martí (Sant Martí),"41,406171","2,204514","pallarts, 320",8018,Sant Martí,el Poblenou,tràfic,"46,1099886882257",49,47,10075,13733,el Poblenou,1488
+50,1090475,Escola Sant Martí (Sant Martí),"41,405558","2,204272","espronceda, 113",8018,Sant Martí,el Poblenou,tràfic,"44,5518795772521",48,46,10074,13952,el Poblenou,1664
+51,1090476,Escola Sant Martí (Sant Martí),"41,401793","2,210294",jardins de joan fusteri ortells,8005,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,fons,"43,481171315139",47,45,10078,19030,Diagonal Mar i el Front Marítim del Poblenou,2432
+52,1090477,Escola Sant Martí (Sant Martí),"41,4027778","2,205833","lope de vega, 48",8005,Sant Martí,el Poblenou,tràfic,"41,0291331513671",44,42,10073,13303,el Poblenou,1485
+53,1090478,Escola Sant Martí (Sant Martí),"41,4038889","2,203333","pujades, 227",8018,Sant Martí,el Poblenou,tràfic,"48,6208235732038",52,50,10070,13977,el Poblenou,1654
+54,1090480,Escola Sant Martí (Sant Martí),"41,4034841844984","2,19286245192862",jardí ca l'aranyó,8018,Sant Martí,el Parc i la Llacuna del Poblenou,fons,"11,724384163131",13,13,10042,12803,el Parc i la Llacuna del Poblenou,2649
+55,1090481,Escola Sant Martí (Sant Martí),"41,40192","2,18975","carrer bolivia, 40",8018,Sant Martí,el Parc i la Llacuna del Poblenou,tràfic,"52,3313822982184",56,54,10042,12803,el Parc i la Llacuna del Poblenou,2649
+56,1090482,Escola Sant Martí (Sant Martí),"41,4018781585398","2,1923591147085","carrer tanger, 86",8018,Sant Martí,el Parc i la Llacuna del Poblenou,tràfic,"53,8463351367462",58,56,10042,12803,el Parc i la Llacuna del Poblenou,2649
+57,1090483,Escola Sant Martí (Sant Martí),"41,40046","2,19233","sancho de àvila, 104",8018,Sant Martí,el Parc i la Llacuna del Poblenou,tràfic,"52,1128399890797",56,54,10042,12803,el Parc i la Llacuna del Poblenou,2649
+58,1090485,Escola Sant Martí (Sant Martí),"41,399268","2,203657","rambla del poblenou,, 34",8005,Sant Martí,el Poblenou,fons,"26,9510551556412",29,28,10061,17210,el Poblenou,1816
+59,1090486,Escola Sant Martí (Sant Martí),"41,401171","2,200101","carrer pujades, 178",8005,Sant Martí,el Poblenou,tràfic,"41,0074032830799",44,42,10064,15899,el Poblenou,1697
+60,1090487,Escola Sant Martí (Sant Martí),"41,402047","2,197758","carrer llacuna, 84",8005,Sant Martí,el Poblenou,tràfic,"55,1650386304381",59,57,10066,15545,el Poblenou,2142
+61,1090488,Escola Sant Martí (Sant Martí),"41,405168","2,194516","carrer diagonal, 173",8018,Sant Martí,el Poblenou,tràfic,"49,369384981777",53,51,10067,20163,el Poblenou,1950
+62,1090489,Escola Sant Martí (Sant Martí),"41,406505","2,192039","llacuna, 162-164",8018,Sant Martí,Provençals del Poblenou,tràfic,"57,3806013298925",61,59,10098,14246,Provençals del Poblenou,1856
+63,1090490,Escola Sant Martí (Sant Martí),"41,407828","2,195391","carrer perú, 66",8018,Sant Martí,Provençals del Poblenou,tràfic,"48,8382522522573",52,50,10097,16026,Provençals del Poblenou,1586
+64,1090491,Escola Sant Martí (Sant Martí),"41,409879","2,198701","carres espronceda, 188",8018,Sant Martí,Provençals del Poblenou,tràfic,"55,682148431294",60,58,10100,12886,Provençals del Poblenou,1600
+65,1090492,Escola Sant Martí (Sant Martí),"41,408547","2,201896",parc central del poblenou.,8018,Sant Martí,Provençals del Poblenou,fons,"42,2739596872383",45,43,10096,16474,Provençals del Poblenou,1625
+66,1090493,Escola Sant Martí (Sant Martí),"41,407008","2,193621",plaça de la creu roja. fanal davant de la plaça,8018,Sant Martí,Provençals del Poblenou,fons,"43,5232210228602",47,45,10098,14246,Provençals del Poblenou,1856
+67,1090494,Escola Sant Martí (Sant Martí),"41,399248","2,201385","carrer llacuna, 28",8005,Sant Martí,el Poblenou,tràfic,"56,5830131680017",61,59,10061,17210,el Poblenou,1816
+68,1090495,Escola Sant Martí (Sant Martí),"41,397664","2,2","ramón turró, 168",8005,Sant Martí,el Poblenou,tràfic,"52,8935739143303",57,55,10057,13299,el Poblenou,1404
+69,1090496,Escola Sant Martí (Sant Martí),"41,394389","2,202818","carrer de carmen amaya, 4-6 parc",8005,Sant Martí,el Poblenou,fons,"51,5319962789286",55,53,10059,15703,el Poblenou,1722
+70,1090497,Escola Sant Martí (Sant Martí),"41,397782","2,196507","carrer badajoz, 73-77",8005,Sant Martí,el Poblenou,tràfic,"44,7684563179029",48,46,10056,12820,el Poblenou,1929
+71,1090498,Escola Sant Martí (Sant Martí),"41,396011","2,197736","carrer ramón turró, 127",8005,Sant Martí,el Poblenou,tràfic,"37,3439554960262",40,38,10056,12820,el Poblenou,1929
+72,1090499,Escola Sant Martí (Sant Martí),"41,394267","2,198984","carrer àvila, 12",8005,Sant Martí,el Poblenou,tràfic,"40,6370226985169",43,41,10056,12820,el Poblenou,1929
+73,1090500,Escola Sant Martí (Sant Martí),"41,3934538961119","2,20122805909027","p?laça de tirant lo blanc, 9",8005,Sant Martí,la Vila Olímpica del Poblenou,fons,"41,9897317654035",45,43,10055,24117,la Vila Olímpica del Poblenou,2590
+74,1090501,Escola Sant Martí (Sant Martí),"41,398464","2,197937","carrer ciutat de granada, 48,",8005,Sant Martí,el Poblenou,tràfic,"44,2577582793755",47,45,10057,13299,el Poblenou,1404
+75,1090502,Escola Sant Martí (Sant Martí),"41,400326","2,19763","roc boronat, 75",8005,Sant Martí,el Poblenou,tràfic,"43,2082434135463",46,44,10058,13142,el Poblenou,1163
+76,1090505,Escola Sant Martí (Sant Martí),"41,404938","2,199322","carrer pere iv, 201",8018,Sant Martí,el Poblenou,tràfic,"37,869521667911",41,39,10068,16949,el Poblenou,1610
+77,1090506,Escola Sant Martí (Sant Martí),"41,402599","2,201051",carrer llatzaret cantonada marià aguiló,8005,Sant Martí,el Poblenou,fons,"36,4509521256737",39,38,10064,15899,el Poblenou,1697
+78,1090507,Escola Sant Martí (Sant Martí),"41,40097","2,202321","carrer llull, 194",8005,Sant Martí,el Poblenou,tràfic,"41,8618283417275",45,43,10062,17183,el Poblenou,1513
+79,1090508,Escola Sant Martí (Sant Martí),"41,3989268","2,20490070000005","carrer del taulat, 91",8005,Sant Martí,el Poblenou,tràfic,"48,539851287654",52,50,10060,13587,el Poblenou,1624
+80,1090509,Escola Sant Martí (Sant Martí),"41,398054","2,20805","parc del poblenou, final carrer ferocarril",8005,Sant Martí,el Poblenou,fons,"36,6107974994399",39,38,10059,15703,el Poblenou,1722
+81,1090510,Escola Sant Martí (Sant Martí),"41,4008963348507","2,20610596385943","bilbao, 13-15",8005,Sant Martí,el Poblenou,tràfic,"46,5722833614475",50,48,10060,13587,el Poblenou,1624
+82,1090511,Escola El Sagrer (Sant Andreu),"41,4194","2,19050000000001","hondures, 21-25",8027,Sant Andreu,la Sagrera,tràfic,"42,9059645789359",46,44,9064,15873,la Sagrera,1197
+83,1090513,Escola El Sagrer (Sant Andreu),"41,4186","2,18930000000001","felip ii, 52-46",8027,Sant Andreu,la Sagrera,tràfic,"60,1625513014551",64,62,9064,15873,la Sagrera,1197
+84,1090514,Escola El Sagrer (Sant Andreu),"41,4192","2,18960000000001","josep estivill, 58",8027,Sant Andreu,la Sagrera,tràfic,"48,5173027873694",52,50,9064,15873,la Sagrera,1197
+85,1090515,Escola El Sagrer (Sant Andreu),"41,4221082115477","2,18955652189688","costa rica, 26",8027,Sant Andreu,la Sagrera,aula,"24,7401900319991",26,25,9063,16470,la Sagrera,1154
+86,1090516,Escola El Sagrer (Sant Andreu),"41,42218","2,18947000000001","costa rica, 26",8027,Sant Andreu,la Sagrera,pati,"33,3030340909089",36,35,9063,16470,la Sagrera,1154
+87,1090517,Escola El Sagrer (Sant Andreu),"41,42225","2,18956000000001","costa rica,  26",8027,Sant Andreu,la Sagrera,pati,"38,3047938067649",41,39,9063,16470,la Sagrera,1154
+88,1090518,Escola El Sagrer (Sant Andreu),"41,4223","2,19026000000001","costa rica, 26",8027,Sant Andreu,la Sagrera,pati,"35,4993876082471",38,37,9063,16470,la Sagrera,1154
+89,1090519,Escola El Sagrer (Sant Andreu),"41,4223","2,18994000000001","costa rica, 26",8027,Sant Andreu,la Sagrera,pati,"31,0847687611711",33,32,9063,16470,la Sagrera,1154
+90,1090520,Escola El Sagrer (Sant Andreu),"41,4220688457011","2,18941990290646","costa rica, 26",8027,Sant Andreu,la Sagrera,tràfic,"42,135528816087",45,43,9063,16470,la Sagrera,1154
+91,1090522,Escola El Sagrer (Sant Andreu),"41,421565","2,19070100000001","ciutat d'elx, 22",8027,Sant Andreu,la Sagrera,tràfic,"45,5805448687807",49,47,9063,16470,la Sagrera,1154
+92,1090523,Escola El Sagrer (Sant Andreu),"41,421741","2,19120400000001","sagrera, 58",8027,Sant Andreu,la Sagrera,tràfic,"47,5783477614086",51,49,9063,16470,la Sagrera,1154
+93,1090524,Escola El Sagrer (Sant Andreu),"41,422626","2,19053100000001","garcilaso, 10",8027,Sant Andreu,la Sagrera,tràfic,"48,1940406786418",52,50,9058,14977,la Sagrera,1491
+94,1090525,Escola El Sagrer (Sant Andreu),"41,423964","2,18857100000001","vallés i ribot, 25",8027,Sant Andreu,la Sagrera,tràfic,"48,4989896262482",52,50,9058,14977,la Sagrera,1491
+95,1090526,Escola El Sagrer (Sant Andreu),"41,4223","2,18897700000001","sant antoni m.claret, 403",8027,Sant Andreu,la Sagrera,tràfic,"41,8754550149006",45,43,9067,13059,la Sagrera,1497
+96,1090527,Escola El Sagrer (Sant Andreu),"41,421398","2,18762800000001","honduras, 72",8027,Sant Andreu,la Sagrera,tràfic,"41,7447193473957",45,43,9067,13059,la Sagrera,1497
+97,1090528,Escola El Sagrer (Sant Andreu),"41,42116","2,18664100000001","av. meridiana,253",8027,Sant Andreu,la Sagrera,tràfic,"61,1875159994025",65,63,9068,15664,la Sagrera,1569
+98,1090529,Escola El Sagrer (Sant Andreu),"41,4220802690584","2,18579434911888","juan de garay, 108",8027,Sant Andreu,la Sagrera,tràfic,"40,6994988092822",44,42,9068,15664,la Sagrera,1569
+99,1090530,Escola El Sagrer (Sant Andreu),"41,423325","2,18785700000001",plaça d'elx,8027,Sant Andreu,la Sagrera,fons,"44,3962255135426",48,46,9057,13562,la Sagrera,1563
+100,1090531,Escola El Sagrer (Sant Andreu),"41,4227006402143","2,18805356916837",garcilaso entre meridiana i vallés i ribot,8027,Sant Andreu,la Sagrera,tràfic,"50,9976689822902",55,53,9067,13059,la Sagrera,1497
+101,1090532,Escola El Sagrer (Sant Andreu),"41,4243281526624","2,18574222344269","olesa, 63",8027,Sant Andreu,la Sagrera,tràfic,"47,9278431392034",51,49,9070,10916,la Sagrera,1774
+102,1090533,Escola El Sagrer (Sant Andreu),"41,42552","2,18674000000001","av.. meridiana, 328",8027,Sant Andreu,la Sagrera,tràfic,"58,0310635975677",62,60,9056,15117,la Sagrera,1144
+103,1090534,Escola El Sagrer (Sant Andreu),"41,42434","2,18699000000001","meridiana, 318 bis",8027,Sant Andreu,la Sagrera,tràfic,"102,429135074788",110,106,9057,13562,la Sagrera,1563
+104,1090537,Escola El Sagrer (Sant Andreu),"41,42714","2,18546000000001",plaza de la tolerancia,8027,Sant Andreu,la Sagrera,fons,"53,7635228975456",58,56,9055,13253,la Sagrera,1750
+105,1090538,Escola El Sagrer (Sant Andreu),"41,4268","2,18725000000001",carrer pegas (botica orixe),8027,Sant Andreu,la Sagrera,tràfic,"40,6829979158394",44,42,9060,14229,la Sagrera,1331
+106,1090539,Escola El Sagrer (Sant Andreu),"41,42672","2,18868000000001",carrer portugal 45,8027,Sant Andreu,la Sagrera,tràfic,"41,3681011283263",44,42,9060,14229,la Sagrera,1331
+107,1090540,Escola El Sagrer (Sant Andreu),"41,42739","2,18797000000001",escola bressol pegaso,8027,Sant Andreu,la Sagrera,fons,"30,3752240670103",33,32,9060,14229,la Sagrera,1331
+108,1090541,Escola El Sagrer (Sant Andreu),"41,42725","2,18942000000001","dins del parc de la pegaso, al costat del llac",8027,Sant Andreu,la Sagrera,fons,"34,9461592076873",37,36,9060,14229,la Sagrera,1331
+109,1090542,Escola El Sagrer (Sant Andreu),"41,42343","2,19048000000001","monlau, 15",8027,Sant Andreu,la Sagrera,tràfic,"39,6746558352925",42,40,9058,14977,la Sagrera,1491
+110,1090543,Escola El Sagrer (Sant Andreu),"41,42333","2,19124000000001","sagrera, 86",8027,Sant Andreu,la Sagrera,tràfic,"47,0198424407734",50,48,9062,13407,la Sagrera,1140
+111,1090544,Escola El Sagrer (Sant Andreu),"41,42492","2,19100000000001","c/ sagrera, 144",8027,Sant Andreu,la Sagrera,tràfic,"48,6779199146556",52,50,9059,13874,la Sagrera,1405
+112,1090545,Escola El Sagrer (Sant Andreu),"41,42548","2,19313000000001",plaça kobe,8027,Sant Andreu,la Sagrera,fons,"34,9363825025459",37,36,9061,15707,la Sagrera,1695
+113,1090546,Escola El Sagrer (Sant Andreu),"41,4242","2,19181000000001",c/ berenguer de palou,8027,Sant Andreu,la Sagrera,tràfic,"49,1874691345769",53,51,9062,13407,la Sagrera,1140
+114,1090548,Escola El Sagrer (Sant Andreu),"41,4205","2,18880000000001","c. hondures, cantonada c. indústria",8027,Sant Andreu,la Sagrera,tràfic,"39,186221759189",42,40,9065,14110,la Sagrera,1973
+115,1090549,Escola El Sagrer (Sant Andreu),"41,4194","2,18820000000001","c. felip ii, 63",8027,Sant Andreu,Navas,tràfic,"55,8871495684131",60,58,9091,14386,Navas,1874
+116,1090550,Escola El Sagrer (Sant Andreu),"41,4194999999976","2,18715023731892","av. meridiana, 262",8027,Sant Andreu,Navas,tràfic,"58,2843731117383",62,60,9091,14386,Navas,1874
+117,1090551,Escola El Sagrer (Sant Andreu),"41,4186811635824","2,18663672873839","pça. ferran reyes, 9",8027,Sant Andreu,Navas,tràfic,"53,9368911161338",58,56,9089,14050,Navas,1484
+118,1090553,Escola Can Fabra (Sant Andreu),"41,4331199845069","2,18614955683495","pç de les palmeres, 14",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"39,6421154789343",42,40,9046,15903,Sant Andreu,1322
+119,1090554,Escola Can Fabra (Sant Andreu),"41,43117278464","2,1833510859375","av. meridiana, 404",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"51,0648358475161",55,53,9049,14420,Sant Andreu,1314
+120,1090555,Escola Can Fabra (Sant Andreu),"41,432218","2,193203","c. virgili, 83",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"50,5208967823455",54,52,9023,15409,Sant Andreu,1216
+121,1090556,Escola Can Fabra (Sant Andreu),"41,431785","2,194083","c.segre, 76-84",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"52,1138611874879",56,54,9017,14458,Sant Andreu,1539
+122,1090557,Escola Can Fabra (Sant Andreu),"41,43011","2,195293","c. segre, 131",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"50,6640386416009",54,52,9018,13773,Sant Andreu,1464
+123,1090558,Escola Can Fabra (Sant Andreu),"41,429266","2,194538",plaça de can portabella,8030,Sant Andreu,Sant Andreu de Palomar,fons,"45,3207575239668",48,46,9019,16043,Sant Andreu,2647
+124,1090559,Escola Can Fabra (Sant Andreu),"41,4302475077896","2,1919463181049","rambla 11 de setembre, 64",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"58,1074153228823",62,60,9022,16186,Sant Andreu,1215
+125,1090560,Escola Can Fabra (Sant Andreu),"41,4307619013514","2,18941278941474","carrer gran de sant andreu, 105",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"45,8994596120994",49,47,9051,15324,Sant Andreu,1227
+126,1090561,Escola Can Fabra (Sant Andreu),"41,4301176565458","2,18457244393601","ps fabra i puig, 43-45",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"56,054352084419",60,58,9049,14420,Sant Andreu,1314
+127,1090562,Escola Can Fabra (Sant Andreu),"41,433","2,1894","c. gran de sant andreu, 194",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"45,680657055809",49,47,9024,15312,Sant Andreu,1153
+128,1090563,Escola Can Fabra (Sant Andreu),"41,43284","2,18808","c. coroloeu, 22",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"38,4131403730414",41,39,9047,16685,Sant Andreu,1526
+129,1090564,Escola Can Fabra (Sant Andreu),"41,43176","2,18742","c. sòcrates, 48",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"40,8731354685308",44,42,9050,15805,Sant Andreu,1592
+130,1090565,Escola Can Fabra (Sant Andreu),"41,4353922884872","2,20153651704938","c. formiga, 7",8030,Sant Andreu,el Bon Pastor,tràfic,"43,3535794010567",46,44,9015,10106,el Bon Pastor,1813
+131,1090567,Escola Can Fabra (Sant Andreu),"41,437099333184","2,20848576186682","c. arbeca, 5",8030,Sant Andreu,el Bon Pastor,tràfic,"48,4616988927712",52,50,9011,9812,el Bon Pastor,1749
+132,1090568,Escola Can Fabra (Sant Andreu),"41,4326785653701","2,20620751491341",c. santander s/n,8030,Sant Andreu,el Bon Pastor,tràfic,"52,101591885266",56,54,9015,10106,el Bon Pastor,1813
+133,1090570,Escola Can Fabra (Sant Andreu),"41,4337","2,1919","carrer sant adrià, 20",8030,Sant Andreu,Sant Andreu de Palomar,pati,"36,4520969012422",39,38,9024,15312,Sant Andreu,1153
+134,1090571,Escola Can Fabra (Sant Andreu),"41,433713682789","2,19208150460944","carrer sant adrià, 20",8030,Sant Andreu,Sant Andreu de Palomar,pati,"37,6565334026914",40,38,9024,15312,Sant Andreu,1153
+135,1090572,Escola Can Fabra (Sant Andreu),"41,4334","2,1921","c. segre, 36",8030,Sant Andreu,Sant Andreu de Palomar,aula,"26,8738616333516",29,28,9024,15312,Sant Andreu,1153
+136,1090573,Escola Can Fabra (Sant Andreu),"41,4335422231424","2,19225574389556","c. segre, 20",8030,Sant Andreu,Sant Andreu de Palomar,aula,"26,9638365163121",29,28,9024,15312,Sant Andreu,1153
+137,1090574,Escola Can Fabra (Sant Andreu),"41,4425030315048","2,18975810095064","c. víctor colomer, s/n",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"45,8933249609884",49,47,9032,11944,Sant Andreu,2167
+138,1090575,Escola Can Fabra (Sant Andreu),"41,4451490949264","2,19280970490676",c. fernando pessoa-carreró mèxic,8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"41,5949794159188",45,43,9031,16474,Sant Andreu,1175
+139,1090576,Escola Can Fabra (Sant Andreu),"41,4417248856869","2,19251473266607",pati interior entre palomar i fernando pessoa,8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"38,2086520026765",41,39,9031,16474,Sant Andreu,1175
+140,1090577,Escola Can Fabra (Sant Andreu),"41,438726","2,18876","gran de sant andreu, 369.",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"47,6969123876066",51,49,9039,14989,Sant Andreu,1565
+141,1090578,Escola Can Fabra (Sant Andreu),"41,440887","2,188001","arquímedes, 12-14",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"41,4477477892561",44,42,9036,14671,Sant Andreu,1457
+142,1090579,Escola Can Fabra (Sant Andreu),"41,44058","2,190971","torras i bages, 102-106",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"44,2001612543673",47,45,9030,15544,Sant Andreu,1503
+143,1090582,Escola Can Fabra (Sant Andreu),"41,438560917086","2,19557136438149",c. ferran junoy cantonada sao paulo,8030,Sant Andreu,el Bon Pastor,tràfic,"48,2878837779611",52,50,9008,16141,el Bon Pastor,1946
+144,1090583,Escola Can Fabra (Sant Andreu),"41,4388069185275","2,19714360374319",c. sao paulo cantonada c. mèrida,8030,Sant Andreu,el Bon Pastor,tràfic,"47,578309132795",51,49,9008,16141,el Bon Pastor,1946
+145,1090584,Escola Can Fabra (Sant Andreu),"41,43498","2,19099",plaça can fabra,8030,Sant Andreu,Sant Andreu de Palomar,fons,"34,1107050605645",36,35,9025,15463,Sant Andreu,1182
+146,1090585,Escola Can Fabra (Sant Andreu),"41,43531","2,18978",plaça del comerç,8030,Sant Andreu,Sant Andreu de Palomar,fons,"40,3721389611369",43,41,9025,15463,Sant Andreu,1182
+147,1090586,Escola Can Fabra (Sant Andreu),"41,4377523671587","2,19051925234374","c. joan torres, 17-19",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"35,4501038864544",38,37,9038,15502,Sant Andreu,1532
+148,1090587,Escola Can Fabra (Sant Andreu),"41,437566987454","2,19233165130186","c.cinca,44",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"38,0450613063846",41,39,9027,16506,Sant Andreu,1318
+149,1090588,Escola Can Fabra (Sant Andreu),"41,43611","2,18918","c.malats, 23",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"41,2637082559277",44,42,9041,14383,Sant Andreu,1417
+150,1090589,Escola Can Fabra (Sant Andreu),"41,43471","2,18411","avda. meridiana, 456",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"51,001444452703",55,53,9045,15107,Sant Andreu,1414
+151,1090590,Escola Can Fabra (Sant Andreu),"41,43408","2,1866","c. pare secchi, 45-49",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"38,8446108345113",42,40,9045,15107,Sant Andreu,1414
+152,1090591,Escola Can Fabra (Sant Andreu),"41,4354326642484","2,18725185249785","pons i gallarza, 47",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"33,4951950657662",36,35,9044,14920,Sant Andreu,1416
+153,1090592,Escola Can Fabra (Sant Andreu),"41,4344506328201","2,18961608984692","gran de sant andreu, 230",8030,Sant Andreu,Sant Andreu de Palomar,tràfic,"45,7235996135856",49,47,9025,15463,Sant Andreu,1182
+154,1090596,Escola Calderon (Nou Barris),"41,43181","2,1698",p. de la peira 40,8031,Nou Barris,el Turó de la Peira,tràfic,"34,4627004416248",37,36,8041,8424,el Turó de la Peira,2443
+155,1090597,Escola Calderon (Nou Barris),"41,432082","2,167782",c. beret 52,8031,Nou Barris,el Turó de la Peira,tràfic,"30,9871889558665",33,32,8047,9015,el Turó de la Peira,1569
+156,1090598,Escola Calderon (Nou Barris),"41,4312492869262","2,16999292948458",c. de la peira 26,8031,Nou Barris,el Turó de la Peira,tràfic,"27,6681850657413",30,29,8043,11179,el Turó de la Peira,1160
+157,1090599,Escola Calderon (Nou Barris),"41,432952","2,167628",parc del turó de la peira / plaça davant del camp de futbol,8031,Nou Barris,el Turó de la Peira,fons,"27,8675302786009",30,29,8047,9015,el Turó de la Peira,1569
+158,1090600,Escola Calderon (Nou Barris),"41,433419","2,165687",parc del turó de la peira / plaça de l'escala que puja a la creu.,8031,Nou Barris,el Turó de la Peira,fons,"26,3841027536599",28,27,8047,9015,el Turó de la Peira,1569
+159,1090601,Escola Calderon (Nou Barris),"41,434007","2,1679",c. vilaseca 36,8031,Nou Barris,Can Peguera,tràfic,"31,3907165719697",34,33,8048,8404,Can Peguera,966
+160,1090602,Escola Calderon (Nou Barris),"41,4330978340014","2,16867041514873",c. beret 68,8031,Nou Barris,el Turó de la Peira,fons,"25,5912484120681",27,26,8048,8404,Can Peguera,966
+161,1090603,Escola Calderon (Nou Barris),"41,433962","2,169181",c. montsant 32,8031,Nou Barris,Can Peguera,tràfic,"30,9216481155272",33,32,8048,8404,Can Peguera,966
+162,1090604,Escola Calderon (Nou Barris),"41,433933","2,173377",c. maladeta 93,8016,Nou Barris,Porta,tràfic,"35,1375503645303",38,37,8037,11887,Porta,1514
+163,1090605,Escola Calderon (Nou Barris),"41,431962","2,176681",c. maladeta 12,8016,Nou Barris,Porta,tràfic,"39,0044207628628",42,40,8022,13653,Porta,1242
+164,1090606,Escola Calderon (Nou Barris),"41,432267","2,177632",c. piferrer 154,8016,Nou Barris,Porta,tràfic,"45,7000474041709",49,47,8022,13653,Porta,1242
+165,1090607,Escola Calderon (Nou Barris),"41,434126","2,177112",c. valldemossa 6 (pl. sóller),8016,Nou Barris,Porta,fons,"32,4652631657183",35,34,8026,13254,Porta,1460
+166,1090608,Escola Calderon (Nou Barris),"41,433256","2,175033",c. maladeta 64,8016,Nou Barris,Porta,tràfic,"38,1549176172974",41,39,8026,13254,Porta,1460
+167,1090609,Escola Calderon (Nou Barris),"41,435185","2,177028",c. brossa 18,8016,Nou Barris,Porta,tràfic,"34,7500980435842",37,36,8027,14566,Porta,1313
+168,1090610,Escola Calderon (Nou Barris),"41,435842","2,17646",c. escultor ordóñez 120,8016,Nou Barris,Porta,tràfic,"35,5607153165235",38,37,8027,14566,Porta,1313
+169,1090611,Escola Calderon (Nou Barris),"41,434136","2,175445",pl. sóller / c. escultor ordóñez 61-63,8016,Nou Barris,Porta,fons,"34,3632125269586",37,36,8026,13254,Porta,1460
+170,1090613,Escola Calderon (Nou Barris),"41,433611","2,17214",c. nil 27,8031,Nou Barris,el Turó de la Peira,pati,"29,437955667958",31,30,8038,11332,el Turó de la Peira,1505
+171,1090614,Escola Calderon (Nou Barris),"41,433676","2,178817",c. piferrer 110,8016,Nou Barris,Porta,tràfic,"45,7034110907242",49,47,8028,12400,Porta,1068
+172,1090615,Escola Calderon (Nou Barris),"41,435094","2,17243",p. pi i molist 118,8016,Nou Barris,Porta,tràfic,"37,7259820400823",40,38,8037,11887,Porta,1514
+173,1090616,Escola Calderon (Nou Barris),"41,4359869052232","2,17446389342594",c. alcúdia 48,8016,Nou Barris,Porta,tràfic,"39,1884767597662",42,40,8035,12082,Porta,2368
+174,1090617,Escola Calderon (Nou Barris),"41,436869","2,174184",pl. jardins alfàbia 3,8016,Nou Barris,Porta,fons,"35,5607779734641",38,37,8033,11621,Porta,1459
+175,1090618,Escola Calderon (Nou Barris),"41,437214","2,173209",c. lorena 81,8042,Nou Barris,la Guineueta,tràfic,"35,6140188019399",38,37,8215,13941,la Guineueta,1487
+176,1090619,Escola Calderon (Nou Barris),"41,437513","2,170394",c. marie curie 20,8042,Nou Barris,la Guineueta,tràfic,"31,2797626134831",33,32,8054,13856,la Guineueta,1695
+177,1090620,Escola Calderon (Nou Barris),"41,436158","2,1704",seu del districte de nou barris davant la biblioteca,8042,Nou Barris,la Guineueta,fons,"32,1582580741171",34,33,8215,13941,la Guineueta,1487
+178,1090621,Escola Calderon (Nou Barris),"41,436188","2,172516",p. verdum 9,8042,Nou Barris,la Guineueta,tràfic,"30,1657730317001",32,31,8215,13941,la Guineueta,1487
+179,1090622,Escola Calderon (Nou Barris),"41,43514","2,171303",p. urrutia 106,8042,Nou Barris,la Guineueta,tràfic,"30,9664530436066",33,32,8050,15390,la Guineueta,1423
+180,1090623,Escola Calderon (Nou Barris),"41,4348690391085","2,17031189847179",p. urrutia 113,8042,Nou Barris,la Guineueta,tràfic,"31,4824923351678",34,33,8050,15390,la Guineueta,1423
+181,1090624,Escola Calderon (Nou Barris),"41,433775830093","2,17235610223906",c. ordunya 71-73,8031,Nou Barris,el Turó de la Peira,tràfic,"35,775106013634",38,37,8038,11332,el Turó de la Peira,1505
+182,1090625,Escola Calderon (Nou Barris),"41,433209","2,173499",c. porta s/n,8016,Nou Barris,Porta,tràfic,"38,7516333606137",41,39,8037,11887,Porta,1514
+183,1090628,Escola Calderon (Nou Barris),"41,430363","2,17281",p. fabra i puig 274,8031,Nou Barris,el Turó de la Peira,tràfic,"47,5455501587553",51,49,8042,13658,el Turó de la Peira,1273
+184,1090629,Escola Calderon (Nou Barris),"41,431438","2,17201",c. rosario pi (davant escola turó),8031,Nou Barris,el Turó de la Peira,fons,"37,6928603751188",40,38,8042,13658,el Turó de la Peira,1273
+185,1090630,Escola Calderon (Nou Barris),"41,43237","2,172312",c. inca 5,8031,Nou Barris,el Turó de la Peira,tràfic,"36,9455261721572",40,38,8042,13658,el Turó de la Peira,1273
+186,1090631,Escola Calderon (Nou Barris),"41,4336840366293","2,17202312647672",c. nil 27,8031,Nou Barris,el Turó de la Peira,aula,"18,1640094746745",19,18,8038,11332,el Turó de la Peira,1505
+187,1090632,Escola Calderon (Nou Barris),"41,433656","2,172136",c. nil 27,8031,Nou Barris,el Turó de la Peira,aula,"17,8138746961684",19,18,8038,11332,el Turó de la Peira,1505
+188,1090633,Escola Calderon (Nou Barris),"41,4304271236685","2,17439065146471","fabra i puig, 264",8031,Nou Barris,el Turó de la Peira,tràfic,"55,6862730177622",60,58,8038,11332,el Turó de la Peira,1505
+189,1090634,Escola Calderon (Nou Barris),"41,433225628871","2,17122373129404",pl. olof palme,8031,Nou Barris,el Turó de la Peira,fons,"35,5499711245051",38,37,8040,8876,el Turó de la Peira,1688
+190,1090635,Escola Calderon (Nou Barris),"41,433714","2,172141",c. nil 27,8031,Nou Barris,el Turó de la Peira,aula,"22,9465680696464",25,24,8038,11332,el Turó de la Peira,1505
+191,1090636,Escola Timbaler del Bruc (Nou Barris),"41,4285","2,1765",plaça virrei amat 9-10,8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,"38,7464564167361",41,39,8014,12322,Vilapicina i la Torre Llobeta,1230
+192,1090637,Escola Timbaler del Bruc (Nou Barris),"41,4291","2,1758",plaça virrei amat cantonada carrer escòcia,8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,"34,6505543583277",37,36,8014,12322,Vilapicina i la Torre Llobeta,1230
+193,1090638,Escola Timbaler del Bruc (Nou Barris),"41,4301","2,1749","c/felip ii, 258 (plaça virrei amat)",8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,"37,088055733077",40,38,8013,14060,Vilapicina i la Torre Llobeta,1222
+194,1090639,Escola Timbaler del Bruc (Nou Barris),"41,4286","2,1745","avinguda borbó, 64",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"42,8607624284774",46,44,8011,15773,Vilapicina i la Torre Llobeta,1213
+195,1090640,Escola Timbaler del Bruc (Nou Barris),"41,4302","2,1735","passeig fabra i puig, 233",8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"49,2407995838614",53,51,8011,15773,Vilapicina i la Torre Llobeta,1213
+196,1090641,Escola Timbaler del Bruc (Nou Barris),"41,4302964969594","2,17113804809706",passeig fabra i puig 269,8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"47,2306789031747",51,49,8005,14200,Vilapicina i la Torre Llobeta,1161
+197,1090643,Escola Timbaler del Bruc (Nou Barris),"41,4301","2,1761",passeig fabra i puig 207,8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"60,8986815783628",65,63,8014,12322,Vilapicina i la Torre Llobeta,1230
+198,1090644,Escola Timbaler del Bruc (Nou Barris),"41,427698215392","2,17750469200598",c/ felip ii 232,8027,Sant Andreu,el Congrés i els Indians,tràfic,"50,2080295756872",54,52,9076,13545,el Congrés i els Indians,1419
+199,1090645,Escola Timbaler del Bruc (Nou Barris),"41,4265647941002","2,1791234258933","c/felip ii, 208",8027,Sant Andreu,el Congrés i els Indians,tràfic,"41,7994677862837",45,43,9076,13545,el Congrés i els Indians,1419
+200,1090646,Escola Timbaler del Bruc (Nou Barris),"41,4271","2,179",jardins de massana s/n,8027,Sant Andreu,el Congrés i els Indians,fons,"34,1638720368593",37,36,9076,13545,el Congrés i els Indians,1419
+201,1090648,Escola Timbaler del Bruc (Nou Barris),"41,4279","2,1808","c/vèlia, 8-10",8027,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"43,4864968417939",47,45,8017,15071,Vilapicina i la Torre Llobeta,1336
+202,1090649,Escola Timbaler del Bruc (Nou Barris),"41,4271","2,1804","c/cardenal tedeschini, 82",8027,Sant Andreu,el Congrés i els Indians,tràfic,"37,1616715464084",40,38,9075,13624,el Congrés i els Indians,1531
+203,1090650,Escola Timbaler del Bruc (Nou Barris),"41,4278","2,1797","c/ riera d'horta, 51",8027,Sant Andreu,el Congrés i els Indians,tràfic,"39,6073524559722",42,40,9075,13624,el Congrés i els Indians,1531
+204,1090651,Escola Timbaler del Bruc (Nou Barris),"41,4278861893914","2,17871256801696","c/ riera d'horta, 53 a",8027,Sant Andreu,el Congrés i els Indians,tràfic,"38,5828657204442",41,39,9076,13545,el Congrés i els Indians,1419
+205,1090652,Escola Timbaler del Bruc (Nou Barris),"41,4279","2,1766","c/ felip ii, 265",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"42,3474966188615",45,43,8012,13907,Vilapicina i la Torre Llobeta,1348
+206,1090653,Escola Timbaler del Bruc (Nou Barris),"41,4269","2,1773","c/ ramón albó, 59",8027,Sant Andreu,el Congrés i els Indians,tràfic,"44,6398112506518",48,46,9079,14992,el Congrés i els Indians,1609
+207,1090654,Escola Timbaler del Bruc (Nou Barris),"41,4261","2,1771","c/ramón albó, 54-56",8027,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"53,0831360630174",57,55,8012,13907,Vilapicina i la Torre Llobeta,1348
+208,1090655,Escola Timbaler del Bruc (Nou Barris),"41,4251071387217","2,17742373312282","c/arnau d'oms ,30",8027,Sant Andreu,el Congrés i els Indians,tràfic,"106,931058631199",114,110,9079,14992,el Congrés i els Indians,1609
+209,1090656,Escola Timbaler del Bruc (Nou Barris),"41,42551451281","2,17574753451886",passeig maragall 223 bis,8032,Horta-Guinardó,el Guinardó,tràfic,"48,3287814520341",52,50,7047,14602,el Guinardó,1511
+210,1090657,Escola Timbaler del Bruc (Nou Barris),"41,4264","2,1741",plaça torre llobeta s/n,8031,Nou Barris,Vilapicina i la Torre Llobeta,fons,"38,3006717693407",41,39,8009,12793,Vilapicina i la Torre Llobeta,1687
+211,1090658,Escola Timbaler del Bruc (Nou Barris),"41,4263393821166","2,17614035996344",avinguda borbó 18-30,8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"49,2244405142322",53,51,8012,13907,Vilapicina i la Torre Llobeta,1348
+212,1090659,Escola Timbaler del Bruc (Nou Barris),"41,4274","2,1754","avinguda borbó, 15",8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"122,537611057446",131,126,8012,13907,Vilapicina i la Torre Llobeta,1348
+213,1090660,Escola Timbaler del Bruc (Nou Barris),"41,4277","2,1735",carrer costa i cuixart 17-23,8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"42,7585182432949",46,44,8010,14657,Vilapicina i la Torre Llobeta,1072
+214,1090661,Escola Timbaler del Bruc (Nou Barris),"41,4265","2,1728",passeig maragall 271,8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"52,596453741549",56,54,8009,12793,Vilapicina i la Torre Llobeta,1687
+215,1090662,Escola Timbaler del Bruc (Nou Barris),"41,429525113586","2,17762376725943","c/ la jota, 114 cantonada arnau d'oms",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"46,8994077431836",50,48,8016,13103,Vilapicina i la Torre Llobeta,1144
+216,1090663,Escola Timbaler del Bruc (Nou Barris),"41,4311716504817","2,17749061598803","c/ arnau d'oms, 62",8016,Nou Barris,Porta,tràfic,"39,370145946349",42,40,8023,12106,Porta,1393
+217,1090665,Escola Timbaler del Bruc (Nou Barris),"41,4301785855254","2,18149054771481","passeig fabra i puig, 115",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"58,1748964851027",62,60,8019,12464,Vilapicina i la Torre Llobeta,1788
+218,1090666,Escola Timbaler del Bruc (Nou Barris),"41,4291","2,1799","c/malgrat, 58",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"42,2186689455317",45,43,8017,15071,Vilapicina i la Torre Llobeta,1336
+219,1090667,Escola Timbaler del Bruc (Nou Barris),"41,4293","2,1813",plaça garrigó 9999,8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,"44,3105849743643",47,45,8017,15071,Vilapicina i la Torre Llobeta,1336
+220,1090668,Escola Timbaler del Bruc (Nou Barris),"41,4287","2,1812","c/ escòcia, 22",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"61,2319976220576",66,63,8017,15071,Vilapicina i la Torre Llobeta,1336
+221,1090669,Escola Timbaler del Bruc (Nou Barris),"41,4287","2,1788","c/escòcia, 93",8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"61,2606259939086",66,63,8015,12103,Vilapicina i la Torre Llobeta,1420
+222,1090670,Escola Timbaler del Bruc (Nou Barris),"41,428603696155","2,17800952055842",c/ escòcia cantonada emili roca (valla escola),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"51,2447856134372",55,53,8015,12103,Vilapicina i la Torre Llobeta,1420
+223,1090672,Escola Timbaler del Bruc (Nou Barris),"41,4286","2,1774",carrer escòcia cantonada carrer arnau d'oms,8016,Nou Barris,Vilapicina i la Torre Llobeta,pati,"50,3695753882755",54,52,8015,12103,Vilapicina i la Torre Llobeta,1420
+224,1090673,Escola Timbaler del Bruc (Nou Barris),"41,4282464622345","2,17746667804554",carrer arnau d'oms cantonada riera d'horta,8027,Nou Barris,Vilapicina i la Torre Llobeta,pati,"47,9014007579715",51,49,8015,12103,Vilapicina i la Torre Llobeta,1420
+225,1090674,Escola Timbaler del Bruc (Nou Barris),"41,4283","2,1777","c/arnau d'oms, 4",8016,Nou Barris,Vilapicina i la Torre Llobeta,pati,"42,1184696440529",45,43,8015,12103,Vilapicina i la Torre Llobeta,1420
+226,1090675,Escola Timbaler del Bruc (Nou Barris),"41,4284035062214","2,1776047261426","c/ arnau d'oms, 4",8016,Nou Barris,Vilapicina i la Torre Llobeta,aula,"33,7896583190916",36,35,8015,12103,Vilapicina i la Torre Llobeta,1420
+227,1090678,Escola Pau Casals (Gràcia),"41,4093193112559","2,16176764525666",c. providència nº134-142,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"47,7214509920504",51,49,6088,17915,el Camp d'en Grassot i Gràcia Nova,1223
+228,1090679,Escola Pau Casals (Gràcia),"41,40833","2,16118",c. legalitat nº49,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"47,0261905328098",50,48,6082,17857,el Camp d'en Grassot i Gràcia Nova,2002
+229,1090681,Escola Pau Casals (Gràcia),"41,4084","2,16302",c. encarnació nº120,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"41,6052038344371",45,43,6083,18552,el Camp d'en Grassot i Gràcia Nova,1743
+230,1090682,Escola Pau Casals (Gràcia),"41,4069","2,16241",c. sant lluis nº89,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"50,314363528277",54,52,6082,17857,el Camp d'en Grassot i Gràcia Nova,2002
+231,1090683,Escola Pau Casals (Gràcia),"41,40726","2,16425",c. romans nº6,8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"41,4211643011087",44,42,6080,16484,el Camp d'en Grassot i Gràcia Nova,1174
+232,1090684,Escola Pau Casals (Gràcia),"41,40511","2,1632",c. escorial nº6,8024,Gràcia,la Vila de Gràcia,tràfic,"49,7008984171824",53,51,6063,14963,Vila de Gràcia,1533
+233,1090685,Escola Pau Casals (Gràcia),"41,409","2,16207",pati escola primària (a nivell de carrer),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,"31,6691139184079",34,33,6088,17915,el Camp d'en Grassot i Gràcia Nova,1223
+234,1090686,Escola Pau Casals (Gràcia),"41,41242","2,16053","ronda guinardó, 3",8024,Gràcia,la Salut,tràfic,"37,8344382849088",40,38,6024,16907,la Salut,1670
+235,1090687,Escola Pau Casals (Gràcia),"41,41392","2,16092","pl.sanllehy, 5",8024,Gràcia,la Salut,fons,"37,4643143345484",40,38,6024,16907,la Salut,1670
+236,1090688,Escola Pau Casals (Gràcia),"41,41133","2,16094","c/ secretari coloma, 121",8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"45,7113303113637",49,47,6087,20606,el Camp d'en Grassot i Gràcia Nova,1857
+237,1090689,Escola Pau Casals (Gràcia),"41,41","2,16289","c/providència, 160",8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"39,3926396670891",42,40,6087,20606,el Camp d'en Grassot i Gràcia Nova,1857
+238,1090690,Escola Pau Casals (Gràcia),"41,4095748168805","2,16297229363561","c/secretari coloma, 72",8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"48,86454098239",52,50,6088,17915,el Camp d'en Grassot i Gràcia Nova,1223
+239,1090691,Escola Pau Casals (Gràcia),"41,40931","2,16383","c/pi i margall, 76-78",8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"41,6358770899918",45,43,6088,17915,el Camp d'en Grassot i Gràcia Nova,1223
+240,1090692,Escola Pau Casals (Gràcia),"41,4086741277819","2,16517938841126","c/taxdirt, 13",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"36,7547396893823",39,38,6079,17142,el Camp d'en Grassot i Gràcia Nova,1088
+241,1090693,Escola Pau Casals (Gràcia),"41,40633","2,16536","trav. de gràcia, 266-268",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"39,4417168759767",42,40,6077,15909,el Camp d'en Grassot i Gràcia Nova,1192
+242,1090695,Escola Pau Casals (Gràcia),"41,40378","2,16389","pg. de sant joan, 189",8037,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"43,1143280077298",46,44,6065,18767,el Camp d'en Grassot i Gràcia Nova,1199
+243,1090696,Escola Pau Casals (Gràcia),"41,40314","2,16208","c/bailen, 236",8012,Gràcia,la Vila de Gràcia,tràfic,"34,5789834287",37,36,6059,16498,Vila de Gràcia,1529
+244,1090697,Escola Pau Casals (Gràcia),"41,4092733495773","2,1620138226377",pati escola infantil (4t pis a l'edifici),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,"35,1965383072019",38,37,6088,17915,el Camp d'en Grassot i Gràcia Nova,1223
+245,1090699,Escola Pau Casals (Gràcia),"41,4118","2,153",av. del santuari de sant josep de la muntanya - rambla mercedes,8024,Gràcia,la Salut,fons,"29,2500164969914",31,30,6022,17058,la Salut,1355
+246,1090701,Escola Pau Casals (Gràcia),"41,41016","2,156",travassera de dalt nº66,8024,Gràcia,la Salut,tràfic,"53,6045814074478",57,55,6026,17723,la Salut,1039
+247,1090702,Escola Pau Casals (Gràcia),"41,41016","2,15856",c. escorial nº163,8024,Gràcia,la Vila de Gràcia,tràfic,"53,620940477077",57,55,6029,17353,Vila de Gràcia,1268
+248,1090703,Escola Pau Casals (Gràcia),"41,40858","2,15781",c. torrent de les flors nº115,8024,Gràcia,la Vila de Gràcia,tràfic,"45,1080896187873",48,46,6032,16509,Vila de Gràcia,1173
+249,1090704,Escola Pau Casals (Gràcia),"41,40765","2,15857",plaça rovira nº8,8024,Gràcia,la Vila de Gràcia,fons,"33,8285111094609",36,35,6031,16811,Vila de Gràcia,1092
+250,1090705,Escola Pau Casals (Gràcia),"41,40822","2,15949",c. providència nº81,8024,Gràcia,la Vila de Gràcia,tràfic,"37,7056106115789",40,38,6030,15083,Vila de Gràcia,1340
+251,1090706,Escola Pau Casals (Gràcia),"41,40757","2,16122",c. escorial nº33,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"42,4742794084878",45,43,6082,17857,el Camp d'en Grassot i Gràcia Nova,2002
+252,1090707,Escola Pau Casals (Gràcia),"41,4068127436879","2,15967327237863",c. torrent de les flors nº72,8024,Gràcia,la Vila de Gràcia,tràfic,"36,7322459686421",39,38,6062,14794,Vila de Gràcia,1288
+253,1090708,Escola Pau Casals (Gràcia),"41,40617","2,16132",c. sant lluis nº60,8024,Gràcia,la Vila de Gràcia,tràfic,"37,9019194471292",41,39,6063,14963,Vila de Gràcia,1533
+254,1090709,Escola Pau Casals (Gràcia),"41,40529","2,16164",c. bruniquer nº45,8024,Gràcia,la Vila de Gràcia,tràfic,"32,3521050754266",35,34,6063,14963,Vila de Gràcia,1533
+255,1090710,Escola Pau Casals (Gràcia),"41,4043921505521","2,16122964827506",c. joan blanques nº9 bis,8012,Gràcia,la Vila de Gràcia,tràfic,"33,740581110204",36,35,6060,14756,Vila de Gràcia,1754
+256,1090711,Escola Pau Casals (Gràcia),"41,40517","2,16243",plaça joanic nº2,8024,Gràcia,la Vila de Gràcia,fons,"33,0391859998525",35,34,6063,14963,Vila de Gràcia,1533
+257,1090714,Escola Pau Casals (Gràcia),"41,41174","2,15755",c. de la mare de déu de la salut nº50,8024,Gràcia,la Salut,tràfic,"42,449740804044",45,43,6024,16907,la Salut,1670
+258,1090715,Escola Pau Casals (Gràcia),"41,41144","2,16269","c/sardenya, 524",8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"38,2679536300823",41,39,6087,20606,el Camp d'en Grassot i Gràcia Nova,1857
+259,1090716,Escola Pau Casals (Gràcia),"41,41003","2,16036",c. ca l'alegre de dalt nº68,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"34,613746451662",37,36,6085,18340,el Camp d'en Grassot i Gràcia Nova,1240
+260,1090717,Escola Pau Casals (Gràcia),"41,40889","2,15989",c. escorial nº112-116,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"45,9199084491359",49,47,6084,16919,el Camp d'en Grassot i Gràcia Nova,1496
+261,1090718,Escola Pau Casals (Gràcia),"41,41003","2,16121",c. martí nº132,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"36,3580322508744",39,38,6085,18340,el Camp d'en Grassot i Gràcia Nova,1240
+262,1090719,Escola Pau Casals (Gràcia),"41,41078","2,1596",c. ca l'alegre de dalt nº82,8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"42,4047533625637",45,43,6086,20922,el Camp d'en Grassot i Gràcia Nova,1016
+263,1090720,Escola Pau Casals (Gràcia),"41,4112487714066","2,15785489315374",travessera de dalt nº100,8024,Gràcia,la Salut,tràfic,"57,6105085828957",62,60,6025,18589,la Salut,1429
+264,1090721,Escola Sagrada Família (Gràcia),"41,4058320496411","2,1718004910038","còrsega, 528",8025,Eixample,la Sagrada Família,tràfic,"54,991639245054",59,57,2048,15157,la Sagrada Família,1277
+265,1090722,Escola Sagrada Família (Gràcia),"41,4072","2,17423000000001","avinguda gaudí, 41",8025,Eixample,la Sagrada Família,tràfic,"43,9708716828497",47,45,2047,16025,la Sagrada Família,1914
+266,1090723,Escola Sagrada Família (Gràcia),"41,40895","2,17381000000001","indústria, 142-144",8025,Eixample,la Sagrada Família,tràfic,"59,5667145301699",64,62,2046,14398,la Sagrada Família,1905
+267,1090724,Escola Sagrada Família (Gràcia),"41,40985","2,17588000000001","cartagena, 296",8025,Eixample,la Sagrada Família,tràfic,"47,1245664673948",50,48,2039,15339,la Sagrada Família,1749
+268,1090725,Escola Sagrada Família (Gràcia),"41,41083","2,17631000000001","indústria, 188-190",8025,Eixample,la Sagrada Família,tràfic,"57,2598490837378",61,59,2038,17947,la Sagrada Família,1584
+269,1090726,Escola Sagrada Família (Gràcia),"41,40557","2,17025000000001",sardenya 357,8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"49,5750275557298",53,51,6073,16600,el Camp d'en Grassot i Gràcia Nova,1350
+270,1090727,Escola Sagrada Família (Gràcia),"41,40453","2,17306000000001",passatge simó 16,8025,Eixample,la Sagrada Família,tràfic,"42,6054128235674",46,44,2049,14250,la Sagrada Família,2119
+271,1090728,Escola Sagrada Família (Gràcia),"41,40564","2,17491000000001","lepant, 295",8025,Eixample,la Sagrada Família,tràfic,"56,8517008108191",61,59,2049,14250,la Sagrada Família,2119
+272,1090730,Escola Sagrada Família (Gràcia),"41,40451","2,17585000000001",plaça gaudí,8013,Eixample,la Sagrada Família,fons,"42,7712826679879",46,44,2049,14250,la Sagrada Família,2119
+273,1090731,Escola Sagrada Família (Gràcia),"41,40477","2,17815000000001",padilla 239,8013,Eixample,la Sagrada Família,tràfic,"79,8637575517166",85,82,2026,15845,la Sagrada Família,2131
+274,1090732,Escola Sagrada Família (Gràcia),"41,40435","2,18006000000001",padilla 210,8013,Eixample,la Sagrada Família,fons,"41,3558295592682",44,42,2025,14286,la Sagrada Família,1168
+275,1090733,Escola Sagrada Família (Gràcia),"41,40228","2,17849000000001",aragó 447- 451,8013,Eixample,la Sagrada Família,tràfic,"46,8864620879522",50,48,2024,15027,la Sagrada Família,1089
+276,1090735,Escola Sagrada Família (Gràcia),"41,40332","2,17616000000001",marina 258,8013,Eixample,la Sagrada Família,tràfic,"48,9536557267349",52,50,2050,15316,la Sagrada Família,1647
+277,1090736,Escola Sagrada Família (Gràcia),"41,4016781028994","2,17466993004092","passatge, mayol 4",8013,Eixample,la Sagrada Família,tràfic,"43,0791313752672",46,44,2052,16228,la Sagrada Família,1787
+278,1090737,Escola Sagrada Família (Gràcia),"41,40258","2,17317000000001",plaça sagrada família,8013,Eixample,la Sagrada Família,fons,"37,4385410393111",40,38,2052,16228,la Sagrada Família,1787
+279,1090738,Escola Sagrada Família (Gràcia),"41,40137","2,17046000000001","provença, 365",8025,Eixample,la Dreta de l'Eixample,tràfic,"42,8570543551004",46,44,2056,17141,la Dreta de l'Eixample,1457
+280,1090739,Escola Sagrada Família (Gràcia),"41,40235","2,17038000000001","nàpols, 366-368",8025,Eixample,la Sagrada Família,tràfic,"44,3870863125517",47,45,2054,16703,la Sagrada Família,1874
+281,1090740,Escola Sagrada Família (Gràcia),"41,403421201137","2,17006553148949",jardins de caterina albert,8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,"40,9144179156351",44,42,6072,18962,el Camp d'en Grassot i Gràcia Nova,1608
+282,1090742,Escola Sagrada Família (Gràcia),"41,4048758771725","2,17122329446135","sardenya, 343",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"39,4709520785817",42,40,6072,18962,el Camp d'en Grassot i Gràcia Nova,1608
+283,1090743,Escola Sagrada Família (Gràcia),"41,4044663220508","2,17072029210151","sardenya, 343",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,pati,"37,3825954277984",40,38,6072,18962,el Camp d'en Grassot i Gràcia Nova,1608
+284,1090744,Escola Sagrada Família (Gràcia),"41,4042618004838","2,17097997666185","sardenya, 343",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,pati,"42,1624565766707",45,43,6072,18962,el Camp d'en Grassot i Gràcia Nova,1608
+285,1090745,Escola Sagrada Família (Gràcia),"41,4047271785466","2,17108160062457","sardenya, 343",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,aula,"29,5675266425624",32,31,6072,18962,el Camp d'en Grassot i Gràcia Nova,1608
+286,1090746,Escola Sagrada Família (Gràcia),"41,4047661881094","2,1710066128106","sardenya, 343",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,aula,"28,0847872229048",30,29,6072,18962,el Camp d'en Grassot i Gràcia Nova,1608
+287,1090747,Escola Sagrada Família (Gràcia),"41,40047","2,16800000000001","passeig de sant joan, 119",8037,Eixample,la Dreta de l'Eixample,tràfic,"48,9168693818862",52,50,2057,21575,la Dreta de l'Eixample,1306
+288,1090748,Escola Sagrada Família (Gràcia),"41,4015","2,16840000000001","rosselló, 312-314",8037,Eixample,la Dreta de l'Eixample,tràfic,"57,1039449404762",61,59,2055,17667,la Dreta de l'Eixample,1843
+289,1090749,Escola Sagrada Família (Gràcia),"41,40228","2,16790000000001","roger de flor, 233",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"48,8144857128714",52,50,6069,18206,el Camp d'en Grassot i Gràcia Nova,1085
+290,1090750,Escola Sagrada Família (Gràcia),"41,40337","2,16783000000001","carrer grassot, 26",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"38,8996512054691",42,40,6070,16787,el Camp d'en Grassot i Gràcia Nova,1851
+291,1090752,Escola Sagrada Família (Gràcia),"41,40446","2,16878000000001",jardins d'antoni puigvert,8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,"34,7752922642503",37,36,6071,16860,el Camp d'en Grassot i Gràcia Nova,1074
+292,1090753,Escola Sagrada Família (Gràcia),"41,4056","2,16793000000001","sicília, 321",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"45,0813742468223",48,46,6076,17555,el Camp d'en Grassot i Gràcia Nova,1328
+293,1090754,Escola Sagrada Família (Gràcia),"41,40575","2,16680000000001","sant antoni maria claret, 64",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"61,2382488280367",66,63,6076,17555,el Camp d'en Grassot i Gràcia Nova,1328
+294,1090755,Escola Sagrada Família (Gràcia),"41,4071682533564","2,16690689203579","travessera de gràcia, 337",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"51,8230410775395",55,53,6077,15909,el Camp d'en Grassot i Gràcia Nova,1192
+295,1090756,Escola Sagrada Família (Gràcia),"41,40637","2,16920000000001","sardenya, 379-381",8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,"41,8166556352225",45,43,6074,15572,el Camp d'en Grassot i Gràcia Nova,1098
+296,1090757,Escola Sagrada Família (Gràcia),"41,408","2,17094000000001",jardins d'indústria,8025,Eixample,la Sagrada Família,fons,"37,8605417069716",41,39,2042,18915,la Sagrada Família,1630
+297,1090758,Escola Sagrada Família (Gràcia),"41,40839","2,17269000000001","indústria, 133",8025,Eixample,la Sagrada Família,tràfic,"58,9586611115255",63,61,2042,18915,la Sagrada Família,1630
+298,1090759,Escola Sagrada Família (Gràcia),"41,4102265916211","2,17109972569166","padilla, 351-353",8025,Horta-Guinardó,el Baix Guinardó,tràfic,"71,2081232234529",76,73,7005,14704,el Baix Guinardó,1476
+299,1090760,Escola Sagrada Família (Gràcia),"41,40974","2,16865000000001",jardins del príncep de girona,8025,Horta-Guinardó,el Baix Guinardó,fons,"35,7798844598743",38,37,7006,16675,el Baix Guinardó,947
+300,1090761,Escola Sagrada Família (Gràcia),"41,41026","2,16793000000001","tadirt, 63",8025,Horta-Guinardó,el Baix Guinardó,tràfic,"35,6079151533262",38,37,7006,16675,el Baix Guinardó,947
+301,1090763,Escola Joan Miró (L'Eixample),"41,379","2,151","diputació,21",8015,Eixample,la Nova Esquerra de l'Eixample,aula,"34,6076118005511",37,36,2148,17352,la Nova Esquerra de l'Eixample,1608
+302,1090764,Escola Joan Miró (L'Eixample),"41,3788052727088","2,1508787160309",diputació 21,8015,Eixample,la Nova Esquerra de l'Eixample,pati,"39,0572787396907",42,40,2148,17352,la Nova Esquerra de l'Eixample,1608
+303,1090765,Escola Joan Miró (L'Eixample),"41,3786444823385","2,15128920440512",diputació 21,8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"61,148157390208",65,63,2148,17352,la Nova Esquerra de l'Eixample,1608
+304,1090766,Escola Joan Miró (L'Eixample),"41,38","2,151",consell de cent ( entre rocafort i entença),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"49,6109235342218",53,51,2147,15533,la Nova Esquerra de l'Eixample,2172
+305,1090767,Escola Joan Miró (L'Eixample),"41,3774660262414","2,14999724164459",diputació ( entre vilamarí i llança),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"49,6538660919984",53,51,2149,16679,la Nova Esquerra de l'Eixample,1835
+306,1090768,Escola Joan Miró (L'Eixample),"41,3764263452947","2,15128577787636",gran via ( entre vikamarí i llança),8015,Eixample,Sant Antoni,tràfic,"80,3312114141367",86,83,2150,15236,Sant Antoni,1481
+307,1090769,Escola Joan Miró (L'Eixample),"41,3788006706945","2,15275009763733",parc del trenet ( entença),8015,Eixample,la Nova Esquerra de l'Eixample,fons,"43,2738289366144",46,44,2146,17166,la Nova Esquerra de l'Eixample,1164
+308,1090770,Escola Joan Miró (L'Eixample),"41,3782472342274","2,1548554845643",rocafort 60,8015,Eixample,Sant Antoni,tràfic,"53,7988453592944",58,56,2159,16496,Sant Antoni,1890
+309,1090771,Escola Joan Miró (L'Eixample),"41,378851","2,157754",parc tete montoliu,8015,Eixample,Sant Antoni,fons,"39,032740135247",42,40,2158,16512,Sant Antoni,1665
+310,1090772,Escola Joan Miró (L'Eixample),"41,3792777675295","2,15938391440422",floridablanca 87,8015,Eixample,Sant Antoni,tràfic,"47,5742193653877",51,49,2161,16392,Sant Antoni,1113
+311,1090773,Escola Joan Miró (L'Eixample),"41,380015930951","2,15810496363195",sepulveda 101,8015,Eixample,Sant Antoni,tràfic,"83,5784867355309",89,86,2160,18153,Sant Antoni,1994
+312,1090774,Escola Joan Miró (L'Eixample),"41,379838","2,155828",gran via 478,8015,Eixample,Sant Antoni,tràfic,"50,0669326001355",54,52,2159,16496,Sant Antoni,1890
+313,1090775,Escola Joan Miró (L'Eixample),"41,378839322365","2,15827012852468",viladomat 87,8015,Eixample,Sant Antoni,tràfic,"42,3965738277491",45,43,2158,16512,Sant Antoni,1665
+314,1090776,Escola Joan Miró (L'Eixample),"41,38184","2,157751","gran via, 515",8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"56,1504616184905",60,58,2144,17890,la Nova Esquerra de l'Eixample,1572
+315,1090777,Escola Joan Miró (L'Eixample),"41,3835384","2,16001118",gran via 547,8011,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"68,55268128112",73,70,2094,19958,l'Antiga Esquerra de l'Eixample,1425
+316,1090778,Escola Joan Miró (L'Eixample),"41,3851458","2,155732299",arago 134,8011,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"81,3700123355902",87,84,2097,16521,l'Antiga Esquerra de l'Eixample,1080
+317,1090779,Escola Joan Miró (L'Eixample),"41,3837736028015","2,15663409093272",urgell 106,8015,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"63,5304469049587",68,65,2095,18301,l'Antiga Esquerra de l'Eixample,1507
+318,1090780,Escola Joan Miró (L'Eixample),"41,3835215","2,154302499",borell 171,8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"62,6797752842409",67,64,2140,17368,la Nova Esquerra de l'Eixample,1917
+319,1090781,Escola Joan Miró (L'Eixample),"41,3809923","2,1543738","diputació, 71",8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"59,9191822843151",64,62,2142,14657,la Nova Esquerra de l'Eixample,1971
+320,1090782,Escola Joan Miró (L'Eixample),"41,3841294096992","2,15891752251333","diputació, 170",8011,Eixample,l'Antiga Esquerra de l'Eixample,fons,"64,6633124767801",69,66,2094,19958,l'Antiga Esquerra de l'Eixample,1425
+321,1090783,Escola Joan Miró (L'Eixample),"41,3765736530439","2,15482649133288","entena,24",8015,Eixample,Sant Antoni,tràfic,"63,8944362042082",68,65,2153,19013,Sant Antoni,1343
+322,1090784,Escola Joan Miró (L'Eixample),"41,3764886013125","2,15693457091353","rocafort,33",8015,Eixample,Sant Antoni,tràfic,"62,8065580738671",67,64,2155,14604,Sant Antoni,1887
+323,1090785,Escola Joan Miró (L'Eixample),"41,3772130152911","2,16116113573352","manso,39",8015,Eixample,Sant Antoni,tràfic,"66,9126845507937",72,69,2168,16000,Sant Antoni,2191
+324,1090786,Escola Joan Miró (L'Eixample),"41,3756970210113","2,1614308345565","parlament,9",8015,Eixample,Sant Antoni,tràfic,"65,5221636323126",70,67,2173,15582,Sant Antoni,1555
+325,1090787,Escola Joan Miró (L'Eixample),"41,3757077359909","2,15788029465777","rocafort, 11",8015,Eixample,Sant Antoni,tràfic,"56,7782409155106",61,59,2155,14604,Sant Antoni,1887
+326,1090788,Escola Joan Miró (L'Eixample),"41,3759","2,160091",parc dels tres tombs,8015,Eixample,Sant Antoni,fons,"66,4464510663618",71,68,2173,15582,Sant Antoni,1555
+327,1090789,Escola Joan Miró (L'Eixample),"41,3801429981023","2,14869487988055",aragó (entença i villarroel),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"89,5209187783341",96,92,2135,15207,la Nova Esquerra de l'Eixample,2112
+328,1090790,Escola Joan Miró (L'Eixample),"41,3792399","2,1465687",llança ( aragó-valència),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"61,6041664561216",66,63,2131,16436,la Nova Esquerra de l'Eixample,1212
+329,1090791,Escola Joan Miró (L'Eixample),"41,378459","2,1455707",tarragona ( aragó i valència),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"61,4037678531641",66,63,2131,16436,la Nova Esquerra de l'Eixample,1212
+330,1090792,Escola Joan Miró (L'Eixample),"41,3766943","2,148",tarragona (  diputació i consell de cent),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"47,9709268038955",51,49,2148,17352,la Nova Esquerra de l'Eixample,1608
+331,1090793,Escola Joan Miró (L'Eixample),"41,3817800769792","2,14790934494143",entença ( av.roma-valència),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"57,6166432340066",62,60,2136,17982,la Nova Esquerra de l'Eixample,913
+332,1090794,Escola Joan Miró (L'Eixample),"41,3811163","2,14539",av.roma ( vilamarí -llana),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"51,7539616556457",55,53,2133,18569,la Nova Esquerra de l'Eixample,878
+333,1090795,Escola Joan Miró (L'Eixample),"41,3778564","2,1486063",parc joan miró,8015,Eixample,la Nova Esquerra de l'Eixample,fons,"35,9183822545899",38,37,2148,17352,la Nova Esquerra de l'Eixample,1608
+334,1090796,Escola Joan Miró (L'Eixample),"41,382","2,152","calabria,142-144",8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"45,8278886824717",49,47,2140,17368,la Nova Esquerra de l'Eixample,1917
+335,1090797,Escola Joan Miró (L'Eixample),"41,3827064913068","2,15316440896288","viladomat, 169",8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"47,0957165787339",50,48,2140,17368,la Nova Esquerra de l'Eixample,1917
+336,1090798,Escola Joan Miró (L'Eixample),"41,381701960728","2,14996919592459","rocafort, 155",8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,"44,8974665973115",48,46,2135,15207,la Nova Esquerra de l'Eixample,2112
+337,1090799,Escola Joan Miró (L'Eixample),"41,3842485095759","2,14969152180599","mallorca,59",8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,"80,8587914096781",87,84,2120,17454,la Nova Esquerra de l'Eixample,1192
+338,1090800,Escola Joan Miró (L'Eixample),"41,3850507033464","2,14879121691766","provença, 104",8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,"42,5622094077447",46,44,2120,17454,la Nova Esquerra de l'Eixample,1192
+339,1090801,Escola Joan Miró (L'Eixample),"41,3835521874455","2,14749942710996","rocafort, 199",8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,"41,1246561640796",44,42,2128,15964,la Nova Esquerra de l'Eixample,1303
+340,1090802,Escola Joan Miró (L'Eixample),"41,38275082119","2,14632380898645",entença 149,8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,"50,8726167793731",54,52,2129,18583,la Nova Esquerra de l'Eixample,1511
+341,1090803,Escola Fort Pienc (L'Eixample),"41,3947685628975","2,18169716103497","ribes, 27",8013,Eixample,el Fort Pienc,tràfic,"47,0564351254806",50,48,2002,15377,el Fort Pienc,2599
+342,1090804,Escola Fort Pienc (L'Eixample),"41,395129864798","2,18274718648393","alí bei, 75",8013,Eixample,el Fort Pienc,tràfic,"48,4293051112277",52,50,2003,18333,el Fort Pienc,1263
+343,1090805,Escola Fort Pienc (L'Eixample),"41,3951914959854","2,18241141524102","alí bei, 75",8013,Eixample,el Fort Pienc,aula,"35,3717984961674",38,37,2003,18333,el Fort Pienc,1263
+344,1090806,Escola Fort Pienc (L'Eixample),"41,3956091454115","2,18234567793006","plaça del fort pienc, 39",8013,Eixample,el Fort Pienc,fons,"37,3362989629273",40,38,2003,18333,el Fort Pienc,1263
+345,1090807,Escola Fort Pienc (L'Eixample),"41,39622","2,18421","ali bei,104",8013,Eixample,el Fort Pienc,tràfic,"52,9968713637387",57,55,2003,18333,el Fort Pienc,1263
+346,1090808,Escola Fort Pienc (L'Eixample),"41,39703","2,18392","marina,131",8013,Eixample,el Fort Pienc,tràfic,"57,6629043154762",62,60,2003,18333,el Fort Pienc,1263
+347,1090809,Escola Fort Pienc (L'Eixample),"41,39777","2,18529","lepant,133",8013,Eixample,el Fort Pienc,tràfic,"57,4652834428806",61,59,2012,14271,el Fort Pienc,1551
+348,1090811,Escola Fort Pienc (L'Eixample),"41,39656","2,18329",jardins de lina òdena,8013,Eixample,el Fort Pienc,fons,"42,270072325023",45,43,2003,18333,el Fort Pienc,1263
+349,1090812,Escola Fort Pienc (L'Eixample),"41,3975566892254","2,1830542202741","marina, 145-147",8013,Eixample,el Fort Pienc,tràfic,"61,2484869409916",66,63,2009,16521,el Fort Pienc,1771
+350,1090813,Escola Fort Pienc (L'Eixample),"41,4000027482731","2,18483254608219","padilla, 148",8013,Eixample,el Fort Pienc,tràfic,"47,4444743112476",51,49,2013,14346,el Fort Pienc,1151
+351,1090814,Escola Fort Pienc (L'Eixample),"41,40046","2,18442","ribes, 85",8013,Eixample,el Fort Pienc,tràfic,"54,7089250124101",59,57,2013,14346,el Fort Pienc,1151
+352,1090815,Escola Fort Pienc (L'Eixample),"41,40061","2,18334","gran via corts catalanes, 806-812",8013,Eixample,el Fort Pienc,tràfic,"61,2161848489337",66,63,2013,14346,el Fort Pienc,1151
+353,1090816,Escola Fort Pienc (L'Eixample),"41,39854","2,18305","casp, 155-157",8013,Eixample,el Fort Pienc,tràfic,"40,7589643335443",44,42,2011,18279,el Fort Pienc,1093
+354,1090817,Escola Fort Pienc (L'Eixample),"41,3993170798139","2,18185856779301","gran via corts catalanes, 780",8013,Eixample,el Fort Pienc,tràfic,"61,269426998079",66,63,2010,16014,el Fort Pienc,1194
+355,1090818,Escola Fort Pienc (L'Eixample),"41,39858","2,18184","marina, 155",8013,Eixample,el Fort Pienc,tràfic,"47,5616887389293",51,49,2009,16521,el Fort Pienc,1771
+356,1090819,Escola Fort Pienc (L'Eixample),"41,3978399475515","2,18212570337902","casp, 190",8013,Eixample,el Fort Pienc,tràfic,"39,9400019345238",43,41,2009,16521,el Fort Pienc,1771
+357,1090820,Escola Fort Pienc (L'Eixample),"41,3984335385389","2,18059860172495","gan via corts catalanes, 764",8013,Eixample,el Fort Pienc,tràfic,"53,5533005879261",57,55,2009,16521,el Fort Pienc,1771
+358,1090821,Escola Fort Pienc (L'Eixample),"41,3970129275831","2,18071995758507","casp, 127-135",8013,Eixample,el Fort Pienc,tràfic,"52,3130671825022",56,54,2008,17398,el Fort Pienc,1852
+359,1090822,Escola Fort Pienc (L'Eixample),"41,3982189489502","2,17955711862004","gran via corts catalanes, 727",8013,Eixample,el Fort Pienc,tràfic,"52,9474249572132",57,55,2016,17476,el Fort Pienc,1872
+360,1090823,Escola Fort Pienc (L'Eixample),"41,3970045865301","2,17970282199905","sicilia, 198",8013,Eixample,el Fort Pienc,tràfic,"49,9185624643509",53,51,2008,17398,el Fort Pienc,1852
+361,1090824,Escola Fort Pienc (L'Eixample),"41,39522","2,18106","ausiàs marc, 98",8013,Eixample,el Fort Pienc,tràfic,"42,888279152824",46,44,2002,15377,el Fort Pienc,2599
+362,1090825,Escola Fort Pienc (L'Eixample),"41,3937092109044","2,18028427117202",jardins antiga carretera d'horta,8013,Eixample,el Fort Pienc,fons,"40,8592539068406",44,42,2002,15377,el Fort Pienc,2599
+363,1090826,Escola Fort Pienc (L'Eixample),"41,39524","2,1784","casp, 89",8013,Eixample,el Fort Pienc,tràfic,"53,0938340362208",57,55,2007,19053,el Fort Pienc,1281
+364,1090827,Escola Fort Pienc (L'Eixample),"41,396926","2,178677","gran via corts catalanes, 734",8013,Eixample,el Fort Pienc,tràfic,"54,0021813718215",58,56,2008,17398,el Fort Pienc,1852
+365,1090828,Escola Fort Pienc (L'Eixample),"41,39636","2,177095","gran via corts catalanes, 677",8013,Eixample,la Dreta de l'Eixample,tràfic,"60,8382058174396",65,63,2068,16980,la Dreta de l'Eixample,1624
+366,1090829,Escola Fort Pienc (L'Eixample),"41,3981417690249","2,18131718648393","marina, 155",8013,Eixample,el Fort Pienc,fons,"38,8039860518289",42,40,2009,16521,el Fort Pienc,1771
+367,1090830,Escola Fort Pienc (L'Eixample),"41,396896","2,175636","diputació, 375",8013,Eixample,la Dreta de l'Eixample,tràfic,"49,7015042654467",53,51,2067,16563,la Dreta de l'Eixample,1676
+368,1090831,Escola Fort Pienc (L'Eixample),"41,3937","2,184",parc de léstació del nord,8018,Eixample,el Fort Pienc,fons,"36,8884005258931",39,38,2001,15417,el Fort Pienc,1315
+369,1090832,Escola Fort Pienc (L'Eixample),"41,3949","2,18444","sardenya, 99",8018,Eixample,el Fort Pienc,tràfic,"42,0529912202381",45,43,2001,15417,el Fort Pienc,1315
+370,1090833,Escola Fort Pienc (L'Eixample),"41,39648","2,17809","gran via corts catalanes, 724",8013,Eixample,el Fort Pienc,tràfic,"37,0619688964946",40,38,2008,17398,el Fort Pienc,1852
+371,1090834,Escola Fort Pienc (L'Eixample),"41,3943172986756","2,17875854234404","roger de flor, 96",8013,Eixample,el Fort Pienc,tràfic,"40,1117582357557",43,41,2005,17904,el Fort Pienc,2037
+372,1090835,Escola Fort Pienc (L'Eixample),"41,3953389620795","2,18232134737713","alí bei, 75",8013,Eixample,el Fort Pienc,pati,"37,7417795966955",40,38,2003,18333,el Fort Pienc,1263
+373,1090836,Escola Fort Pienc (L'Eixample),"41,3931","2,1813","ribes, 19",8013,Eixample,el Fort Pienc,tràfic,"42,6702689417502",46,44,2001,15417,el Fort Pienc,1315
+374,1090837,Escola Fort Pienc (L'Eixample),"41,39968","2,17837","sardenya, 213",8013,Eixample,el Fort Pienc,tràfic,"49,6367821495022",53,51,2020,14801,el Fort Pienc,1406
+375,1090838,Escola Fort Pienc (L'Eixample),"41,4024","2,18252","av. diagonal, 300",8013,Eixample,la Sagrada Família,tràfic,"48,6306424533918",52,50,2021,15222,la Sagrada Família,1497
+376,1090839,Escola Fort Pienc (L'Eixample),"41,3962672289964","2,18032778155923","sicilia, 115",8013,Eixample,el Fort Pienc,tràfic,"45,706821846357",49,47,2005,17904,el Fort Pienc,2037
+377,1090840,Escola Fort Pienc (L'Eixample),"41,397125","2,175023","roger de flor, 160",8013,Eixample,la Dreta de l'Eixample,tràfic,"51,7451960716151",55,53,2067,16563,la Dreta de l'Eixample,1676
+378,1090841,Escola Fort Pienc (L'Eixample),"41,3927660140832","2,17987499575851","alí bei, 22",8010,Eixample,el Fort Pienc,tràfic,"43,0850955948038",46,44,2001,15417,el Fort Pienc,1315
+379,1090842,Escola Fort Pienc (L'Eixample),"41,3935722269319","2,18092146613894","alí bei, 44",8013,Eixample,el Fort Pienc,tràfic,"48,4795124637241",52,50,2001,15417,el Fort Pienc,1315
+380,1090843,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4050040764931","2,11560381550461",avinguda vallvidrera,8017,Sarrià-Sant Gervasi,Sarrià,aula,"21,3265865251069",23,22,5005,25314,Sarrià,1227
+381,1090844,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4050759733413","2,11529906673728",pati de dalt de l'escola,8017,Sarrià-Sant Gervasi,Sarrià,pati,"24,1210868767062",26,25,5005,25314,Sarrià,1227
+382,1090845,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,405134218889","2,11577032664453",sortida escola,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"42,4851872302411",45,43,5005,25314,Sarrià,1227
+383,1090846,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4046147395475","2,11541822691747",avinguda santa eulàlia,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"26,3479798571179",28,27,5005,25314,Sarrià,1227
+384,1090847,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4056948298179","2,11511059590124",segon fanal av.vallvidrera/25,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"46,5955993053846",50,48,5005,25314,Sarrià,1227
+385,1090848,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4083","2,1119",av. vallvidrera/63,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"39,5557170499347",42,40,5005,25314,Sarrià,1227
+386,1090849,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4088194245837","2,11050030768569","av. vallvidrera, 83",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"40,9528859329731",44,42,5005,25314,Sarrià,1227
+387,1090850,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,407","2,114",residència betania,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"32,933874717584",35,34,5004,30210,Sarrià,1123
+388,1090851,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4046156867477","2,11640093319831","av. vallvidrera, 5-7",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"60,5453324901432",65,63,5005,25314,Sarrià,1227
+389,1090852,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4044","2,1176","general vives, 4",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"61,1098604235802",65,63,5007,25829,Sarrià,1732
+390,1090853,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4044","2,1181",general vives cantonada via augusta,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"57,6948494618229",62,60,5007,25829,Sarrià,1732
+391,1090854,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4058","2,1198","general vives,29",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"39,6278854251923",42,40,5004,30210,Sarrià,1123
+392,1090855,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,403","2,118",major de sarrià 220,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"37,3732075303215",40,38,5007,25829,Sarrià,1732
+393,1090856,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4038","2,1187",via augusta cantonada santa filomena,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"45,1795192140763",48,46,5008,26342,Sarrià,1644
+394,1090857,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,403652730562","2,11851067897188",via augusta cantonada institut químic de sarrià,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"54,8953686769622",59,57,5007,25829,Sarrià,1732
+395,1090858,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4015040659319","2,11969236904049","santa magdalena sofia, 2",8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"27,7965181216031",30,29,5007,25829,Sarrià,1732
+396,1090859,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4036","2,1163",ronda de dalt/pg santa eulalia,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"38,3717267472156",41,39,5005,25314,Sarrià,1227
+397,1090860,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4032","2,1167",parc raventos nord,8017,Sarrià-Sant Gervasi,Sarrià,fons,"27,3213550692316",29,28,5007,25829,Sarrià,1732
+398,1090861,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4022","2,1171",parc raventos centre,8034,Sarrià-Sant Gervasi,Sarrià,fons,"32,8978744944287",35,34,5007,25829,Sarrià,1732
+399,1090862,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4016","2,1178",parc ravenros baix,8034,Sarrià-Sant Gervasi,Sarrià,fons,"29,1784455673637",31,30,5007,25829,Sarrià,1732
+400,1090863,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,399","2,1175",av. foix / frederic mistral,8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"81,8822631605084",88,85,5006,30210,Sarrià,1752
+401,1090864,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,3998924638634","2,11819190238546",ramon miquel planes/26,8034,Sarrià-Sant Gervasi,Sarrià,fons,"34,1758118627652",37,36,5009,22985,Sarrià,1723
+402,1090865,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4006387512262","2,11462149311649",av. foix/naranjo de bulnes,8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"48,3766358088985",52,50,5006,30210,Sarrià,1752
+403,1090866,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4003412620385","2,11548558857185",av. foix/camp de fútbol,8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"44,3500674787202",47,45,5006,30210,Sarrià,1752
+404,1090867,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4054","2,1208","angli,86",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"34,7804909199142",37,36,5008,26342,Sarrià,1644
+405,1090868,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4046","2,1216","angli, 74",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"39,8689800788949",43,41,5008,26342,Sarrià,1644
+406,1090869,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4038","2,1224","angli, 64",8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"35,5280400416766",38,37,5008,26342,Sarrià,1644
+407,1090871,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4002050240578","2,12101246233066",pare miquel de sarria,8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"36,941215093785",40,38,5009,22985,Sarrià,1723
+408,1090872,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,3995","2,1204","reina elisenda, 12",8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"46,8047673414674",50,48,5009,22985,Sarrià,1723
+409,1090873,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,399","2,1193","reina elisenda, 13",8034,Sarrià-Sant Gervasi,Sarrià,tràfic,"35,9096074432421",38,37,5009,22985,Sarrià,1723
+410,1090874,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4006","2,1194",ramon miquel i planas,8034,Sarrià-Sant Gervasi,Sarrià,fons,"27,6463622559135",30,29,5007,25829,Sarrià,1732
+411,1090875,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4011","2,1204",dolors monserda 1,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"47,752305072133",51,49,5007,25829,Sarrià,1732
+412,1090876,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4014598083343","2,12148232232762",via augusta 349,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"43,761813945412",47,45,5008,26342,Sarrià,1644
+413,1090877,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,400589951957","2,12250529794449",passeig bonanova 108,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"64,6440838213269",69,66,5008,26342,Sarrià,1644
+414,1090878,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,3999034756447","2,1232986001902",mare de deu de núria 37,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"57,9738210244113",62,60,5008,26342,Sarrià,1644
+415,1090879,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4047","2,1143","vidal i quadras, 4",8017,Sarrià-Sant Gervasi,Sarrià,fons,"25,4533819129118",27,26,5005,25314,Sarrià,1227
+416,1090880,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4038406659109","2,11571627783517","passeig de santa eulàlia, 12",8017,Sarrià-Sant Gervasi,Sarrià,fons,"29,0623671008535",31,30,5005,25314,Sarrià,1227
+417,1090881,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4028","2,1158",ronda de dalt davant jardins de can setmenat,8017,Sarrià-Sant Gervasi,Sarrià,fons,"60,6224892439814",65,63,5007,25829,Sarrià,1732
+418,1090882,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),"41,4013662708711","2,11379571788842",rotonda de can caralleu,8017,Sarrià-Sant Gervasi,Sarrià,tràfic,"51,4723165756854",55,53,5005,25314,Sarrià,1227
+419,1090883,Escola Seat (Sants-Montjuïc),"41,359607073282","2,13829111405608","c/ mecànica, 18",8038,Sants-Montjuïc,la Marina de Port,tràfic,"38,6225206716172",41,39,3030,13031,la Marina de Port,1623
+420,1090884,Escola Seat (Sants-Montjuïc),"41,3597891599658","2,139116696595","c/mecànica, 4",8038,Sants-Montjuïc,la Marina de Port,tràfic,"39,9481918154762",43,41,3030,13031,la Marina de Port,1623
+421,1090886,Escola Seat (Sants-Montjuïc),"41,3593819143379","2,13770004337899","c/ de l'energia, 7",8038,Sants-Montjuïc,la Marina de Port,tràfic,"39,7146252108266",42,40,3030,13031,la Marina de Port,1623
+422,1090887,Escola Seat (Sants-Montjuïc),"41,3585915140837","2,13656458453867","c/ de l'energia, 10",8038,Sants-Montjuïc,la Marina de Port,fons,"36,4535857125192",39,38,3029,11155,la Marina de Port,1291
+423,1090888,Escola Seat (Sants-Montjuïc),"41,3581225691762","2,13587808750957",jardins de sant cirstòfol,8038,Sants-Montjuïc,la Marina de Port,fons,"38,6333225182406",41,39,3027,13044,la Marina de Port,1782
+424,1090889,Escola Seat (Sants-Montjuïc),"41,3576041676017","2,13675374598022","c/ de l'estany, 34-40",8038,Sants-Montjuïc,la Marina de Port,tràfic,"41,6384412472314",45,43,3027,13044,la Marina de Port,1782
+425,1090890,Escola Seat (Sants-Montjuïc),"41,3578793280409","2,13689631150478","passeig zona franca, 123",8038,Sants-Montjuïc,la Marina de Port,tràfic,"53,1416671876135",57,55,3029,11155,la Marina de Port,1291
+426,1090891,Escola Seat (Sants-Montjuïc),"41,3589624534123","2,13910657088304","passeig zona franca, 96",8038,Sants-Montjuïc,la Marina de Port,tràfic,"52,9348265237749",57,55,3030,13031,la Marina de Port,1623
+427,1090892,Escola Seat (Sants-Montjuïc),"41,357506342417","2,13935097212839",jardins de cal sèbio,8038,Sants-Montjuïc,la Marina de Port,fons,"48,1631557639329",52,50,3030,13031,la Marina de Port,1623
+428,1090894,Escola Seat (Sants-Montjuïc),"41,3567730755796","2,14180112244115","jardins de can farrero amb c/mare de déu del port, 160",8038,Sants-Montjuïc,la Marina de Port,fons,"39,8567623725513",43,41,3031,12162,la Marina de Port,2438
+429,1090896,Escola Seat (Sants-Montjuïc),"41,358098126991","2,14203039963595","c/ mare de déu del port, 172",8038,Sants-Montjuïc,la Marina de Port,tràfic,"43,7531284608484",47,45,3031,12162,la Marina de Port,2438
+430,1090897,Escola Seat (Sants-Montjuïc),"41,3582111589515","2,14331343483095","c/ de l'aviador, 10",8038,Sants-Montjuïc,la Marina de Port,tràfic,"42,1648646140874",45,43,3031,12162,la Marina de Port,2438
+431,1090898,Escola Seat (Sants-Montjuïc),"41,3591341117202","2,14397770635571",jardins de la mediterrània,8038,Sants-Montjuïc,la Marina de Port,fons,"39,628213963175",42,40,3032,10628,la Marina de Port,1646
+432,1090899,Escola Seat (Sants-Montjuïc),"41,3594574576308","2,1426896371201",jardins de la mediterrània,8038,Sants-Montjuïc,la Marina de Port,fons,"38,8938818012721",42,40,3032,10628,la Marina de Port,1646
+433,1090900,Escola Seat (Sants-Montjuïc),"41,3607751648792","2,14105776670262","passeig zona franca, 138 bis",8038,Sants-Montjuïc,la Marina de Port,tràfic,"57,9035251209477",62,60,3033,9313,la Marina de Port,1423
+434,1090901,Escola Seat (Sants-Montjuïc),"41,3595931079739","2,14099928771268","passeig zona franca, 189x",8038,Sants-Montjuïc,la Marina de Port,tràfic,"56,2458525208413",60,58,3211,12937,la Marina de Port,1504
+435,1090902,Escola Seat (Sants-Montjuïc),"41,3598305277809","2,14071221702488","passeig zona franca, 191",8038,Sants-Montjuïc,la Marina de Port,tràfic,"62,58439477273",67,64,3211,12937,la Marina de Port,1504
+436,1090904,Escola Seat (Sants-Montjuïc),"41,358728645763","2,14036931753129","passeig antoni ruiz villalba, 6",8038,Sants-Montjuïc,la Marina de Port,aula,"20,8207429308476",22,21,3034,12588,la Marina de Port,1506
+437,1090905,Escola Seat (Sants-Montjuïc),"41,3610105277268","2,13803372642112","passatge d'antonio ruiz villalba, 6",8038,Sants-Montjuïc,la Marina de Port,pati,"31,8909308497414",34,33,3028,14942,la Marina de Port,2568
+438,1090906,Escola Seat (Sants-Montjuïc),"41,3617331295412","2,13765164582158","passeig zona franca, 171",8038,Sants-Montjuïc,la Marina de Port,fons,"38,2138325809874",41,39,3028,14942,la Marina de Port,2568
+439,1090907,Escola Seat (Sants-Montjuïc),"41,360228","2,13799900000001","c/ foneria, 24",8038,Sants-Montjuïc,la Marina de Port,tràfic,"51,9136078869048",56,54,3030,13031,la Marina de Port,1623
+440,1090908,Escola Seat (Sants-Montjuïc),"41,3597","2,13643000000001","c/ foneria, 13-14",8038,Sants-Montjuïc,la Marina de Port,tràfic,"43,3704863966745",46,44,3028,14942,la Marina de Port,2568
+441,1090909,Escola Seat (Sants-Montjuïc),"41,359155","2,13583000000001","c/ energia, cantonada amb foneria",8038,Sants-Montjuïc,la Marina de Port,tràfic,"42,417440922619",45,43,3029,11155,la Marina de Port,1291
+442,1090910,Escola Seat (Sants-Montjuïc),"41,359994","2,13594600000001","c/ gernika, al mig del parc",8038,Sants-Montjuïc,la Marina de Port,fons,"39,4321378044507",42,40,3028,14942,la Marina de Port,2568
+443,1090911,Escola Seat (Sants-Montjuïc),"41,3606628191497","2,13625177849722","c/ jane adams, tocant al parc",8038,Sants-Montjuïc,la Marina de Port,tràfic,"41,5790093504229",44,42,3028,14942,la Marina de Port,2568
+444,1090912,Escola Seat (Sants-Montjuïc),"41,360985","2,13549800000001","c/ francesc boix i campo, 7",8038,Sants-Montjuïc,la Marina de Port,tràfic,"46,0312258928571",49,47,3028,14942,la Marina de Port,2568
+445,1090913,Escola Seat (Sants-Montjuïc),"41,3614","2,13628200000001",jardins dels drets humans,8038,Sants-Montjuïc,la Marina de Port,fons,"37,2291513392857",40,38,3028,14942,la Marina de Port,2568
+446,1090914,Escola Seat (Sants-Montjuïc),"41,3627692358899","2,1359505476247","carretera del prat, 8-14",8038,Sants-Montjuïc,la Marina de Port,tràfic,"55,1247281115081",59,57,3028,14942,la Marina de Port,2568
+447,1090915,Escola Seat (Sants-Montjuïc),"41,3630034715144","2,13724239399169","passeig zona franca, 234",8038,Sants-Montjuïc,la Marina de Port,tràfic,"60,7862641500015",65,63,3212,11958,la Marina de Port,2454
+448,1090916,Escola Seat (Sants-Montjuïc),"41,364289","2,13638600000001","passeig zona franca amb c/mare de déu del port, 291",8014,Sants-Montjuïc,la Marina de Port,tràfic,"80,2177785163387",86,83,3036,13839,la Marina de Port,2371
+449,1090917,Escola Seat (Sants-Montjuïc),"41,3651776865182","2,13647324317275","gran via de les corts catalanes, 140",8014,Sants-Montjuïc,la Marina de Port,tràfic,"74,9925048736388",80,77,3036,13839,la Marina de Port,2371
+450,1090918,Escola Seat (Sants-Montjuïc),"41,363832","2,13804500000001",parc de can sabaté (a la part que dóna al c/ mineria),8038,Sants-Montjuïc,la Marina de Port,fons,"41,160288407159",44,42,3212,11958,la Marina de Port,2454
+451,1090919,Escola Seat (Sants-Montjuïc),"41,362211","2,13871900000001",parc de can sabaté (prop de l'entrada pel c/ mare de déu del port),8038,Sants-Montjuïc,la Marina de Port,fons,"40,5890158737993",43,41,3212,11958,la Marina de Port,2454
+452,1090920,Escola Seat (Sants-Montjuïc),"41,362916619764","2,13941466445088","c/ mare de déu del port, 371",8038,Sants-Montjuïc,la Marina de Port,tràfic,"45,735698191829",49,47,3035,12801,la Marina de Port,2302
+453,1090921,Escola Seat (Sants-Montjuïc),"41,361774","2,13966600000001","c/ mare de déu del port, 337",8038,Sants-Montjuïc,la Marina de Port,tràfic,"60,7827089957637",65,63,3037,13263,la Marina de Port,1069
+454,1090922,Escola Seat (Sants-Montjuïc),"41,3612432792799","2,14066605276472","c/ foneria, 46",8038,Sants-Montjuïc,la Marina de Port,tràfic,"57,2145083333333",61,59,3033,9313,la Marina de Port,1423
+455,1090923,Escola Seat (Sants-Montjuïc),"41,360836","2,13948400000001",c/ foneria amb plaça marina,8038,Sants-Montjuïc,la Marina de Port,fons,"55,3076175784986",59,57,3211,12937,la Marina de Port,1504
+456,1090925,Escola Coves d'en Cimany (Horta-Guinardó),"41,420787","2,16066800000001","doctor bové, 121",8032,Horta-Guinardó,el Carmel,tràfic,"32,2110080998748",34,33,7060,10803,el Carmel,1840
+457,1090926,Escola Coves d'en Cimany (Horta-Guinardó),"41,4228","2,15608200000001","conca de tremp, 32",8032,Horta-Guinardó,el Carmel,tràfic,"51,3490746823232",55,53,7068,9458,el Carmel,1293
+458,1090927,Escola Coves d'en Cimany (Horta-Guinardó),"41,421019","2,15743900000001","conca de tremp, 87",8032,Horta-Guinardó,el Carmel,tràfic,"48,6068856357303",52,50,7067,10215,el Carmel,1519
+459,1090928,Escola Coves d'en Cimany (Horta-Guinardó),"41,41949","2,15711000000001","calderón de la barca, 118",8032,Horta-Guinardó,el Carmel,tràfic,"34,3376871516695",37,36,7064,11151,el Carmel,1640
+460,1090929,Escola Coves d'en Cimany (Horta-Guinardó),"41,418151","2,15921200000001","muhlberg, 46",8024,Horta-Guinardó,el Carmel,tràfic,"33,170058556886",35,34,7060,10803,el Carmel,1840
+461,1090930,Escola Coves d'en Cimany (Horta-Guinardó),"41,417971","2,15792900000001","muhlberg, 6",8024,Horta-Guinardó,el Carmel,tràfic,"33,1945971613298",36,35,7060,10803,el Carmel,1840
+462,1090931,Escola Coves d'en Cimany (Horta-Guinardó),"41,418187","2,15647200000001",jardins joan ponce,8024,Horta-Guinardó,el Carmel,fons,"36,7465601545677",39,38,7061,11669,el Carmel,1221
+463,1090932,Escola Coves d'en Cimany (Horta-Guinardó),"41,418758","2,15732800000001",calderón de la barca amb gran vista,8032,Horta-Guinardó,el Carmel,tràfic,"49,8747135319925",53,51,7066,9991,el Carmel,1805
+464,1090933,Escola Coves d'en Cimany (Horta-Guinardó),"41,419852","2,15985700000001","gran vista, 99",8032,Horta-Guinardó,el Carmel,tràfic,"35,7854648138528",38,37,7060,10803,el Carmel,1840
+465,1090934,Escola Coves d'en Cimany (Horta-Guinardó),"41,420295","2,16365400000001","gran vista, 27-29",8032,Horta-Guinardó,el Carmel,tràfic,"33,967563201309",36,35,7060,10803,el Carmel,1840
+466,1090935,Escola Coves d'en Cimany (Horta-Guinardó),"41,42143","2,14950700000001","lorda, 14-18",8035,Horta-Guinardó,la Teixonera,tràfic,"35,9081578360717",38,37,7083,11990,la Teixonera,1254
+467,1090936,Escola Coves d'en Cimany (Horta-Guinardó),"41,42283","2,14969000000001","fastenrath, 129",8035,Horta-Guinardó,la Teixonera,tràfic,"32,9553457680029",35,34,7083,11990,la Teixonera,1254
+468,1090937,Escola Coves d'en Cimany (Horta-Guinardó),"41,42215","2,15033000000001","fastenrath, 151",8035,Horta-Guinardó,la Teixonera,tràfic,"42,298419409974",45,43,7083,11990,la Teixonera,1254
+469,1090938,Escola Coves d'en Cimany (Horta-Guinardó),"41,42424","2,15088000000001","murtra, 8",8032,Horta-Guinardó,la Teixonera,tràfic,"38,4029159545231",41,39,7082,11609,la Teixonera,1268
+470,1090940,Escola Coves d'en Cimany (Horta-Guinardó),"41,42264","2,15352000000001",carrer de l'hortal,8032,Horta-Guinardó,el Carmel,tràfic,"36,6811238760509",39,38,7063,10388,el Carmel,1442
+471,1090941,Escola Coves d'en Cimany (Horta-Guinardó),"41,42681","2,15544000000001","dante aligheiri, 114",8032,Horta-Guinardó,el Carmel,tràfic,"48,9729198186834",52,50,7074,11436,el Carmel,1687
+472,1090942,Escola Coves d'en Cimany (Horta-Guinardó),"41,42176","2,15405000000001","murtra, 105",8032,Horta-Guinardó,el Carmel,tràfic,"36,022671323476",39,38,7063,10388,el Carmel,1442
+473,1090943,Escola Coves d'en Cimany (Horta-Guinardó),"41,420407","2,15249100000001",pati escola,8032,Horta-Guinardó,el Carmel,pati,"28,6733592925625",31,30,7061,11669,el Carmel,1221
+474,1090946,Escola Coves d'en Cimany (Horta-Guinardó),"41,420524","2,15258200000001",escola coves d'en cimany,8032,Horta-Guinardó,el Carmel,aula,"24,9578056030327",27,26,7061,11669,el Carmel,1221
+475,1090948,Escola Coves d'en Cimany (Horta-Guinardó),"41,421151","2,15282200000001","santuaris, 63",8032,Horta-Guinardó,el Carmel,tràfic,"49,4227942334861",53,51,7061,11669,el Carmel,1221
+476,1090949,Escola Coves d'en Cimany (Horta-Guinardó),"41,420765","2,15154700000001",plaça salvador allende,8032,Horta-Guinardó,el Carmel,fons,"44,0590642788155",47,45,7061,11669,el Carmel,1221
+477,1090950,Escola Coves d'en Cimany (Horta-Guinardó),"41,419597","2,15157900000001",plaça de grau miró,8023,Gràcia,el Carmel,fons,"36,2046659731008",39,38,6017,13526,el Coll,1331
+478,1090951,Escola Coves d'en Cimany (Horta-Guinardó),"41,418416729334","2,15138673331754","portell, 9",8023,Horta-Guinardó,el Carmel,tràfic,"30,8450257858374",33,32,7061,11669,el Carmel,1221
+479,1090952,Escola Coves d'en Cimany (Horta-Guinardó),"41,417758","2,14986400000001",plaça laguna lanao,8023,Gràcia,el Coll,fons,"31,8511085680326",34,33,6017,13526,el Coll,1331
+480,1090953,Escola Coves d'en Cimany (Horta-Guinardó),"41,418759","2,14938800000001","mora d'ebre, 86",8023,Gràcia,el Coll,tràfic,"52,3756063015549",56,54,6016,13038,el Coll,1613
+481,1090954,Escola Coves d'en Cimany (Horta-Guinardó),"41,420975","2,15047700000001","batet, 6",8032,Horta-Guinardó,el Carmel,tràfic,"42,938468009216",46,44,7062,12351,el Carmel,1290
+482,1090955,Escola Coves d'en Cimany (Horta-Guinardó),"41,420951","2,15145200000001","hortal, 21",8032,Horta-Guinardó,el Carmel,fons,"35,1433713309071",38,37,7062,12351,el Carmel,1290
+483,1090956,Escola Coves d'en Cimany (Horta-Guinardó),"41,421857","2,15239000000001","fastenrath, 187",8032,Horta-Guinardó,el Carmel,tràfic,"39,2903954819067",42,40,7062,12351,el Carmel,1290
+484,1090957,Escola Coves d'en Cimany (Horta-Guinardó),"41,420871","2,15510100000001","murtra, 130",8032,Horta-Guinardó,el Carmel,tràfic,"37,5501994501016",40,38,7064,11151,el Carmel,1640
+485,1090960,Escola Coves d'en Cimany (Horta-Guinardó),"41,424167","2,15491800000001","conca de tremp, 5",8032,Horta-Guinardó,el Carmel,tràfic,"34,8509529612853",37,36,7076,10426,el Carmel,1332
+486,1090961,Escola Coves d'en Cimany (Horta-Guinardó),"41,42411","2,15299000000001","bransi, 57",8032,Horta-Guinardó,el Carmel,tràfic,"37,4520450323265",40,38,7079,11580,el Carmel,1387
+487,1090963,Escola Coves d'en Cimany (Horta-Guinardó),"41,42532","2,15434000000001",plaça cosmos (dante amb tremp),8032,Horta-Guinardó,el Carmel,fons,"44,6295868321335",48,46,7079,11580,el Carmel,1387
+488,1090964,Escola Coves d'en Cimany (Horta-Guinardó),"41,42584","2,15748000000001","rambla del carmel, 28",8032,Horta-Guinardó,el Carmel,tràfic,"110,636387902211",118,114,7071,12433,el Carmel,1371
+489,1090965,Escola Coves d'en Cimany (Horta-Guinardó),"41,42437","2,15629000000001","llobregós, 122",8032,Horta-Guinardó,el Carmel,tràfic,"110,992197666646",119,114,7070,10632,el Carmel,1451
+490,1090967,80Tubes,"41,3876","2,1701",plaça catalunya,8002,Eixample,la Dreta de l'Eixample,fons,"47,5639949468694",51,49,2077,21540,la Dreta de l'Eixample,1539
+491,1090968,80Tubes,"41,3876","2,1681","rambla catalunya, 1",8007,Eixample,la Dreta de l'Eixample,tràfic,"81,8812332615024",88,85,2077,21540,la Dreta de l'Eixample,1539
+492,1090969,80Tubes,"41,3892","2,1716","pau claris, 77",8010,Eixample,la Dreta de l'Eixample,tràfic,"85,7583327636204",92,89,2077,21540,la Dreta de l'Eixample,1539
+493,1090970,80Tubes,"41,391","2,1692","pau claris, 97",8009,Eixample,la Dreta de l'Eixample,tràfic,"97,2914768521992",104,100,2078,25042,la Dreta de l'Eixample,1400
+494,1090971,80Tubes,"41,3892","2,1677","gran via, 632",8007,Eixample,la Dreta de l'Eixample,tràfic,"85,4516002080731",91,88,2077,21540,la Dreta de l'Eixample,1539
+495,1090972,80Tubes,"41,3876611846","2,16498235261","balmes, 20",8007,Eixample,la Dreta de l'Eixample,tràfic,"57,6105085828957",62,60,2079,23417,la Dreta de l'Eixample,1308
+496,1090974,80Tubes,"41,3906","2,1666","passeig de gràcia, 23",8007,Eixample,la Dreta de l'Eixample,tràfic,"55,442931857028",59,57,2079,23417,la Dreta de l'Eixample,1308
+497,1090975,80Tubes,"41,3928","2,1668","pau claris, 133",8009,Eixample,la Dreta de l'Eixample,tràfic,"87,8195755368983",94,90,2078,25042,la Dreta de l'Eixample,1400
+498,1090976,80Tubes,"41,3924","2,1652","passeig de gràcia 54 / aragó, 278-282",8007,Eixample,la Dreta de l'Eixample,tràfic,"59,7474120532086",64,62,2078,25042,la Dreta de l'Eixample,1400
+499,1090977,80Tubes,"41,3908984819","2,16374037403","rambla catalunya, 58",8007,Eixample,la Dreta de l'Eixample,tràfic,"57,0256718436521",61,59,2079,23417,la Dreta de l'Eixample,1308
+500,1090978,80Tubes,"41,3896626892","2,16232219164","balmes, 62",8007,Eixample,la Dreta de l'Eixample,tràfic,"61,2708504124269",66,63,2079,23417,la Dreta de l'Eixample,1308
+501,1090979,80Tubes,"41,3893","2,1603",plaça dr letamendi,8007,Eixample,l'Antiga Esquerra de l'Eixample,fons,"46,8482856505924",50,48,2090,17862,l'Antiga Esquerra de l'Eixample,1756
+502,1090980,80Tubes,"41,3922554559","2,16191243317","rambla catalunya, 78",8008,Eixample,la Dreta de l'Eixample,tràfic,"54,3632332615015",58,56,2081,23881,la Dreta de l'Eixample,2118
+503,1090981,80Tubes,"41,393143527","2,16196577512","passatge domingo / mallorca, 241",8007,Eixample,la Dreta de l'Eixample,tràfic,"47,345192390579",51,49,2081,23881,la Dreta de l'Eixample,2118
+504,1090982,80Tubes,"41,3941","2,1593","rambla catalunya, 113",8008,Eixample,la Dreta de l'Eixample,tràfic,"46,9525747194785",50,48,2083,27554,la Dreta de l'Eixample,1858
+505,1090983,80Tubes,"41,3936425062","2,15712593606","balmes, 132",8008,Eixample,la Dreta de l'Eixample,tràfic,"55,0932567437041",59,57,2083,27554,la Dreta de l'Eixample,1858
+506,1090984,80Tubes,"41,3901","2,1546","muntaner, 127",8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"54,8744541874137",59,57,2102,21233,l'Antiga Esquerra de l'Eixample,1398
+507,1090985,80Tubes,"41,3898","2,153","plaça dr farré i cajigal, alçada casanovas",8036,Eixample,l'Antiga Esquerra de l'Eixample,fons,"50,4186525971631",54,52,2103,16235,l'Antiga Esquerra de l'Eixample,1676
+508,1090986,80Tubes,"41,3922","2,1566","enric granados, 89",8008,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"43,9159224195601",47,45,2084,18939,l'Antiga Esquerra de l'Eixample,2058
+509,1090988,80Tubes,"41,4048236895","2,13042106981","passeig de la bonanova, 41",8022,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,tràfic,"60,6430711154067",65,63,5046,30210,Sant Gervasi - la Bonanova,1153
+510,1090989,80Tubes,"41,402709997","2,12620320552","passeig de la bonanova, 66",8017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,tràfic,"50,8930656164096",54,52,5031,30210,Sant Gervasi - la Bonanova,1668
+511,1090990,80Tubes,"41,4017606945","2,12980499407","carrer escoles pies, 88",8017,Sarrià-Sant Gervasi,les Tres Torres,fons,"37,4540899160301",40,38,5026,30210,les Tres Torres,1477
+512,1090991,80Tubes,"41,398882","2,125404",via augusta (a fgc sarrià),8017,Sarrià-Sant Gervasi,les Tres Torres,tràfic,"91,6884955042017",98,94,5028,30210,les Tres Torres,1642
+513,1090992,80Tubes,"41,3978734499","2,13113655015","via augusta, 276 (fgc tres torres)",8017,Sarrià-Sant Gervasi,les Tres Torres,tràfic,"89,4268541279662",96,92,5025,30210,les Tres Torres,1347
+514,1090993,80Tubes,"41,397883","2,133742","via augusta, 260",8017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"87,1815718213599",93,89,5049,30210,Sant Gervasi - Galvany,1718
+515,1090994,80Tubes,"41,4021848748","2,13699608523","general mitre, 131",8022,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,tràfic,"119,997865497515",128,123,5042,21924,Sant Gervasi - la Bonanova,1277
+516,1090995,80Tubes,"41,3977080337","2,13836057751","via augusta, 209",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"104,90253399718",112,108,5053,30210,Sant Gervasi - Galvany,1509
+517,1090996,80Tubes,"41,3980485112","2,14264729484","carrer santaló, 97",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"90,3675006316446",97,93,5063,26341,Sant Gervasi - Galvany,1587
+518,1090997,80Tubes,"41,3967256335","2,14104460944","carrer calvet, 73-75",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"57,3589878873469",61,59,5060,30210,Sant Gervasi - Galvany,1159
+519,1090999,80Tubes,"41,3963829605","2,13700504258","carrer dels valero, 3",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,"46,0957684476497",49,47,5054,30210,Sant Gervasi - Galvany,1032
+520,1091000,80Tubes,"41,39553","2,134429",general mitre amb lázaro cardenas,8017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"53,9828848926228",58,56,5055,30210,Sant Gervasi - Galvany,1475
+521,1091001,80Tubes,"41,393127","2,130916","carrer burgas, 5",8017,Sarrià-Sant Gervasi,les Tres Torres,tràfic,"86,7276076391499",93,89,5020,25730,les Tres Torres,1130
+522,1091002,80Tubes,"41,3942156693","2,13623986626","carrer santa fe de nou mèxic, 5-7",8017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,"39,6257564093051",42,40,5055,30210,Sant Gervasi - Galvany,1475
+523,1091003,80Tubes,"41,395115","2,140491",turó parc,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,"30,4360490451077",33,32,5058,30210,Sant Gervasi - Galvany,1580
+524,1091004,80Tubes,"41,3958589106","2,14363966866","carrer amigó, 49",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,"47,1836465779908",50,48,5062,25357,Sant Gervasi - Galvany,1568
+525,1091006,80Tubes,"41,392516","2,144818","plaça francesc macià, davant general òptica",8029,Sarrià-Sant Gervasi,les Corts,fons,"55,7230809244279",60,58,5059,28863,Sant Gervasi - Galvany,1667
+526,1091007,80Tubes,"41,392197","2,140946","avinguda diagonal, 620",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"56,4796878947779",60,58,5057,30045,Sant Gervasi - Galvany,1689
+527,1091009,Escola Àngels Garriga (Horta-Guinardó),"41,4235","2,1602","c/pedrell, 166",8032,Horta-Guinardó,la Font d'en Fargues,fons,"32,1882796130952",34,33,7058,15749,la Font d'en Fargues,1375
+528,1091010,Escola Àngels Garriga (Horta-Guinardó),"41,4238280661056","2,16125727010951","c/pedrell, 142",8032,Horta-Guinardó,la Font d'en Fargues,fons,"38,3654973214286",41,39,7057,16246,la Font d'en Fargues,1451
+529,1091011,Escola Àngels Garriga (Horta-Guinardó),"41,4241","2,1627","c/pedrell,122",8032,Horta-Guinardó,la Font d'en Fargues,fons,"37,3745217261905",40,38,7055,20600,la Font d'en Fargues,1192
+530,1091012,Escola Àngels Garriga (Horta-Guinardó),"41,4243","2,1636",c/pedrell 104 (can pujolet),8032,Horta-Guinardó,la Font d'en Fargues,fons,"31,0724083333333",33,32,7055,20600,la Font d'en Fargues,1192
+531,1091013,Escola Àngels Garriga (Horta-Guinardó),"41,4242","2,1646","c/ pedrell, 86",8032,Horta-Guinardó,la Font d'en Fargues,fons,"30,6731516369048",33,32,7056,15993,la Font d'en Fargues,1185
+532,1091016,Escola Àngels Garriga (Horta-Guinardó),"41,4248","2,169","av. federic rahola, 64",8032,Horta-Guinardó,la Font d'en Fargues,fons,"27,9295415178571",30,29,7053,16012,la Font d'en Fargues,1455
+533,1091017,Escola Àngels Garriga (Horta-Guinardó),"41,425","2,1676","av. federic rahola, 44 casa c",8032,Horta-Guinardó,la Font d'en Fargues,fons,"29,3607232142857",31,30,7054,19725,la Font d'en Fargues,1555
+534,1091019,Escola Àngels Garriga (Horta-Guinardó),"41,4268267334938","2,1685089625","arc de sant martí, 18",8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"38,932646577381",42,40,7053,16012,la Font d'en Fargues,1455
+535,1091020,Escola Àngels Garriga (Horta-Guinardó),"41,4267657931711","2,16970221180556","arc de sant martí, 29",8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"41,4100855654762",44,42,7053,16012,la Font d'en Fargues,1455
+536,1091022,Escola Àngels Garriga (Horta-Guinardó),"41,4260437074063","2,1676371092196",gallecs 22,8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"31,4859973214286",34,33,7053,16012,la Font d'en Fargues,1455
+537,1091023,Escola Àngels Garriga (Horta-Guinardó),"41,4260041690811","2,16787221963686","gallecs, 22 (dins escola, sorral)",8032,Horta-Guinardó,la Font d'en Fargues,pati,"34,6083894345238",37,36,7053,16012,la Font d'en Fargues,1455
+538,1091024,Escola Àngels Garriga (Horta-Guinardó),"41,4259394307347","2,16776900315011","gallecs, 22 (escola, dins classe)",8032,Horta-Guinardó,la Font d'en Fargues,aula,"14,2073959821429",15,14,7053,16012,la Font d'en Fargues,1455
+539,1091025,Escola Àngels Garriga (Horta-Guinardó),"41,4260716892063","2,17156926821278",dalmau creixell,8032,Horta-Guinardó,la Font d'en Fargues,fons,"39,5489351190476",42,40,7052,18463,la Font d'en Fargues,1233
+540,1091026,Escola Àngels Garriga (Horta-Guinardó),"41,4264","2,1727","passeig maragall, 271",8031,Horta-Guinardó,Vilapicina i la Torre Llobeta,tràfic,"54,2088220238095",58,56,7048,15537,el Guinardó,1258
+541,1091027,Escola Àngels Garriga (Horta-Guinardó),"41,4269","2,1708","passeig maragall, 297",8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"50,9492494047619",55,53,7052,18463,la Font d'en Fargues,1233
+542,1091028,Escola Àngels Garriga (Horta-Guinardó),"41,4273674059587","2,16926156374834","passeig maragall, 306",8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,"53,8341349702381",58,56,8006,14087,Vilapicina i la Torre Llobeta,1505
+543,1091029,Escola Àngels Garriga (Horta-Guinardó),"41,4273564830226","2,16781099783622","passeig maragall, 347",8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"46,1643114583333",49,47,7053,16012,la Font d'en Fargues,1455
+544,1091030,Escola Àngels Garriga (Horta-Guinardó),"41,4278589380825","2,16391806341545","passeig maragall, 391",8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"55,6297663690476",60,58,7057,16246,la Font d'en Fargues,1451
+545,1091031,Escola Àngels Garriga (Horta-Guinardó),"41,4273149758655","2,1658601614514","passeig de la font d'en fargues, 4-2",8032,Horta-Guinardó,la Font d'en Fargues,tràfic,"38,031759672619",41,39,7054,19725,la Font d'en Fargues,1555
+546,1091032,Escola Àngels Garriga (Horta-Guinardó),"41,4216","2,165",plaça de la font d'en fargues,8032,Horta-Guinardó,la Font d'en Fargues,fons,"31,1993514880952",33,32,7056,15993,la Font d'en Fargues,1185
+547,1091033,Escola Àngels Garriga (Horta-Guinardó),"41,423","2,1652",passeig de la font d'en fargues (escola),8032,Horta-Guinardó,la Font d'en Fargues,fons,"30,312796875",32,31,7054,19725,la Font d'en Fargues,1555
+548,1091034,Escola Àngels Garriga (Horta-Guinardó),"41,4253","2,1655","font d'en fargues, 26",8032,Horta-Guinardó,la Font d'en Fargues,fons,"41,3650412202381",44,42,7055,20600,la Font d'en Fargues,1192
+549,1091035,Escola Àngels Garriga (Horta-Guinardó),"41,4240368515182","2,16553100376667","font d'en fargues, 43",8032,Horta-Guinardó,la Font d'en Fargues,fons,"38,4760607142857",41,39,7054,19725,la Font d'en Fargues,1555
+550,1091036,Escola Àngels Garriga (Horta-Guinardó),"41,4255","2,1664","frederic rahola, 39",8032,Horta-Guinardó,la Font d'en Fargues,fons,"33,3143882440476",36,35,7054,19725,la Font d'en Fargues,1555
+551,1091037,Escola Àngels Garriga (Horta-Guinardó),"41,4265","2,1657","font d'en fargues, 14",8032,Horta-Guinardó,la Font d'en Fargues,fons,"34,8888928571429",37,36,7054,19725,la Font d'en Fargues,1555
+552,1091038,Escola Àngels Garriga (Horta-Guinardó),"41,4234","2,1689",pintor pradilla 40-43,8032,Horta-Guinardó,la Font d'en Fargues,fons,"31,410240922619",34,33,7054,19725,la Font d'en Fargues,1555
+553,1091041,Escola Àngels Garriga (Horta-Guinardó),"41,42596","2,1684",alt de pedrell 29-31,8032,Horta-Guinardó,la Font d'en Fargues,fons,"35,4703744047619",38,37,7053,16012,la Font d'en Fargues,1455
+554,1091043,Escola Àngels Garriga (Horta-Guinardó),"41,42566","2,17017",alt de pedrell 70,8032,Horta-Guinardó,la Font d'en Fargues,fons,"35,1182095238095",38,37,7052,18463,la Font d'en Fargues,1233
+555,1091044,Escola Àngels Garriga (Horta-Guinardó),"41,42419","2,17062",alt de pedrell - albarrasí,8032,Horta-Guinardó,la Font d'en Fargues,fons,"34,8090415178571",37,36,7052,18463,la Font d'en Fargues,1233
+556,1091046,Escola Àngels Garriga (Horta-Guinardó),"41,42345","2,17188",arc de st. martí 79,8032,Horta-Guinardó,la Font d'en Fargues,fons,"39,8560556547619",43,41,7051,14690,el Guinardó,1739
+557,1091047,Escola Àngels Garriga (Horta-Guinardó),"41,4253","2,1725",c/amilcar 94-92,8032,Horta-Guinardó,la Font d'en Fargues,fons,"42,8351248511905",46,44,7049,16293,el Guinardó,1205
+558,1091051,Escola Baixeras (Ciutat Vella),"41,3800639530022","2,1796085568347","carrer ample 25  buscar en google maps    cómo llegar carrer ample, 25",8002,Ciutat Vella,el Barri Gòtic,fons,"40,3844082633588",43,41,1031,11019,el Gòtic,1544
+559,1091052,Escola Baixeras (Ciutat Vella),"41,3816195","2,17883492894714","plaza del regomir, devant n 1",8002,Ciutat Vella,el Barri Gòtic,fons,"39,1677024596878",42,40,1026,11523,el Gòtic,3677
+560,1091053,Escola Baixeras (Ciutat Vella),"41,3829240980371","2,17838080487515",plaça sant just,8002,Ciutat Vella,el Barri Gòtic,fons,"45,977165192838",49,47,1026,11523,el Gòtic,3677
+561,1091054,Escola Baixeras (Ciutat Vella),"41,3810044963503","2,18147937764879","plaça d'antonio lópez, 5",8002,Ciutat Vella,el Barri Gòtic,fons,"51,0566563127015",55,53,1031,11019,el Gòtic,1544
+562,1091055,Escola Baixeras (Ciutat Vella),"41,3786795","2,1792564",plaça del duc de medinaceli amb c. la merce,8002,Ciutat Vella,el Barri Gòtic,fons,"45,7788114735841",49,47,1030,10307,el Gòtic,2482
+563,1091056,Escola Baixeras (Ciutat Vella),"41,3794939654991","2,17926156982057",plaça la mercé amb c. ample 15,8002,Ciutat Vella,el Barri Gòtic,fons,"39,6298461767124",42,40,1031,11019,el Gòtic,1544
+564,1091058,Escola Baixeras (Ciutat Vella),"41,3785476224555","2,17662690853932","plaça de joaquim xirau, 3",8002,Ciutat Vella,el Barri Gòtic,fons,"41,8914875529479",45,43,1030,10307,el Gòtic,2482
+565,1091061,Escola Baixeras (Ciutat Vella),"41,3816516098475","2,17585521521431","carrer d'avinyó, 6 - carrer ferran",8002,Ciutat Vella,el Barri Gòtic,tràfic,"38,7382768819215",41,39,1027,12440,el Gòtic,1629
+566,1091062,Escola Baixeras (Ciutat Vella),"41,3819745022835","2,17678643511236","carrer del pas de l'ensenyança, 6, plaça sant miquel",8002,Ciutat Vella,el Barri Gòtic,fons,"39,3844601322745",42,40,1027,12440,el Gòtic,1629
+567,1091063,Escola Baixeras (Ciutat Vella),"41,38146","2,183323","llauder  5, cantonada c. de la reina cristina",8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"52,1649832800791",56,54,1043,15445,"Sant Pere, Santa Caterina i la Ribera",1617
+568,1091064,Escola Baixeras (Ciutat Vella),"41,383512","2,180857",plaça de jacint reventos (senyal parqueo de bicis),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"43,7052993980843",47,45,1046,11485,"Sant Pere, Santa Caterina i la Ribera",1747
+569,1091065,Escola Baixeras (Ciutat Vella),"41,385008","2,183047",esquina passeig del born y carrer rec,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"43,4190156795735",46,44,1045,12453,"Sant Pere, Santa Caterina i la Ribera",1950
+570,1091066,Escola Baixeras (Ciutat Vella),"41,383209","2,182875",pla del palau,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"54,1485204726184",58,56,1045,12453,"Sant Pere, Santa Caterina i la Ribera",1950
+571,1091067,Escola Baixeras (Ciutat Vella),"41,384112","2,184411",esquina avenida marques de l'argenteria i carrer rec,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"57,0297616110594",61,59,1043,15445,"Sant Pere, Santa Caterina i la Ribera",1617
+572,1091068,Escola Baixeras (Ciutat Vella),"41,381257","2,185841","pg joan de borbo, palau del mar",8039,Ciutat Vella,la Barceloneta,tràfic,"79,8322597904464",85,82,1032,13273,la Barceloneta,1794
+573,1091069,Escola Baixeras (Ciutat Vella),"41,379521","2,18919","c. balluard, 50",8003,Ciutat Vella,la Barceloneta,fons,"45,7399586832148",49,47,1039,12013,la Barceloneta,1279
+574,1091070,Escola Baixeras (Ciutat Vella),"41,379894","2,192235","c. san miquel boera 18, cantonada c. san carles",8003,Ciutat Vella,la Barceloneta,fons,"44,7870428773145",48,46,1035,10622,la Barceloneta,1292
+575,1091071,Escola Baixeras (Ciutat Vella),"41,377695","2,188107","passeig joan de borbo, 45",8039,Ciutat Vella,la Barceloneta,tràfic,"54,5534074459408",58,56,1032,13273,la Barceloneta,1794
+576,1091072,Escola Baixeras (Ciutat Vella),"41,383257","2,187306",doctor aiguader a tocar de l'estació de franç,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"47,2818009957659",51,49,1043,15445,"Sant Pere, Santa Caterina i la Ribera",1617
+577,1091075,Escola Baixeras (Ciutat Vella),"41,3781580068645","2,17041670538493",rambla de raval 49,8001,Ciutat Vella,el Raval,tràfic,"47,4392570409469",51,49,1007,8948,el Raval,1982
+578,1091076,Escola Baixeras (Ciutat Vella),"41,3808199920314","2,17154052894714","carrer de l'hospital, 36",8001,Ciutat Vella,el Raval,fons,"36,6013734116086",39,38,1019,8434,el Raval,2845
+579,1091077,Escola Baixeras (Ciutat Vella),"41,38206709833","2,16942569596962","carrer del doctor dou, 2-4",8001,Ciutat Vella,el Raval,tràfic,"43,9465956751148",47,45,1020,14076,el Raval,2069
+580,1091079,Escola Baixeras (Ciutat Vella),"41,3856394991964","2,16763737607157",c pelai i jovellanos,8001,Ciutat Vella,el Raval,tràfic,"90,2611666790549",97,93,1021,13108,el Raval,2019
+581,1091080,Escola Baixeras (Ciutat Vella),"41,382947500604","2,1715672598377",las ramblas y calle carme,8002,Ciutat Vella,el Raval,tràfic,"54,5759011666809",58,56,1020,14076,el Raval,2069
+582,1091083,Escola Baixeras (Ciutat Vella),"41,3847148035972","2,17024816395933",las ramblas y calle tallers,8001,Ciutat Vella,el Raval,tràfic,"55,7271706918352",60,58,1021,13108,el Raval,2019
+583,1091084,Escola Baixeras (Ciutat Vella),"41,3830449880317","2,17982329638799",carrer de salvador aulet amb via llaietana biblioteca del cole,8003,Ciutat Vella,el Barri Gòtic,aula,"81,5990393103989",87,84,1026,11523,el Gòtic,3677
+584,1091085,Escola Baixeras (Ciutat Vella),"41,3829199755786","2,17973614395266","carrer de salvador aulet, 1",8002,Ciutat Vella,el Barri Gòtic,aula,"50,3736651556828",54,52,1026,11523,el Gòtic,3677
+585,1091086,Escola Baixeras (Ciutat Vella),"41,3829334384919","2,17967718789346","carrer de salvador aulet, 1",8002,Ciutat Vella,el Barri Gòtic,pati,"46,1612047261664",49,47,1026,11523,el Gòtic,3677
+586,1091087,Escola Baixeras (Ciutat Vella),"41,3831112223324","2,17913782209291",pati del carrer del sots - tinent navarro,8002,Ciutat Vella,el Barri Gòtic,fons,"45,8708312402483",49,47,1026,11523,el Gòtic,3677
+587,1091088,Escola Baixeras (Ciutat Vella),"41,3828892032706","2,17969256773499","carrer de salvador aulet, 1",8002,Ciutat Vella,el Barri Gòtic,pati,"46,9137219291092",50,48,1026,11523,el Gòtic,3677
+588,1091089,Escola Baixeras (Ciutat Vella),"41,3810504115782","2,17897917804146",c. ataulf 12,8002,Ciutat Vella,el Barri Gòtic,aula,"27,6672765103673",30,29,1027,12440,el Gòtic,1629
+589,1091090,Escola Baixeras (Ciutat Vella),"41,3809927119063","2,17889971552688","carrer d'ataülf, 12 pati interior del cole",8002,Ciutat Vella,el Barri Gòtic,pati,"38,0389266552737",41,39,1027,12440,el Gòtic,1629
+590,1091093,Escola Cervantes (Ciutat Vella),"41,3874","2,17715",pati interior del cole facana interior,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",pati,"38,834386415993",42,40,1050,12150,"Sant Pere, Santa Caterina i la Ribera",1554
+591,1091094,Escola Cervantes (Ciutat Vella),"41,38727","2,17727","st pere mes baix, pati del terrat del cole",8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",pati,"37,6360845656549",40,38,1050,12150,"Sant Pere, Santa Caterina i la Ribera",1554
+592,1091095,Escola Cervantes (Ciutat Vella),"41,38708","2,17726",st pere mes baix 29,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"40,2862538455836",43,41,1050,12150,"Sant Pere, Santa Caterina i la Ribera",1554
+593,1091096,Escola Cervantes (Ciutat Vella),"41,38726","2,17745",facana posterior del cole,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",pati,"38,5890003715552",41,39,1050,12150,"Sant Pere, Santa Caterina i la Ribera",1554
+594,1091097,Escola Cervantes (Ciutat Vella),"41,38816","2,17848",sant pere mex baix 55,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"41,0469505833409",44,42,1051,10159,"Sant Pere, Santa Caterina i la Ribera",1767
+595,1091098,Escola Cervantes (Ciutat Vella),"41,38894","2,17943",sant pere mes baix 96,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"36,8590287582684",39,38,1053,11529,"Sant Pere, Santa Caterina i la Ribera",1862
+596,1091099,Escola Cervantes (Ciutat Vella),"41,38564","2,18243",carrer del rec 20,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"44,0897375343703",47,45,1044,14540,"Sant Pere, Santa Caterina i la Ribera",1456
+597,1091100,Escola Cervantes (Ciutat Vella),"41,39134","2,18027",arc de triomf,8018,Ciutat Vella,el Fort Pienc,tràfic,"59,925316935426",64,62,1055,15089,"Sant Pere, Santa Caterina i la Ribera",1333
+598,1091101,Escola Cervantes (Ciutat Vella),"41,3856","2,18084","c.  princesa, 26",8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"52,5800946719198",56,54,1045,12453,"Sant Pere, Santa Caterina i la Ribera",1950
+599,1091102,Escola Cervantes (Ciutat Vella),"41,38503","2,17998",c. princesa 19,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"44,0365705580754",47,45,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+600,1091103,Escola Cervantes (Ciutat Vella),"41,38438","2,17914",c. sant igansi cantonada c. princesa,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"55,8151006910921",60,58,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+601,1091105,Escola Cervantes (Ciutat Vella),"41,38556","2,17943",flor de lliri 2,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"43,1163728914335",46,44,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+602,1091106,Escola Cervantes (Ciutat Vella),"41,38633","2,18003",carders 15,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"42,0121356914631",45,43,1048,9599,"Sant Pere, Santa Caterina i la Ribera",2051
+603,1091107,Escola Cervantes (Ciutat Vella),"41,38603","2,18081",assaonadors 22,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"43,7052993980843",47,45,1048,9599,"Sant Pere, Santa Caterina i la Ribera",2051
+604,1091108,Escola Cervantes (Ciutat Vella),"41,38637","2,18205",rec 11,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"47,6907777364957",51,49,1044,14540,"Sant Pere, Santa Caterina i la Ribera",1456
+605,1091109,Escola Cervantes (Ciutat Vella),"41,38719","2,17506",placa lluis millet 3.1,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"52,4839851378483",56,54,1052,16250,"Sant Pere, Santa Caterina i la Ribera",2694
+606,1091110,Escola Cervantes (Ciutat Vella),"41,38846","2,17406",jonqueras 14,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"92,4696410789956",99,95,1052,16250,"Sant Pere, Santa Caterina i la Ribera",2694
+607,1091111,Escola Cervantes (Ciutat Vella),"41,38878","2,17329",via llaetana 58,8010,Ciutat Vella,la Dreta de l'Eixample,tràfic,"94,2895875752429",101,97,1052,16250,"Sant Pere, Santa Caterina i la Ribera",2694
+608,1091112,Escola Cervantes (Ciutat Vella),"41,38676","2,17418",comtal 32,8002,Ciutat Vella,el Barri Gòtic,fons,"52,1261304897098",56,54,1023,13676,el Gòtic,1982
+609,1091114,Escola Cervantes (Ciutat Vella),"41,38979","2,17679",c. trafalgar 33,8010,Eixample,la Dreta de l'Eixample,tràfic,"86,1386811324991",92,89,2075,20297,la Dreta de l'Eixample,1238
+610,1091115,Escola Cervantes (Ciutat Vella),"41,39031","2,17817",c. trafalgar 62,8010,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"61,2422220405758",66,63,1052,16250,"Sant Pere, Santa Caterina i la Ribera",2694
+611,1091116,Escola Cervantes (Ciutat Vella),"41,39079","2,17942",c. trafalgar 78,8010,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"91,9011634093812",98,94,1052,16250,"Sant Pere, Santa Caterina i la Ribera",2694
+612,1091117,Escola Cervantes (Ciutat Vella),"41,39237","2,18136",av. vilanova parada metro arc de triomf,8018,Eixample,el Fort Pienc,tràfic,"44,3760212528811",47,45,2001,15417,el Fort Pienc,1315
+613,1091118,Escola Cervantes (Ciutat Vella),"41,39194","2,18082",av vilanova 11,8018,Eixample,el Fort Pienc,tràfic,"38,2209213048984",41,39,2001,15417,el Fort Pienc,1315
+614,1091119,Escola Cervantes (Ciutat Vella),"41,39419","2,18171",estació del nord,8013,Eixample,el Fort Pienc,tràfic,"39,865007802632",43,41,2001,15417,el Fort Pienc,1315
+615,1091120,Escola Cervantes (Ciutat Vella),"41,39283","2,1825","carrer de napoles, edifici endesa",8018,Eixample,el Fort Pienc,tràfic,"48,8624960986864",52,50,2001,15417,el Fort Pienc,1315
+616,1091121,Escola Cervantes (Ciutat Vella),"41,38629","2,17784",francesc cambo s/n mercat de santa caterina,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"39,8936361744831",43,41,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+617,1091122,Escola Cervantes (Ciutat Vella),"41,38571","2,17717",francesc cambo 3,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"44,9301847365699",48,46,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+618,1091123,Escola Cervantes (Ciutat Vella),"41,38507","2,17841","arc de sant silvestre, 1",8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"40,9528859329731",44,42,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+619,1091124,Escola Cervantes (Ciutat Vella),"41,38597","2,17977",giralet el pelliser 3,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"36,936734339007",40,38,1048,9599,"Sant Pere, Santa Caterina i la Ribera",2051
+620,1091125,Escola Cervantes (Ciutat Vella),"41,38785","2,1789",jaume giralt 49,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"33,5994841346523",36,35,1053,11529,"Sant Pere, Santa Caterina i la Ribera",1862
+621,1091126,Escola Cervantes (Ciutat Vella),"41,38746","2,17925",jaume giralt 29,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"33,746715761315",36,35,1048,9599,"Sant Pere, Santa Caterina i la Ribera",2051
+622,1091127,Escola Cervantes (Ciutat Vella),"41,38718","2,18009",jaume giralt 1,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"37,3293520101076",40,38,1053,11529,"Sant Pere, Santa Caterina i la Ribera",1862
+623,1091128,Escola Cervantes (Ciutat Vella),"41,38685","2,18091",boabab allada vermella,8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,"31,1578929924957",33,32,1054,12840,"Sant Pere, Santa Caterina i la Ribera",1283
+624,1091129,Escola Cervantes (Ciutat Vella),"41,38461","2,17403",portal del angel 1,8002,Ciutat Vella,el Barri Gòtic,fons,"38,304761536748",41,39,1022,15707,el Gòtic,1276
+625,1091130,Escola Cervantes (Ciutat Vella),"41,38455","2,17526",avenida catedral 1,8002,Ciutat Vella,el Barri Gòtic,fons,"94,882603849301",102,98,1023,13676,el Gòtic,1982
+626,1091132,Escola Cervantes (Ciutat Vella),"41,38434","2,17841","via laietana, 24",8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,"101,377154492089",108,104,1047,11475,"Sant Pere, Santa Caterina i la Ribera",1727
+627,1091134,Escola Les Corts (Les Corts),"41,3841353280822","2,12860567624391",c/eugeni d'ors n 2,8028,Les Corts,les Corts,fons,"34,4068840058592",37,36,4029,24289,les Corts,1139
+628,1091135,Escola Les Corts (Les Corts),"41,3843816852025","2,12883595715983",c/eugeni d'ors,8028,Les Corts,les Corts,pati,"29,2660738682839",31,30,4029,24289,les Corts,1139
+629,1091136,Escola Les Corts (Les Corts),"41,3843816852025","2,12883595715983",c/eugeni d'ors n 2,8028,Les Corts,les Corts,pati,"32,8442846796822",35,34,4029,24289,les Corts,1139
+630,1091137,Escola Les Corts (Les Corts),"41,3847524495616","2,12829465476903",c/masferrer 33,8028,Les Corts,les Corts,fons,"40,2838784105592",43,41,4029,24289,les Corts,1139
+631,1091138,Escola Les Corts (Les Corts),"41,3849519929279","2,12817651707405",c/masferrer 33,8028,Les Corts,les Corts,pati,"36,0331351794012",39,38,4029,24289,les Corts,1139
+632,1091139,Escola Les Corts (Les Corts),"41,3843493285795","2,1288534905887",c/eugeni d'ors n 2,8028,Les Corts,les Corts,pati,"32,5429429372836",35,34,4029,24289,les Corts,1139
+633,1091140,Escola Les Corts (Les Corts),"41,3844253107053","2,12841925299373",c/eugeni d'ors n 2,8028,Les Corts,les Corts,aula,"22,423642401529",24,23,4029,24289,les Corts,1139
+634,1091141,Escola Les Corts (Les Corts),"41,3799159754747","2,12422179030794",travessera de les corts n. 75 (entrada camp nou),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"50,7438636701873",54,52,4049,25776,la Maternitat i Sant Ramon,1185
+635,1091142,Escola Les Corts (Les Corts),"41,37929931","2,11874362",aristides maillo,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"44,4749972462774",48,46,4043,20679,la Maternitat i Sant Ramon,1647
+636,1091143,Escola Les Corts (Les Corts),"41,3801056233025","2,11880052784519",aristides maillol (front al mini estadi),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"37,1547307797287",40,38,4043,20679,la Maternitat i Sant Ramon,1647
+637,1091144,Escola Les Corts (Les Corts),"41,3814068488278","2,12067786105366",avda. joan xxiii (complex esportiu),8028,Les Corts,la Maternitat i Sant Ramon,fons,"33,774327175208",36,35,4049,25776,la Maternitat i Sant Ramon,1185
+638,1091145,Escola Les Corts (Les Corts),"41,3838795138126","2,1221457962708",avda. joan xxiii (tanatori les corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"30,3278427368301",32,31,4049,25776,la Maternitat i Sant Ramon,1185
+639,1091146,Escola Les Corts (Les Corts),"41,3893731148871","2,13877250541691",parc joaquim ruyra (enteça n.38),8029,Les Corts,les Corts,tràfic,"43,1011085523852",46,44,4021,24319,les Corts,1322
+640,1091147,Escola Les Corts (Les Corts),"41,3896342814255","2,13776245969306",déu i mata n. 115,8029,Les Corts,les Corts,tràfic,"51,2409802984986",55,53,4022,20594,les Corts,1605
+641,1091148,Escola Les Corts (Les Corts),"41,3901302322093","2,13595055898595",avda. diagonal n. 557,8029,Les Corts,les Corts,tràfic,"51,7944798447307",55,53,4022,20594,les Corts,1605
+642,1091149,Escola Les Corts (Les Corts),"41,3881252662116","2,13505180998662",déu i mata,8029,Les Corts,les Corts,tràfic,"42,3502903281966",45,43,4022,20594,les Corts,1605
+643,1091150,Escola Les Corts (Les Corts),"41,3890331080977","2,13535083255499",constança n. 4(jardins sant joan de déu),8029,Les Corts,les Corts,fons,"42,1429079507279",45,43,4022,20594,les Corts,1605
+644,1091151,Escola Les Corts (Les Corts),"41,3889069321635","2,13305385941289",numància n. 167,8029,Les Corts,les Corts,tràfic,"47,3917687196715",51,49,4027,18424,les Corts,1248
+645,1091152,Escola Les Corts (Les Corts),"41,3862228381159","2,13373511884586",travessera de les corts n.275,8014,Les Corts,les Corts,tràfic,"43,2247648581446",46,44,4026,20121,les Corts,1243
+646,1091153,Escola Les Corts (Les Corts),"41,3869273575766","2,12514617567075",jardins jaume vicens (diagonal),8028,Les Corts,la Maternitat i Sant Ramon,fons,"39,9355000620741",43,41,4049,25776,la Maternitat i Sant Ramon,1185
+647,1091154,Escola Les Corts (Les Corts),"41,3837735850383","2,12989294955967",travessera de les corts n.215,8028,Les Corts,les Corts,tràfic,"49,8712173783734",53,51,4030,21248,les Corts,1781
+648,1091155,Escola Les Corts (Les Corts),"41,3826004472258","2,1286403826343",travessera de les corts 174,8028,Les Corts,les Corts,tràfic,"58,7311048524952",63,61,4034,22429,les Corts,1497
+649,1091156,Escola Les Corts (Les Corts),"41,3821897040061","2,1275292426343",travessera de les corts n 173,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"87,7510247244609",94,90,4048,20624,la Maternitat i Sant Ramon,1523
+650,1091157,Escola Les Corts (Les Corts),"41,3859159954735","2,12776175059414",gran via carles iii n 84 (jardins interiors),8028,Les Corts,les Corts,fons,"46,2692518924825",50,48,4029,24289,les Corts,1139
+651,1091158,Escola Les Corts (Les Corts),"41,3858855740741","2,12676691012887",ronda del mig n 71,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"60,5767615619415",65,63,4049,25776,la Maternitat i Sant Ramon,1185
+652,1091159,Escola Les Corts (Les Corts),"41,3876696269937","2,12639824484988",c/diagonal 621-629,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"53,9080059090849",58,56,4049,25776,la Maternitat i Sant Ramon,1185
+653,1091160,Escola Les Corts (Les Corts),"41,3834936635346","2,12539752560501",mejia lequerica n.1(dins del parc de la maternitat),8028,Les Corts,la Maternitat i Sant Ramon,fons,"31,1989472978976",33,32,4049,25776,la Maternitat i Sant Ramon,1185
+654,1091161,Escola Les Corts (Les Corts),"41,3827665477778","2,12478367417322",parc maternitat (parc infantil),8028,Les Corts,la Maternitat i Sant Ramon,fons,"30,5514319315274",33,32,4049,25776,la Maternitat i Sant Ramon,1185
+655,1091162,Escola Les Corts (Les Corts),"41,3838555148426","2,12410991783877",parc maternitat (parc trenet),8028,Les Corts,la Maternitat i Sant Ramon,fons,"41,2237261355211",44,42,4049,25776,la Maternitat i Sant Ramon,1185
+656,1091163,Escola Les Corts (Les Corts),"41,3853591673196","2,12989964640797",plaça comás,8028,Les Corts,les Corts,fons,"35,9017718114165",38,37,4029,24289,les Corts,1139
+657,1091164,Escola Les Corts (Les Corts),"41,3857136453418","2,13018354333343",c/remei n 47,8028,Les Corts,les Corts,tràfic,"41,418542242318",44,42,4028,18611,les Corts,1310
+658,1091165,Escola Les Corts (Les Corts),"41,3864715767912","2,13095014187751",c/galileu 329-319,8014,Les Corts,les Corts,tràfic,"46,3181763085448",50,48,4028,18611,les Corts,1310
+659,1091166,Escola Les Corts (Les Corts),"41,3866579562034","2,13221823125425",plaça concordia,8014,Les Corts,les Corts,fons,"33,6010125828343",36,35,4027,18424,les Corts,1248
+660,1091167,Escola Les Corts (Les Corts),"41,386891809884","2,13326094847721",vilamur n. 19,8014,Les Corts,les Corts,fons,"38,6172727362982",41,39,4025,18982,les Corts,1166
+661,1091169,Escola Les Corts (Les Corts),"41,3813019501286","2,12624376666442","travessera de les corts, 135-131",8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"58,8755144218771",63,61,4049,25776,la Maternitat i Sant Ramon,1185
+662,1091170,Escola Les Corts (Les Corts),"41,3837153545967","2,12532002924852",mejia lequerica 1,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"37,7256845422751",40,38,4049,25776,la Maternitat i Sant Ramon,1185
+663,1091171,Escola Les Corts (Les Corts),"41,3832637215029","2,12332922930431",c/maternitat (masia can barça),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"51,8627913272459",55,53,4049,25776,la Maternitat i Sant Ramon,1185
+664,1091172,Escola Les Corts (Les Corts),"41,3870185545631","2,12364170741825",avda. diagonal 637,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"61,7504412100747",66,63,4049,25776,la Maternitat i Sant Ramon,1185
+665,1091173,Escola Les Corts (Les Corts),"41,3857792075518","2,1244225940426",sabino arana 5-9,8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"45,8763199701898",49,47,4049,25776,la Maternitat i Sant Ramon,1185
+666,1091174,Escola Lavínia (Les Corts),"41,379707","2,125254",jardins bacardí,8028,Les Corts,la Maternitat i Sant Ramon,fons,"36,0881076019928",39,38,4039,17074,la Maternitat i Sant Ramon,1209
+667,1091175,Escola Lavínia (Les Corts),"41,3779018590278","2,12397566029263","carrer d'arizala, 49",8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"52,3674267667403",56,54,4041,14769,la Maternitat i Sant Ramon,1332
+668,1091176,Escola Lavínia (Les Corts),"41,378093","2,122057",carrer comte de güell / travessera de les corts,8028,Les Corts,la Maternitat i Sant Ramon,fons,"38,7444115330325",41,39,4041,14769,la Maternitat i Sant Ramon,1332
+669,1091177,Escola Lavínia (Les Corts),"41,3755677524582","2,12309257215558","carrer de sants, 417",8028,Sants-Montjuïc,Sants - Badal,tràfic,"57,9090616036284",62,60,3080,13398,Sants - Badal,1547
+670,1091178,Escola Lavínia (Les Corts),"41,3757247228289","2,12470163102838","carrer de sants, 320",8028,Sants-Montjuïc,Sants - Badal,tràfic,"51,304087240843",55,53,3081,14729,Sants - Badal,1818
+671,1091179,Escola Lavínia (Les Corts),"41,3778359968604","2,12651366984719","av madrid, 64",8028,Sants-Montjuïc,Sants - Badal,tràfic,"56,3692641747809",60,58,3082,16073,Sants - Badal,1893
+672,1091181,Escola Lavínia (Les Corts),"41,380632","2,129466",jardins del doctor dolsa,8028,Les Corts,les Corts,fons,"45,9526265883942",49,47,4034,22429,les Corts,1497
+673,1091182,Escola Lavínia (Les Corts),"41,381356","2,128285","gran via carles iii, núm. 31",8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"55,8519085977577",60,58,4036,15724,la Maternitat i Sant Ramon,1729
+674,1091183,Escola Lavínia (Les Corts),"41,380384","2,127586","c/ maria barrientos, 14",8028,Les Corts,la Maternitat i Sant Ramon,tràfic,"39,0286503678397",42,40,4037,17247,la Maternitat i Sant Ramon,2155
+675,1091184,Escola Lavínia (Les Corts),"41,377661","2,128912","c/. roger, 68",8028,Sants-Montjuïc,Sants - Badal,tràfic,"39,8322896633736",43,41,3085,14908,Sants - Badal,1263
+676,1091185,Escola Lavínia (Les Corts),"41,377927","2,131642","c/ tenor massini, 67",8028,Sants-Montjuïc,Sants,tràfic,"36,7608743404932",39,38,3092,15147,Sants,1200
+677,1091186,Escola Lavínia (Les Corts),"41,379417","2,131047","c/. tenor masini, 87",8028,Sants-Montjuïc,Sants,tràfic,"42,8484931262555",46,44,3087,17011,Sants,1483
+678,1091187,Escola Lavínia (Les Corts),"41,379979","2,13012","av. madrid, 144",8028,Les Corts,les Corts,tràfic,"60,9211752991029",65,63,4035,20417,les Corts,1397
+679,1091188,Escola Lavínia (Les Corts),"41,380063","2,134135","galileu,147",8014,Sants-Montjuïc,Sants,fons,"47,4044940179848",51,49,3110,15548,Sants,1490
+680,1091189,Escola Lavínia (Les Corts),"41,3776531143494","2,13393105968479","joan güell, 30",8028,Sants-Montjuïc,Sants,fons,"50,7867316638199",54,52,3089,16489,Sants,1243
+681,1091190,Escola Lavínia (Les Corts),"41,3822548758687","2,12893627578594",gerard piera,8028,Les Corts,les Corts,fons,"41,8526347625785",45,43,4034,22429,les Corts,1497
+682,1091192,Escola Lavínia (Les Corts),"41,382482","2,131746","juan güell, 134",8028,Les Corts,les Corts,tràfic,"41,7667496470253",45,43,4032,18059,les Corts,1537
+683,1091193,Escola Lavínia (Les Corts),"41,3815117653551","2,13429900853089","av. madrid, 209",8014,Les Corts,les Corts,tràfic,"60,3813260013397",65,63,4006,18270,les Corts,1134
+684,1091194,Escola Lavínia (Les Corts),"41,381793","2,135711","pl del centre, 6",8014,Sants-Montjuïc,Sants,fons,"52,2754070000761",56,54,3110,15548,Sants,1490
+685,1091195,Escola Lavínia (Les Corts),"41,3849566752476","2,13388321504952",jardi de les infantes,8014,Les Corts,les Corts,fons,"37,8344382849088",40,38,4010,20010,les Corts,846
+686,1091196,Escola Lavínia (Les Corts),"41,3861381349702","2,13665104891094",plaça de les corts,8029,Les Corts,les Corts,fons,"39,9140850115196",43,41,4012,19019,les Corts,1393
+687,1091197,Escola Lavínia (Les Corts),"41,385401743032","2,13782060951433",marques de sermenat 43,8029,Les Corts,les Corts,tràfic,"47,887086572046",51,49,4012,19019,les Corts,1393
+688,1091201,Escola Lavínia (Les Corts),"41,386567","2,1343773",travesera de les corts 285,8014,Les Corts,les Corts,tràfic,"52,782538158581",56,54,4026,20121,les Corts,1243
+689,1091202,Escola Lavínia (Les Corts),"41,3842442","2,1325371",can bruixa 23,8014,Les Corts,les Corts,tràfic,"43,2656494017998",46,44,4010,20010,les Corts,846
+690,1091206,Escola Lavínia (Les Corts),"41,3880305526983","2,14110036555014",c/morales 37,8029,Les Corts,les Corts,fons,"39,6932375715255",42,40,4017,20028,les Corts,1155
+691,1091207,Escola Lavínia (Les Corts),"41,389225919692","2,14266236389449","c/ rita bonnat, 3",8029,Les Corts,les Corts,tràfic,"38,4806215352618",41,39,4018,20859,les Corts,1551
+692,1091208,Escola Lavínia (Les Corts),"41,3901045929598","2,14164360225217",pl. ignasi barraguer 6,8029,Les Corts,les Corts,fons,"49,8010977186612",53,51,4020,21478,les Corts,1470
+693,1091209,Escola Lavínia (Les Corts),"41,3879554904742","2,13829708014586",c/equador 92,8029,Les Corts,les Corts,tràfic,"42,9057498699576",46,44,4014,20157,les Corts,865
+694,1091210,Escola Lavínia (Les Corts),"41,3871488708968","2,13619501066142",c/nicaragua 153,8029,Les Corts,les Corts,tràfic,"52,7784483911737",56,54,4012,19019,les Corts,1393
+695,1091211,Escola Lavínia (Les Corts),"41,381","2,13","carrer fígols, 20-24",8028,Les Corts,les Corts,aula,"25,037556067475",27,26,4035,20417,les Corts,1397
+696,1091213,Escola Lavínia (Les Corts),"41,381616837044","2,13015520229679","carrer fígols, 20-24",8028,Les Corts,les Corts,tràfic,"45,4516300810003",49,47,4035,20417,les Corts,1397
+697,1091214,80Tubes,"41,39651","2,15557","pg. de gracia, 110 amb diagonal",8006,Gràcia,la Vila de Gràcia,tràfic,"51,5331142156516",55,53,6044,21429,Vila de Gràcia,1507
+698,1091215,80Tubes,"41,39857","2,16451",c. bruc amb rosselló,8037,Eixample,la Dreta de l'Eixample,tràfic,"54,2037323326169",58,56,2060,18931,la Dreta de l'Eixample,1671
+699,1091216,80Tubes,"41,3984","2,16167",c torrent de l'olla amb corsega,8037,Gràcia,la Vila de Gràcia,tràfic,"57,945869510294",62,60,6057,14726,Vila de Gràcia,1497
+700,1091217,80Tubes,"41,3978089598","2,15794639057",plaça jardinets de gracia,8008,Gràcia,la Vila de Gràcia,fons,"59,547013450251",64,62,6044,21429,Vila de Gràcia,1507
+701,1091218,80Tubes,"41,39904","2,15638","c gran de graica, 42",8012,Gràcia,la Vila de Gràcia,tràfic,"102,334160065397",109,105,6043,16333,Vila de Gràcia,1294
+702,1091219,80Tubes,"41,40024","2,15793","plaça vila de gracia, 5",8012,Gràcia,la Vila de Gràcia,fons,"38,689199673034",41,39,6047,14235,Vila de Gràcia,1488
+703,1091220,80Tubes,"41,40071","2,15892","c torrent de l'olla, 80",8012,Gràcia,la Vila de Gràcia,tràfic,"44,7849979936108",48,46,6046,15049,Vila de Gràcia,1155
+704,1091221,80Tubes,"41,40144","2,15658",plaça del sol amb maspons,8012,Gràcia,la Vila de Gràcia,fons,"40,6870510514988",44,42,6050,13834,Vila de Gràcia,1241
+705,1091222,80Tubes,"41,40072","2,15425","c gran de gracia, 106",8012,Gràcia,la Vila de Gràcia,tràfic,"91,1568257412531",98,94,6042,19886,Vila de Gràcia,1760
+706,1091223,80Tubes,"41,40159","2,15428","c. montseny, 7",8012,Gràcia,la Vila de Gràcia,tràfic,"46,7624005350391",50,48,6049,16466,Vila de Gràcia,1163
+707,1091224,80Tubes,"41,40296","2,1564",c. torrent de l'olla 123,8012,Gràcia,la Vila de Gràcia,tràfic,"52,3510676971111",56,54,6052,15080,Vila de Gràcia,1540
+708,1091225,80Tubes,"41,40363","2,15714","c verdi, 20 bis",8012,Gràcia,la Vila de Gràcia,fons,"39,3762805974599",42,40,6053,16294,Vila de Gràcia,1481
+709,1091226,80Tubes,"41,40263","2,15307","c. asturies, 2",8012,Gràcia,la Vila de Gràcia,tràfic,"39,9324889648524",43,41,6051,15499,Vila de Gràcia,1270
+710,1091227,80Tubes,"41,40498","2,15116","c. gran de gracia, 242",8012,Gràcia,la Vila de Gràcia,tràfic,"50,0607979490246",54,52,6038,17184,Vila de Gràcia,1465
+711,1091228,80Tubes,"41,40677","2,15023","plaça lesseps, 7",8023,Gràcia,la Vila de Gràcia,fons,"54,1464755889147",58,56,6037,16587,Vila de Gràcia,1105
+712,1091229,80Tubes,"41,40442","2,14975","c. mare de deu de gràcia, 18",8006,Sarrià-Sant Gervasi,el Putxet i el Farró,fons,"38,7464564167361",41,39,5083,19716,el Putget i Farró,1273
+713,1091230,80Tubes,"41,4009433055","2,15057711227","via augusta, 88",8006,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,"49,7929181838466",53,51,5081,20108,el Putget i Farró,1607
+714,1091231,80Tubes,"41,3980719182","2,15247764737","c traversera de gracia, 97",8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"81,1409853607816",87,84,5068,23567,Sant Gervasi - Galvany,1537
+715,1091232,80Tubes,"41,39681","2,15513",plaça de narcis oller,8006,Gràcia,la Vila de Gràcia,fons,"52,212015605263",56,54,6044,21429,Vila de Gràcia,1507
+716,1091233,80Tubes,"41,3968377352","2,16207582462",c. rosselló 252,8037,Eixample,la Dreta de l'Eixample,tràfic,"59,1543957791504",63,61,2082,22869,la Dreta de l'Eixample,934
+717,1091234,80Tubes,"41,3956112228","2,1568047053","avinguda diagonal, 399",8008,Eixample,la Dreta de l'Eixample,tràfic,"50,8398986401147",54,52,2083,27554,la Dreta de l'Eixample,1858
+718,1091235,80Tubes,"41,39466","2,15568","carrer balmes, 153",8008,Eixample,la Dreta de l'Eixample,tràfic,"77,7137602734663",83,80,2083,27554,la Dreta de l'Eixample,1858
+719,1091236,80Tubes,"41,3938941062","2,15340647099","carrer paris, 201",8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"88,2285522776281",94,90,2085,20400,l'Antiga Esquerra de l'Eixample,1484
+720,1091237,80Tubes,"41,392","2,15095","carrer paris, 154",8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"85,876936018432",92,89,2106,21125,l'Antiga Esquerra de l'Eixample,1454
+721,1091238,80Tubes,"41,39349","2,14847","carrer buenos aires, 60",8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"46,3636482128276",50,48,2106,21125,l'Antiga Esquerra de l'Eixample,1454
+722,1091239,80Tubes,"41,3947667959","2,14725259412","traveserra de gracia, 33",8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"80,2494160659907",86,83,5065,22850,Sant Gervasi - Galvany,1696
+723,1091240,80Tubes,"41,3940831359","2,1507385562","avinguda diagonal, 435",8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,"84,8013271903128",91,88,2086,20718,l'Antiga Esquerra de l'Eixample,1442
+724,1091241,80Tubes,"41,3979359592","2,15222863671","travessera de gracia, 93-95",8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,"86,1591299695356",92,89,5068,23567,Sant Gervasi - Galvany,1537
