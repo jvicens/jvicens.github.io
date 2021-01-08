@@ -1,0 +1,266 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Julian Vicens | Mobility </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+		<link rel="icon" type="image/png" href="../images/icon/icon_16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="../images/icon/icon_32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="../images/icon/icon_64.png" sizes="64x64">
+
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@julianvicens">
+		<meta name="twitter:creator" content="@julianvicens">
+		<meta name="twitter:title" content="Anàlisi de la mobilitat durant la pandèmia a Mallorca per Julià Vicens">
+		<meta name="twitter:description" content="Anàlisi de la mobilitat durant la pandèmia a Mallorca | Julià Vicens">
+		<meta name="twitter:image" content="https://jvicens.github.io/images/posts/mobility-mallorca/ca/map_flows.png">
+
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131857510-1"></script>
+		<script>
+  			window.dataLayer = window.dataLayer || [];
+  			function gtag(){dataLayer.push(arguments);}
+  			gtag('js', new Date());
+  			gtag('config', 'UA-131857510-1');
+		</script>	
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<!--<a href="index.html" class="logo">Julián Vicens</a>-->
+						<a href="" class="logo image fit_subheader"><img src="../images/jv_subheader.gif" alt="Info" /></a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="../index.html">News</a></li>
+							<li class="active"><a href="../projects.html">Projects</a></li>
+							<!--<li><a href="work.html">Work</a></li>-->
+							<li><a href="../research.html">Research</a></li>
+							<li><a href="../publications.html">Publications</a></li>
+							<li><a href="../services.html">Services</a></li>
+							<li><a href="../blog.html">Blog</a></li>
+							<li><a href="../about.html">About</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://twitter.com/julianvicens" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://github.com/jvicens" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<ul class="action" style="float: right !important; padding-top: 1em; padding-left: 0rem;">
+						    <a class="button primary" style="background-color: #c53211;">CA</a>
+					    </ul>
+						<!--
+                        <ul class="action" style="float: right !important; padding-top: 1em; padding-left: 0rem; padding-right: 1rem">
+						    <a class="button primary disabled">ES</a>
+					    </ul>
+
+					    <ul class="action" style="float: right !important; padding-top: 1em; padding-right: 1rem;">
+						    <a class="button primary" href="../articles/mobilityepidemic.html">EN</a>
+					    </ul>
+						-->
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<span class="date">1er gener 2021</span>
+									<!--
+									<h4>Projecte</h4>
+									-->
+									<h1>Anàlisi de la mobilitat durant la pandèmia a Mallorca</h1>
+									<p></p>
+								</header>
+								<!--
+								<div class="image main"><img src="../images/720/aviotibidabo.jpg" alt="" /></div>
+								<div class="image caption post"><h6>&copy; Tibidabo | Avió Tibidabo</h6></div>
+								-->
+
+								<p>L'estudi de la mobilitat és fonamental per entendre com evoluciona un procés epidèmic. En determinades circumstàncies pot ser un indicador molt important dels contactes entre individus i per tant de la potencial transmissió del virus. En endavant durem a terme l'anàlisi de la mobilitat a diferents escales temporals i espacials, utilitzarem les dades de mobilitat obertes pel MITMA, que van des de febrer fins a desembre de 2020. L'anàlisi descriu principalment la primera i la segona onada. A més, durem a terme una anàlisi dels mesos d'estiu i del mes de desembre per les seves peculiaritats en quant a mobilitat. A mesura que tinguem més dades de mobilitat anirem ampliant l'anàlisi.</p>
+
+
+								<h3>Continguts</h3>
+								<ul>
+								<li><a href="#1">Evolució de la mobilitat durant la pandèmia</a></li>
+								<li><a href="#1onada">Mobilitat durant la primera onada</a></li>
+								<li><a href="#2onada">Mobilitat durant la segona onada</a></li>
+								<li><a href="#conclusions">Conclusions</a></li>
+								</ul>
+
+								<h3 id=1>Evolució de la mobilitat durant la pandèmia (any 2020) -</h3>
+
+								<p>Analitzarem la mobilitat durant l'any 2020, des dels inicis de la pandèmia fins al desembre de 2020. Farem una primera aproximació a la mobilitat a alt nivell, això és considerant la mobilitat diària agregada per tots els municipis i/o districtes de Mallorca durant tot el procés epidèmic. En aquest primer punt, determinem quina proporció de la població es mobilitza, és a dir, quina proporció de la població com a mínim realitza un viatge al dia durant els diferents estadis del procés epidèmic. Aquest paràmetre el definim com l'índex de mobilitat, i és la proporció de la població que fa un o més viatges al dia.<br><br>
+
+								De l'anàlisi de l'evolució de l'índex de mobilitat podem veure perfectament representades les restriccions de mobilitat que es van dur a terme durant el mes de març, l'escalada de la mobilitat a mesura que es tornava a una situació de no restriccions durant els mesos de maig i juny tornant a ràtios de mobilitat similars, en certs dies majors, dels que hi havia durant els mesos previs a l'epidèmia. Durant els mesos d'estiu, finals de juny, juliol i principis d'agost, veiem com l'índex de mobilitat es dispara fins a mitjans d'agost que és quan comença a baixar lleugerament fins finals d'anys. Així i tot, durant aquest període, l'índex de mobilitat s'ha mantingut a nivells que estan al voltant del 0.6.<br><br>
+
+								Si estudiem la mobilitat, en aquesta escala agregada, durant el procés epidèmic trobem tres grans etapes. La primera correspon als mesos on es varen aplicar restriccions que van des de març fins a mitjans de juny on es va recuperar la normalitat en termes de mobilitat; la segona fase és definida per la inèrcia de la recuperació de la mobilitat i l'obertura exterior des de finals de juny fins a finals d'agost; i la tercera fase que ha anat evolucionant amb una lleugera pendent negativa i que s'estén des de setembre fins a finals d'any. Cada una d'aquestes etapes s'analitzaran en més detall a continuació.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/timeline_mobility_mallorca.png" alt="" /></div>
+								
+								<div class="image caption"><p>Evolució de l'índex de mobilitat.
+									<span style="font-weight:500; text-transform: none;">L'índex de mobilitat indica la proporció de persones que fan com a mínim un viatge per dia.</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								<p>Les dades de mobilitat prèvies a la pandèmia ens permeten establir una referència amb la qual comparar els increments de mobilitat. És per això que calculem les diferències de mobilitat en relació amb la mobilitat de les dues darreres setmanes de febrer, concretament del dia 17 de febrer fins a l'1 de març, on aquesta mobilitat no estava condicionada per l'epidèmia.<br><br>
+
+								En general podem observar com els majors decrements de mobilitat es produeixen els dies festius i les setmanes de confinament estricte. Amb un descens del 30% amb relació a la mobilitat de referència podem trobar els dies festius d'entre setmana, per exemple la setmana santa. Durant els mesos d'estiu, en canvi, podem veure que hi ha alguns dies on la mobilitat està per sobre de la referència de febrer. A partir de finals d'agost la reducció de mobilitat és molt lleugera i se situa al voltant del -5%.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/timeline_mobility_reduction_mallorca.png" alt="" /></div>
+								
+								<div class="image caption"><p>Reducció de la mobilitat.
+									<span style="font-weight:500; text-transform: none;">Reducció de la mobilitat agafant com a referència la mobilitat dels mateixos dies de la setmana durant les dues darreres setmanes de febrer.</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								<p>La mobilitat humana genera uns patrons que es van repetint setmana rera setmana, de manera que els dies laborables la mobilitat és major que els cap de setmana i festius. Els divendres els patrons de mobilitat són diferents dels altres dies laborables, i durant el cap de setmana els dissabtes són diferents dels diumenges i festius, aquests darrers tenen una menor mobilitat. És per aquesta raó que quan comparem un dia festiu d'entre setmana amb el mateix dia de la setmana de referència que és laboral es produeix una baixada acusada de la mobilitat.<br><br>
+
+								És important recordar, que la mobilitat principal és la que es coneix com a mobilitat recurrent, aquesta és la produïda per trajectes que es fan des de casa a la feina o des de casa a l'universitat o escola, són trajectes que es repeteixen dia a dia i que fan que es produeixin molts contactes tant in itinere com a destí. La mobilitat recurrent a més té molts altres impactes, com per exemple la contaminació atmosfèrica.<br><br>
+
+								Si continuem amb l'anàlisi d'aquestes dues mètriques - índex de mobilitat i reducció de la mobilitat - dins cada una de les setmanes que van des de l'inici de la pandèmia podem veure aquest diferents comportaments. Es fa molt evident, especialment en la reducció de la mobilitat, les tres etapes que s'han viscut en relació amb la mobilitat, la primera que va des del 13 de març fins a la setmana del 15 de juny, la segona que ocupa part de l'estiu i arriba fins a la setmana del 17 d'agost i la darrera etapa fins a l'actualitat.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/heatmap_Mallorca.png" alt="" /></div>
+								
+								<div class="image caption"><p>Índex de mobilitat i reducció de la mobilitat per cada dia de la setmana.
+									<span style="font-weight:500; text-transform: none;">Es poden observar els diferents patrons de mobilitat degut a les restriccions així que com els cicles de mobilitat setmanals, ponts, festius, i altres anomalies.</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								<p>La mobilitat genera uns patrons que es van repetint setmana rere setmana, de manera que els dies laborables la mobilitat és major que els cap de setmana i festius. Els divendres els patrons de mobilitat són diferents dels altres dies laborables, i durant el cap de setmana els dissabtes tenen mobilitats majors i patrons diferents que els diumenges i festius. És per aquesta raó que quan comparem un dia festiu d'entre setmana amb el mateix dia de la setmana de referència que és laborable es produeix una baixada acusada de la mobilitat.<br><br>
+
+								És important recordar que la mobilitat principal és la que es coneix com a mobilitat recurrent, generalment és la produïda pels trajectes que es fan des de casa a la feina o des de casa a la universitat o escola, són trajectes que es repeteixen dia a dia i que provoquen molts contactes tant durant el trajecte com a destí.<br><br>
+
+								Si continuem amb l'anàlisi d'aquestes dues mètriques - índex de mobilitat i reducció de la mobilitat - dins cada una de les setmanes que van des de l'inici de la pandèmia podem veure aquests diferents patrons que comentàvem. Es fa molt evident, especialment en la reducció de la mobilitat, les tres etapes que s'han viscut amb relació a la mobilitat, la primera que va des del 13 de març fins a la setmana del 15 de juny, la segona que ocupa part de l'estiu i arriba fins a la setmana del 17 d'agost i la darrera etapa fins a finals de desembre.</p>
+
+								<h3 id='1onada'>Mobilitat durant la primera onada</h3>
+
+								<p>Durant la primera onada, que la dataríem des del 15 de març fins al 21 de juny, el final de l'estat d'alarma, es varen aplicar mesures restrictives de mobilitat que varen ser essencials per reduir la propagació de l'epidèmia. Analitzem les diferències en l'índex de mobilitat que hi ha en les diferents etapes d'aquesta primera onada de l'epidèmia on es produeixen restriccions de mobilitat molt importants.</p>
+
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/timeline_mobility_Mallorca_1a.png" alt=""  style="width: 75%;"/></div>
+								
+								<div class="image caption"><p>Evolució de l'índex de mobilitat durant la primera onada.
+									<span style="font-weight:500; text-transform: none;"></span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+
+								<p>Durant la primera onada les etapes de l'epidèmia, en relació amb les mesures que afecten la mobilitat estan dividides en: (1) confinament parcial on es permet la mobilitat per raons laboral; (2) confinament estricte on només es permet la mobilitat per mantenir actius els serveis essencials; (3) confinament parcial, tornem a la situació en què la mobilitat es permet per motius laborals; i (4) desescalada, es van eliminant les restriccions de manera escalonada fins que acaba l'estat d'alarma. Podem veure com l'impacte en la mobilitat per l'aplicació d'aquestes mesures és molt important, en caigudes que estan al voltant d'un 30% de la mobilitat i que arriben a índexs de 0.3 quan s'apliquen mesures de confinament estricte.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/correlations_phases_1st_wave.png" alt="" /></div>
+								
+								<div class="image caption"><p>Variacions en el nivell de mobilitat durant la primera onada.
+									<span style="font-weight:500; text-transform: none;">Impactes en la mobilitat durant les quatre principals fases de la primera onada. Per cada una de les quatre fases es mostra l'índex de mobilitat sobre el mapa de Mallorca, l'evolució mitjana pels diferents dies de la setmana de cada una de les etapes i la correlació entre cada una de la mobilitat en cada una de les fases i la mobilitat de referència (dues darreres setmanes de febrer).</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+
+								<h3 id='2onada'>Mobilitat durant la segona onada</h3>
+
+								<p>Després de l'estiu s'ha produït un creixement important del nombre de persones infectades per la COVID. Aquest creixement ha provocat una segona onada durant el mes de setembre i s'ha vist agreujada especialment durant el mes de desembre on podem dir que es veu la tendència cap a una tercera onada si no s'apliquen mesures per evitar-ho. Alguns dels indicadors epidemiològics que ens mostren aquest creixement són el nombre de persones hospitalitzades i la incidència acumulada a 14 dies, representades a les figures següents per totes les Illes Balears.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/metriques_epidemiologiques.png" alt="" style="width: 75%;" /></div>
+								
+								<div class="image caption"><p>Indicadors epidemiològics.
+									<span style="font-weight:500; text-transform: none;">Nombre de persones hospitalitzades i incidència acumulada a 14 dies (dades curades per <a href="https://github.com/montera34/escovid19data" target="_blank">Escovid19data</a>).</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								<p>La mobilitat durant aquests mesos no s'ha vist reduïda de manera considerable. Podem observar que l'índex de mobilitat s'ha mantingut estable durant tot el període tot i que hi ha hagut diferents esdeveniments que han modificat els patrons de mobilitat de la població. Això és l'inici de les escoles i les classes a les universitats, la finalització de vacances i reincorporació al treball després dels mesos d'estiu, festius i ponts, etc. Malauradament amb les dades de mobilitat que disposem no és possible conèixer els contactes que es produeixen degut, per exemple, a l'inici de les escoles o les celebracions els festius. Això és especialment crític durant els mesos d'hivern on les dinàmiques socials són molt diferents de les dels mesos d'estiu, ja que movem les nostres interaccions d'exteriors a interiors, on la propagació del virus és més efectiva.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/timeline_mobility_Mallorca_2a.png" alt="" style="width: 75%;"/></div>
+								
+								<div class="image caption"><p>Evolució de l'índex de mobilitat durant la segona onada.
+									<span style="font-weight:500; text-transform: none;"></span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								<p>Analitzant el nombre de viatges totals amb origen o destí Mallorca, podem observar que els viatges s'ha mantingut sense canvis significatius en general. Només els dies festius han implicat una reducció del nombre de viatges, això és especialment notable durant el mes de desembre.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/nombre_viatges_Mallorca.png" alt="" style="width: 80%;"/></div>
+								
+								<div class="image caption"><p>Nombre de viatges a Mallorca.
+									<span style="font-weight:500; text-transform: none;">Nombre de viatges diari amb origen o destí en  qualque municipi de Mallorca.</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								 
+
+								<h4>Desembre</h4>
+
+								<p>El mes de desembre ha estat crític, ja que s'ha produït un increment molt significatiu dels indicadors epidemiològics a les Illes Balears (p. ex. persones hospitalitzades i incidència acumulada), especialment a Mallorca, d'on es partia d'una situació relativament controlada.<br><br>
+
+								En general les festivitats impliquen un descens del nombre de viatges, per exemple durant els dies 7 i 8, corresponent al pont de la puríssima, i durant les setmanes de Nadal, des del 21 en endavant. Aquesta reducció de la mobilitat no sempre implica un nombre de contactes menor, el que indica és una reducció de la mobilitat recurrent, però en canvi, es produeix un altre tipus de mobilitat que implica un canvi en els patrons de contactes, ja que per exemple es produeixin reunions amb contactes de més proximitat.<br><br>
+
+								Podem veure que en general la mobilitat recurrent durant el mes de desembre s'ha mantingut a nivells similars que durant els darrers mesos. Si ens centrem a escala de municipi i/o districte, podem veure com les poblacions de Mallorca on hi ha més desplaçaments totals (d'entrada, sortida i interiors) són Palma, Marratxí, Calvià, Manacor, Inca, Llucmajor y Alcúdia, podem veure el detall a la taula.</p>
+
+								<p>Prenent com a referència la mobilitat del mes d'octubre per cada dia de la setmana, podem veure com aquesta mobilitat ha anat variant durant el mes de desembre. Si ens centrem en els viatges entrants a Palma veiem com el dia 6 (dg.), 13 (dg.), 14 (dl.) i 21 (dl.) de desembre els viatges van augmentar de manera molt significativa. Si ens centrem en la mobilitat interna, podem veure com a Alcúdia, per exemple, en general la mobilitat interna ha augmentat de manera molt significativa.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/flows.png" alt="" style="width: 80%;"/></div>
+								
+								<div class="image caption"><p>Desplaçaments d'entrada i interns.
+									<span style="font-weight:500; text-transform: none;">Increments i decrements dels desplaçaments als deu municipis de Mallorca on hi ha, en general, més desplaçaments.</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+								<p>En el mapa i taula adjunt també podem veure com els patrons de desplaçament entre un dia festiu, com pot ser el 8 de desembre, un dia laborable com el 16 de desembre i un dia laborable dins la setmana de Nadal, com el 21 de desembre, implica uns canvis en els patrons de mobilitat que no sempre provoquen una disminució en el nombre de contactes.</p>
+
+								<div class="image main"><img src="../images/posts/mobility-mallorca/ca/map_flows.png" alt="" style="width: 100%;"/></div>
+								
+								<div class="image caption"><p>Mapa d'increments de desplaçaments interns i d'entrada.
+									<span style="font-weight:500; text-transform: none;">A la fila superior estan representats els increments en el nombre de desplaçaments interns, és a dir, desplaçaments dins d'un mateix municipi (o districte) i a la final inferior els desplaçaments d'entrada a cada un dels municipis (o districtes). Cada una de les columnes representa un dia diferent, d'esquerra a dreta són els dies 8 (dt. festiu), 16 (dc.) i 21 (dl.) de desembre.</span>
+									<span style="font-family: 'Lato', sans-serif; font-weight:500; text-transform: none;"></span></p></div>
+
+
+								<h3 id='conclusions'>Conclusions</h3>
+
+								<p>Durant la primera onada les intervencions no farmacològiques, concretament les restriccions de mobilitat, van reduir el nombre de contactes i per tant la incidència en la propagació de la COVID. En arribar l'estiu i l'obertura total de la mobilitat va provocar que a principis d'agost s'iniciés una segona onada que va començar a recuperar-se a finals de setembre. Durant el mes de setembre varen començar les classes a escoles, instituts i universitats, per tant els patrons de la mobilitat recurrent van canviar incidint en el número i tipologia de contactes, per exemple, es van crear grups bombolla a les escoles, xarxes de contactes controlades. Així i tot, l'índex de mobilitat i en general el nombre de viatges agregats no es va veure modificat de manera significativa, posant de manifest les limitacions d'aquestes mètriques per determinar el nombre de contactes reals a escala més desagregada.<br><br>
+
+								La segona onada es va anar mantenint estable fins que durant el mes de desembre va començar a repuntar de manera molt preocupant. En general veiem que la mobilitat durant el novembre i desembre no va disminuir de manera significativa, especialment si ho comparem amb la mobilitat en etapes de restriccions de la primera onada. S'observa com a causa de les moltes festivitats existeix una reducció de la mobilitat recurrent, aquesta reducció no sempre implica reduccions en el nombre de contactes, ja que el que canvia són els patrons de mobilitat i les interaccions en persones diferents, és a dir, en lloc de fer desplaçaments al treball o a la universitat es fan desplaçament de caràcter personal i s'entra en contacte amb altres persones o bombolles, en definitiva, els motius dels viatges i, per tant, els contactes varien. Durant els mesos d'hivern, a diferència de l'estiu, aquests contactes poden generar una propagació més important del virus, ja que es realitzen en unes altres condicions ambientals.<br><br>
+
+								Cal tenir molt en compte que les restriccions de mobilitat provoquen impactes més enllà dels pròpiament epidemiològics. A vegades positius, com per exemple la reducció de la pol·lució i la regeneració de l'hàbitat, però en molts altres casos tenen implicacions que impacten negativament a la ciutadania, són impactes socials, econòmics, educatius o de salut mental, per posar alguns exemples. Els determinants socioeconòmics que impacten en la mobilitat durant la pandèmia és una de les àrees d'estudi sobre la que pròximament parlarem.</p>
+
+								<h4>Dades</h4>
+								<p>Les dades de <b>mobilitat</b> que s'han utilitzat en aquest estudi han estat facilitades pel MITMA (Ministerio de Transporte, Movilidad y Agenda Urbana). Tota la informació metodològica de com han estat processades i generades es troba <a href='https://www.mitma.gob.es/ministerio/covid-19/evolucion-movilidad-big-data' target="_blank">aquí</a>. Les dades de <b>indicadors epidemiològics</b> han estat curades per Montera en el marc del projecte <a href="https://github.com/montera34/escovid19data" target="_blank">Escovid19data</a>, les dades de les Illes Balears estan recollides directament de les notes de premsa de la Conselleria de Salut i Consum del GOIB. 
+
+							</section>
+					</div>
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<section>
+								<h6>Contact</h6>
+								<p><a href="#">julianvicens@gmail.com</a></p>
+							</section>						
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Julián Vicens</li></ul>
+						<img style="max-height: 2em; vertical-align: middle; border-bottom-color: transparent !important" src="../images/CC-BY-SA.png" alt="" />
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
