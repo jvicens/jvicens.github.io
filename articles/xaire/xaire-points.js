@@ -131,8 +131,8 @@ function drawPollutionDistrict(error, bcn_topo, xaire) { // Add parameter for un
   .data(topojson.feature(bcn_topo, bcn_topo.objects.districtes_geo).features)
   .enter().append("path")
   .attr("d", geoPath)
-  //.style("opacity", "0.5")
-  .style("fill", "eeeeee")
+  .style("opacity", "0.5")
+  .style("fill", "lightgrey")
   .style("stroke", "white")
   //.on("mouseover", handleMouseOver)
   //.on("mouseout", handleMouseOut);
@@ -164,10 +164,13 @@ function drawPollutionDistrict(error, bcn_topo, xaire) { // Add parameter for un
     .attr("x", x)
     .attr("y", y - 25)
     .attr("text-anchor", "middle")
-    .attr("font-size", ".9em")
+    .attr("font-size", ".8em")
     .attr("font-weight", "bold")
-    .text('NO2: ' + d.no2_corregit + ' units');
+    .style('fill', 'black')
+    .text(d.barri + ' (' + d.no2_corregit + ' µg/m3 - ' + d.tipus + ')')
+    ;
 
+    console.log(d);
     //Opcio opacity
     //d3.select(this).style("opacity", "1.0");
     //Opcio color

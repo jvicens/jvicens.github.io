@@ -58,23 +58,47 @@
 
 						<!-- Post -->
 							<section class="post">
-								<p><b>Air pollution levels in Barcelona (2018).</b> Mapping all sampler locations
-																					(n = 725). It includes outdoor
-																					locations (n = 671), playgrounds
-																					(n = 31), inside school buildings
-																					mostly inside classrooms (n = 23)
-																					with color code based on their annualized NO2 concentration level.
-									</p>
+								<header class="major">
+									<!--<span class="date">March 1st, 2018</span>-->
+									<h4>Research Paper</h4>
+									<h1 style="text-transform: none;"><a href="https://www.sciencedirect.com/science/article/pii/S0048969721028217?via%3Dihub">«Large-scale citizen science provides
+																	  high-resolution nitrogen dioxide values and
+																				 health impact while enhancing
+																				 community knowledge and collective action»</a></h1>
+								</header>
+								<p>This paper has been published on <a href="https://www.sciencedirect.com/science/article/pii/S0048969721028217?via%3Dihub" target="_blank">Science of The Total Environment</a>
+								as a result of the «<a href="https://www.cccb.org/en/activities/file/xair/228302" target="_blank">xAire</a>» project, a pop-up citizen science initiative within <a href="https://www.cccb.org/en/seasons/file/city-station/227726" target="">The City Station</a> as part of the «<a href="https://www.cccb.org/en/exhibitions/file/after-the-end-of-the-world/224747" target="_blank">After the end of the world</a>» exhibition at the Centre de Cultura
+								Contemporània de Barcelona. In xAire participated more than 1,650 individuals, 10 professional research scientists, about 36 teachers, 4 non-scientific organizations and
+								families and students from 18 primary public schools distributed among the 10 districts of the city of Barcelona.
+								<br><br>
+								Hereunder some images that summarize the collective and participatory research
+								   focused on the measurement of NO2 levels in Barcelona during 2018.
+								</p>
+								<div class="image main"><a href="xaire-points.html"
+														   style="border-bottom: solid 0px"><img
+										src="mappoints_01.png"
+																							  alt="" /></a></div>
+								<div class="image caption post"><h6 style="text-align: justify;"><b>Map with all outdoor sampler locations (n = 671) with color code based on their
+																								 annualized NO2 concentration level.</b> &copy; Julián Vicens</h6></div>
+								<br>
+								<div class="image main"><img src="distribution_02.png" alt="" /></div>
+								<div class="image caption post"><h6 style="text-align: justify;"><b>Distribution of NO2
+																								 levels based on the sampler location:
+														background (100 m away from streets with motorized vehicles)
+																								 or traffic.</b> &copy; Julián Vicens</h6></div>
+								<br>
+								<div class="image main"><img src="boxplot_03.png" alt="" /></div>
+								<div class="image caption post"><h6 style="text-align: justify;"><b>Distribution of NO2 levels based
+																					on sampler location
+																					(background and traffic) and
+																					district. The boxplot shows the
+																					median, quartiles (1st and 3rd) and
+																								 outliers.</b>
+																					&copy;
+																					Julián
+																							  Vicens</h6></div>
 
-									<!--
-									<a id='All' class="button primary small" onclick="updateData(this.id)">All</a>
-									<a id='Traffic' class="button primary small" onclick="updateData(this.id)">Traffic</a>
-									<a id='Background' class="button primary small" onclick="updateData(this.id)">Background</a>
-									<a id='Schools' class="button primary small" onclick="updateData(this.id)">Schools</a>
-									-->
 
-									<div class="svg-container"; id="chart"></div>
-									<div class="image caption article"><h6>&copy; Julian Vicens</h6></div>
 
 						</section>
 					</div>
@@ -105,12 +129,5 @@
 			<script src="../../assets/js/breakpoints.min.js"></script>
 			<script src="../../assets/js/util.js"></script>
 			<script src="../../assets/js/main.js"></script>
-			<!-- D3.js -->
-			<script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
-			<script src="https://d3js.org/topojson.v1.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
-			<script src="https://unpkg.com/d3-geo-scale-bar@0.2.0/build/d3-geo-scale-bar.js"></script>
-			<script src="xaire-points.js"></script>
-
 	</body>
 </html>
