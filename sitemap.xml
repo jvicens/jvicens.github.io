@@ -3,82 +3,82 @@
  <!-- Sitemap -->
 <url>
   <loc>https://jvicens.github.io/</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://jvicens.github.io/index.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://jvicens.github.io/about.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://jvicens.github.io/work.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://jvicens.github.io/publications.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://jvicens.github.io/research.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://jvicens.github.io/projects.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://jvicens.github.io/services.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jvicens.github.io/blog.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://jvicens.github.io/about.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://jvicens.github.io/articles/mediafutures.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://jvicens.github.io/articles/mobius.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://jvicens.github.io/articles/xaire.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://jvicens.github.io/articles/theclimategame.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://jvicens.github.io/articles/mobilityepidemic.html</loc>
+  <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://jvicens.github.io/articles/011118-climate.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://jvicens.github.io/articles/010318-thesis.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://jvicens.github.io/articles/011217-patterns.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>https://jvicens.github.io/articles/010911-audio3d.html</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://jvicens.github.io/documents/Vicens2018b.pdf</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jvicens.github.io/documents/Vicens2018a.pdf</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jvicens.github.io/documents/Cigarini2018.pdf</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jvicens.github.io/documents/Poncela2016.pdf</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jvicens.github.io/documents/phd_v2.pdf</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://jvicens.github.io/documents/patterns_poster.pdf</loc>
-  <lastmod>2019-08-05T13:41:24+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  <priority>0.50</priority>
 </url>
 </urlset>
