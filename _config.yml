@@ -10,7 +10,8 @@ social:
   links:
     - https://twitter.com/julianvicens
     - https://www.linkedin.com/in/julian-vicens-b17a1824/
-twitter: 
+twitter:
   username: julianvicens
-plugins:
-  - jekyll-seo-tag
+# Note: SEO meta tags (description, canonical, OpenGraph, Twitter Card, JSON-LD)
+# are maintained by hand in each page's <head>, not via jekyll-seo-tag — none
+# of these .html files use Jekyll front matter, so the plugin would be a no-op.
