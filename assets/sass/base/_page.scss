@@ -46,3 +46,14 @@
 			}
 
 	}
+
+	// Keep width/height HTML attributes (used for layout-shift prevention) from
+	// forcing a fixed pixel value on whichever axis isn't already constrained by
+	// a more specific rule (e.g. .image's width:100% classes, or an inline
+	// max-height) — without this, that axis renders at its literal attribute
+	// value instead of scaling, distorting the image.
+		img {
+			width: auto;
+			height: auto;
+			max-width: 100%;
+		}
